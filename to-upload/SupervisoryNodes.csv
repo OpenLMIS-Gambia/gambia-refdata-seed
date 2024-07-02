@@ -1,0 +1,7 @@
+code, facility, name, description, parentNode, childNodes
+GMB,GMB,Gambia,,,
+CRR,CRR,Central River Region,,GMB,
+URR,URR,Upper River Region,,GMB,
+LRR,LRR,Lower River Region,,GMB,
+NBR,NBR,North Bank Region,,GMB,
+WHR,WHR,Western Coast Region,,GMB,

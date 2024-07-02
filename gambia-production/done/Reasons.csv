@@ -1,0 +1,9 @@
+id,name,category,type
+,"Received, not documented (+)",adjustment,credit
+,"Issued, not supplied (+)",adjustment,credit
+,"Supplied, not documented (-)",adjustment,debit
+,Broken (-),adjustment,debit
+,Missing Labels (-),adjustment,debit
+,Incoming Supply (+),transfer,credit
+,Transfer (+),transfer,credit
+,Return (+),transfer,credit

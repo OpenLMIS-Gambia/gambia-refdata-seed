@@ -1,0 +1,1037 @@
+﻿productCode,name,description,netContent,dispensingUnit, packRoundingThreshold,packSize, roundToZero,netContent,productCode
+EM0001,Isoflurane 5%,,1,dispensingUnit:each,1,1,TRUE,1,EM0001
+EM0002,Ketamine 50mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0002
+EM0003,Oxygen (medical grade) inhalation,,1,dispensingUnit:each,1,1,TRUE,1,EM0003
+EM0004,Propofol 1%,,1,dispensingUnit:each,1,1,TRUE,1,EM0004
+EM0005,"Thiopentone Sodium 0.5g powder for injection,",,1,dispensingUnit:each,1,1,TRUE,1,EM0005
+EM0006,Bupivacaine 0.5% + Glucose 8% injection (Spinal),,1,dispensingUnit:each,1,1,TRUE,1,EM0006
+EM0007,Lignocaine 1% injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0007
+EM0008,Lignocaine 2% injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0008
+EM0009,"Lignocaine 2% + Adrenaline 1.100,000 injection",,1,dispensingUnit:each,1,1,TRUE,1,EM0009
+EM0010,"Lignociane 2% +Adrenaline 1: 80,001",,1,dispensingUnit:each,1,1,TRUE,1,EM0010
+EM0011,Lignocaine 5% + Dextrose 7.5% injcetion (spinal),,1,dispensingUnit:each,1,1,TRUE,1,EM0011
+EM0012,Atropine 0.5mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0012
+EM0013,Ephiderine 30mg/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0013
+EM0014,Midazolam 5mg/5ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0014
+EM0015,Aspirin (Acetylsalicylic Acid) 300mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0015
+EM0016,Diclofenac 50mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0016
+EM0017,Diclofenac 75mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0017
+EM0018,Ibuprofen 200mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0018
+EM0019,Paracetamol (Acetaminophen) 100mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0019
+EM0020,Paracetamol (Acetaminophen) 500mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0020
+EM0021,Paracetamol (Acetaminophen) 125mg/5ml syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0021
+EM0022,Paracetamol (Acetaminophen) 125mg suppositories,,1,dispensingUnit:each,1,1,TRUE,1,EM0022
+EM0023,Fentanyl 0.5mg/5ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0023
+EM0024,Morphine 15mg/ml 2ml ampule,,1,dispensingUnit:each,1,1,TRUE,1,EM0024
+EM0025,Morphine Sulphate 10mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0025
+EM0026,Pentazocine 30mg inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0026
+EM0027,Pethidine 50mg/ml amp,,1,dispensingUnit:each,1,1,TRUE,1,EM0027
+EM0028,Tramadol Hydrochloride 50mg tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0028
+EM0029,Adrenaline (Epinephrine) 1mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0029
+EM0030,Chlorpheniramine 4mg tablets ,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0030
+EM0031,"Dexamethasone Sodium Phosphate 4mg/ml injcetion,",,1,dispensingUnit:each,1,1,TRUE,1,EM0031
+EM0032,Hydrocortisone Sodium Succinate 100mg powder for injection amps,,1,dispensingUnit:each,1,1,TRUE,1,EM0032
+EM0033,Prednisole 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0033
+EM0034,Promethazine 25mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0034
+EM0035,Promethazine 5mg/5ml syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0035
+EM0036,Promethazine 25mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0036
+EM0037,Activated Charcoal Powder,,1,dispensingUnit:each,1,1,TRUE,1,EM0037
+EM0039,Calcium gluconate 10% inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0039
+EM0040,Desferoxamine 500mg inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0040
+EM0041,Naloxone 0.4mg/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0041
+EM0042,N Acetyl cysteine 200mg/ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0042
+EM0043,Protamine sulphate 10mg/ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0043
+EM0044,Carbamazapine 200mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0044
+EM0045,Diazepam 5mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0045
+EM0046,Diazepam 5mg Tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0046
+EM0047,Diazepam rectal supp,,1,dispensingUnit:each,1,1,TRUE,1,EM0047
+EM0048,Phenobarbitone 30mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0048
+EM0049,Phenobartbitone 200mg/2ml Inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0049
+EM0050,Phenytoin 100mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0050
+EM0051,Phenytoin 50mg/ml Inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0051
+EM0052,Sodium Valproate 200mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0052
+EM0053,Albendazole 200mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0053
+EM0054,Levamisole 40mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0054
+EM0055,Mebendazole 100mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0055
+EM0056,Niclosamide 500mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0056
+EM0057,Amoxicillin 250mg capsules,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0057
+EM0058,Amoxicillin 125mg/5ml powder for syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0058
+EM0059,"Ampicillin 500mg powder for injection, vial",,1,dispensingUnit:each,1,1,TRUE,1,EM0059
+EM0060,Ampiclox 500mg capsules,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0060
+EM0061,Ampiclox 250mg/5ml syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0061
+EM0062,Benzathine penicillin 1.44 g/2.4 MU powder for injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0062
+EM0063,Benzylpenicillin 600mg/1 MU powder for injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0063
+EM0064,Cloxacillin 250mg tablets/capsules,,1,dispensingUnit:each,1,1,TRUE,1,EM0064
+EM0065,Cloxacillin 500mg powder for injection,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0065
+EM0066,Cloxacillin 125mg/5ml powder for syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0066
+EM0067,Flucloxacillin 250mg capsules,,1,dispensingUnit:each,1,1,TRUE,1,EM0067
+EM0068,Flucloxacillin 500mg powder for injection vial,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0068
+EM0069,Phonoxymethylpenicillin (Penicillin V) 250mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0069
+EM0070,Procaine Penicillin Fortified 4MU powder for injection (3MU+1MU),,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0070
+EM0071,Azithromycin 200mg/5ml syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0071
+EM0072,Azithromycin 250mg tablets,,20,dispensingUnit:each,1,20,TRUE,20,EM0072
+EM0073,Cefuroxime 750mg powder for Injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0073
+EM0074,"Ceftriaxone 500mg powder for injection, vial",,1,dispensingUnit:each,1,1,TRUE,1,EM0074
+EM0075,Ceftazidime 1gm inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0075
+EM0076,Chloramphenicol 250mg capsules,,1,dispensingUnit:each,1,1,TRUE,1,EM0076
+EM0077,"Chloramphenicol 1g, powder for injection",,100,dispensingUnit:each,1,100,TRUE,100,EM0077
+EM0078,Ciprofloxacin 250mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0078
+EM0079,Ciprofloxacin 2mg/ml 100ml vial,,1,dispensingUnit:each,1,1,TRUE,1,EM0079
+EM0080,Clindamycin 150mg inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0080
+EM0081,Clindamycin tablets 300mg,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0081
+EM0082,Doxycycline 100mg tablets/capsules,,1,dispensingUnit:each,1,1,TRUE,1,EM0082
+EM0083,Erythromycin 250mg (as stearate) tablets/capsules,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0083
+EM0084,Erythromycin 125mg/5ml (as ethyl succinate) syrup,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0084
+EM0085,Gentamycin 40mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0085
+EM0089,Nitrofurantoin 100mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0089
+EM0090,Sulphamethozaxole 400mg/Trimethoprim 80mg tablets (Co-trimoxazole),,1,dispensingUnit:each,1,1,TRUE,1,EM0090
+EM0091,Sulphamethozaxole 100mg/Trimethoprim 20mg tablets (Co-trimoxazole),,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0091
+EM0092,Sulphamethozaxole 200mg/Trimethoprim 40mg per 5ml suspension,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0092
+EM0093,Vancomycin 125mg capsules,,1,dispensingUnit:each,1,1,TRUE,1,EM0093
+EM0094,Vancomycin 1g inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0094
+EM0096,Dapsone 100mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0096
+EM0112,Clotrimazole 500mg Vaginal tablets with applicator,,1,dispensingUnit:each,1,1,TRUE,1,EM0112
+EM0113,Clotrimazole 1% cream,,1,dispensingUnit:each,1,1,TRUE,1,EM0113
+EM0114,Fluconazole 50mg Capsule,,100,dispensingUnit:each,1,100,TRUE,100,EM0114
+EM0115,Griseofulvin 125mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0115
+EM0116,Griseofulvin 250mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0116
+EM0117,Ketoconazole 200mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0117
+EM0118,Ketoconazole cream 1%,,1,dispensingUnit:each,1,1,TRUE,1,EM0118
+EM0119,Miconazole 2% cream,,1,dispensingUnit:each,1,1,TRUE,1,EM0119
+EM0120,"Nystatin 100,000 iu oral suspension,",,1,dispensingUnit:each,1,1,TRUE,1,EM0120
+EM0121,"Nystatin 500,000 iu tablets",,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0121
+EM0122,"Nystatin 100,000 iu tablets",,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0122
+EM0123,Metronidazole 250mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0123
+EM0124,Metronidazole 125mg/5ml powder for syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0124
+EM0125,"Metronidazole 5mg/ml injection, 100ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0125
+EM0126,Metronidazole 500mg vaginal tablets,,3,dispensingUnit:each,1,3,TRUE,3,EM0126
+EM0134,Azathioprine 50mg tabs,,100,dispensingUnit:each,1,100,TRUE,100,EM0134
+EM0135,"Cisplatin 1mg/ml injection, 50ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0135
+EM0136,Cyclophosphamide 500mg powder for injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0136
+EM0137,"Cytarabine 100mg/ml injection, iml",,1,dispensingUnit:each,1,1,TRUE,1,EM0137
+EM0138,Doxorubicin 2mg/ml for inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0138
+EM0139,"Fluorouracil 25mg/ml injcetion, 10ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0139
+EM0140,Letrozole 2.5mg tabs,,100,dispensingUnit:each,1,100,TRUE,100,EM0140
+EM0141,Mercaptopurine 50mg tabs,,100,dispensingUnit:each,1,100,TRUE,100,EM0141
+EM0142,Methotrexate 10mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0142
+EM0143,Methotrexate 50mg/2ml injcetion,,1,dispensingUnit:each,1,1,TRUE,1,EM0143
+EM0144,Procarbazine 50mg capsules/tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0144
+EM0145,Tamoxifen 20mg tabs,,100,dispensingUnit:each,1,100,TRUE,100,EM0145
+EM0146,Vincristine 50mg/2ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0146
+EM0147,"Dexamethasone Sodium Phosphate 4mg/ml injcetion, 1ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0147
+EM0148,Hydrocortisone Sodium Succinate 100mg powder for injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0148
+EM0149,Prednisolone 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0149
+EM0150,Tamoxifen 10mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0150
+EM0151,Benzhexol 2mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0151
+EM0152,Benztropine mesylate 1mg/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0152
+EM0153,FerrosFumerate 140mg/5ml syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0153
+EM0154,Ferrous Sulphate 200mg (60mg Ferrous iron) tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0154
+EM0155,Ferrous Sulphate 200mg/Folic Acid 0.25mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0155
+EM0156,Folic Acid 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0156
+EM0157,"Cyanacobalamin (Vitamin B12 ) 1mg/ml injcetion, 1ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0157
+EM0158,"Iron Dextran 50mg ferrous iron/ml injection, 5ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0158
+EM0159,Aspirin (Acetylsalicylic acid) 75mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0159
+EM0161,Dipyridamole 25mg  tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0161
+EM0162,"Heparin inj 500 iu/ml injcetion, 5ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0162
+EM0163,"Phytomenadione (Vitamin K) 10mg/ml injcetion, 1ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0163
+EM0164,Warfarin 1mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0164
+EM0165,Tranexamic acid 500mg inj 5ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0165
+EM0166,"Dextran ""70"" 6% Sodium Chloride 0.9% infusion,",,1,dispensingUnit:each,1,1,TRUE,1,EM0166
+EM0167,"GlycerylTrinitrate (Nitroglycerine) 0.5mCg tablets, Sublingual",,100,dispensingUnit:each,1,100,TRUE,100,EM0167
+EM0168,GlycerylTrinitrate (Nitroglycerine) 1mg/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0168
+EM0169,IsosorbideDinitrate 10mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0169
+EM0170,Nifedipine 10mg ablets /capsules,,100,dispensingUnit:each,1,100,TRUE,100,EM0170
+EM0171,Propranolol 40mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0171
+EM0172,Verapamil 40mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0172
+EM0173,Amiodarone 200mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0173
+EM0174,Atenolol 50mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0174
+EM0178,Amlodipine 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0178
+EM0179,Captopril 25mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0179
+EM0180,Bendrofluazide 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0180
+EM0181,Enalapril 5mg tabs,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0181
+EM0184,Hydralazine 25mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0184
+EM0185,"Hydralazine 20mg/ml injcetion, 1ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0185
+EM0186,Hydrochlorothiazide 25mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0186
+EM0187,Methyldopa 250mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0187
+EM0188,Nifedipine 10mg tablets/capsules,,100,dispensingUnit:each,1,100,TRUE,100,EM0188
+EM0190,Propanolol 1mg/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0190
+EM0191,Spironolactone 25mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0191
+EM0193,Digoxin 0.25mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0193
+EM0194,"Dopamine 40mg/ml injcetion, 5ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0194
+EM0195,Benzoic Acid 6% Salicylic Acid 3% Ointment (Whitfields Ointment),,1,dispensingUnit:each,1,1,TRUE,1,EM0195
+EM0198,Chlorhexidine 1% antiseptic cream,,1,dispensingUnit:each,1,1,TRUE,1,EM0198
+EM0199,Crystal Violet (Gentian Violet) paint,,1,dispensingUnit:each,1,1,TRUE,1,EM0199
+EM0200,Neomycin 0.5% /Bacitracin 500iu/g Ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0200
+EM0201,Silver Sulphadiazine 1% cream,,1,dispensingUnit:each,1,1,TRUE,1,EM0201
+EM0202,Tetracycline 3% ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0202
+EM0203,Betamethasone 0.1% Ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0203
+EM0204,Calamine Lotion BP,,1,dispensingUnit:each,1,1,TRUE,1,EM0204
+EM0205,Hydrocortisone 1% cream,,1,dispensingUnit:each,1,1,TRUE,1,EM0205
+EM0206,Lubricating Jelly,,1,dispensingUnit:each,1,1,TRUE,1,EM0206
+EM0207,"Paraffin, soft White BP",,1,dispensingUnit:each,1,1,TRUE,1,EM0207
+EM0208,Zinc Oxide 10% Ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0208
+EM0209,"Silver Nitrate 95% caustic pencil, single",,1,dispensingUnit:each,1,1,TRUE,1,EM0209
+EM0210,Podophyllin 2%,,1,dispensingUnit:each,1,1,TRUE,1,EM0210
+EM0211,Benzyl Benzoate 25% application,,1,dispensingUnit:each,1,1,TRUE,1,EM0211
+EM0213,"Fluprescein, diagnostic eye strips",,1,dispensingUnit:each,1,1,TRUE,1,EM0213
+EM0214,Tropicamide 1% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0214
+EM0215,Urografin 76%,,1,dispensingUnit:each,1,1,TRUE,1,EM0215
+EM0216,Gastrografin,,1,dispensingUnit:each,1,1,TRUE,1,EM0216
+EM0217,CT contrast medium,,1,dispensingUnit:each,1,1,TRUE,1,EM0217
+EM0218,Barium Sulphate garnules for suspension,,1,dispensingUnit:each,1,1,TRUE,1,EM0218
+EM0219,Cetrimide 15% /Chlorhexidine 1.5% concentrate,,1,dispensingUnit:each,1,1,TRUE,1,EM0219
+EM0220,Chlorhexidine 5% concentrate,,1,dispensingUnit:each,1,1,TRUE,1,EM0220
+EM0221,Povidone Iodine 10% aqueous solution,,1,dispensingUnit:each,1,1,TRUE,1,EM0221
+EM0222,Glutaraldehyde 2% aqueous solution,,1,dispensingUnit:each,1,1,TRUE,1,EM0222
+EM0223,Phenolic disinfectant(Lysol),,1,dispensingUnit:each,1,1,TRUE,1,EM0223
+EM0225,Furosemide 40mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0225
+EM0226,"Frusemide 10mg/ml injection, 2mls amp",,1,dispensingUnit:each,1,1,TRUE,1,EM0226
+EM0227,Hydrochlorothiazide 50mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0227
+EM0229,Magnesium Trisilicate Compound tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0229
+EM0230,Omeprazole 10mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0230
+EM0231,Omeprazole 40mg inj. Vial,,1,dispensingUnit:each,1,1,TRUE,1,EM0231
+EM0232,Ranitidine 150mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0232
+EM0233,"Ranitidine 25mg/ml, 2ml injection",,1,dispensingUnit:each,1,1,TRUE,1,EM0233
+EM0234,Metoclopramide 10mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0234
+EM0235,"Metoclopramide 5mg/ml injection, 2ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0235
+EM0239,Benzocian 2%/Butamben 2%/Tannic acid 10% (Antihaemorrhoidal) Ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0239
+EM0240,Bismuth subgallate 100mg/Zinc Oxide 100mg/Lignocian 60mg) suppositories,,1,dispensingUnit:each,1,1,TRUE,1,EM0240
+EM0242,HyoscineButylbromide 10mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0242
+EM0243,HyoscineButylbromide 10mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0243
+EM0244,Bisacodyl 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0244
+EM0245,Lactulose 3.1g/ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0245
+EM0246,Oral Rehydration Salts (ORS),,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0246
+EM0247,Zinc sulphate 10mg tabs,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0247
+EM0248,Dexamethasone Sodium Phosphate 4mg/ml,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0248
+EM0250,Prednisolone 5mg tablets,,50,dispensingUnit:each,1,50,TRUE,50,EM0250
+EM0251,Glibenclamide 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0251
+EM0252,Insulin MIXTARD 100IU/ML injection,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0252
+EM0253,Insulin SOLUBLE100iu/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0253
+EM0254,Metformin 500mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0254
+EM0255,Norethisterone 5mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0255
+EM0256,Carbimazole 5mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0256
+EM0257,Thyroxine 0.1mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0257
+EM0258,Lugols iodine,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0258
+EM0259,"Tuberculin, purified protein derivative",,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0259
+EM0260,Rabies Immunoglobulins 150iu/ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0260
+EM0261,"Anti tetanus immunoglobulin, human 500iu",,1,dispensingUnit:each,1,1,TRUE,1,EM0261
+EM0262,Anti D Immunoglobulin 250mcg,,1,dispensingUnit:each,1,1,TRUE,1,EM0262
+EM0263,"Snake venom antiserum, Gambia",,1,dispensingUnit:each,1,1,TRUE,1,EM0263
+EM0264,Neostigmine 2.5mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0264
+EM0265,Pancuronium bromide 2mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0265
+EM0266,Suxamethonium 50mg/ml injcetion,,1,dispensingUnit:each,1,1,TRUE,1,EM0266
+EM0267,Aciclovir 3% eye ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0267
+EM0268,Aciclovir eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0268
+EM0269,Chloramphenicol 0.5% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0269
+EM0270,Ciprofloxacin 0.3% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0270
+EM0271,Gentamycin 0.3% Eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0271
+EM0272,Gentamycin/Neomycin eye ointment 0.3%/0.5%Hyalase injection 1500IU,,1,dispensingUnit:each,1,1,TRUE,1,EM0272
+EM0273,Idoxuridine 0.5% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0273
+EM0274,Natamycin drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0274
+EM0275,Tetracycline 1% eye ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0275
+EM0276,Dexamethazone 0.1% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0276
+EM0277,Prednisolone 0.5% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0277
+EM0278,Sodium cromoglycate 2% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0278
+EM0279,Ethanol Absolute 99.5% injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0279
+EM0280,Amethocaine (Tetracaine) 1% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0280
+EM0281,Acetazolamide 250mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0281
+EM0282,Pilocarpine 2% eye drops,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0282
+EM0283,Timolol 0.25% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0283
+EM0284,Atropine 1% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0284
+EM0285,Cyclopentolate 0.5% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0285
+EM0287,Ergometrine 0.5mg /ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0287
+EM0288,Ergometrine 0.5mg TAB,,1,dispensingUnit:each,1,1,TRUE,1,EM0288
+EM0289,Misoprostol 200mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0289
+EM0290,Oxytocin 10iu/ml,,100,dispensingUnit:each,1,100,TRUE,100,EM0290
+EM0291,"Magnesium Sulphate 50% injection, vial",,100,dispensingUnit:each,1,100,TRUE,100,EM0291
+EM0292,Amitriptyline 25mg,,1,dispensingUnit:each,1,1,TRUE,1,EM0292
+EM0293,Chlorpromazine 25mg/ml injection,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0293
+EM0294,Chlorpromazine 25mg tablet,,1,dispensingUnit:each,1,1,TRUE,1,EM0294
+EM0295,Chlorpromazine 100mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0295
+EM0298,Fluphenazinedecanoate 25mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0298
+EM0299,Haloperidol 5mg /ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0299
+EM0300,Haloperidol 5mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0300
+EM0301,Imipramine 25mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0301
+EM0302,Risperidone 2mg tabs,,100,dispensingUnit:each,1,100,TRUE,100,EM0302
+EM0303,Thioridazine 50mg tab,,100,dispensingUnit:each,1,100,TRUE,100,EM0303
+EM0304,Trihexylphenidyl 2mg tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0304
+EM0306,Aminophylline 25mg/ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0306
+EM0307,Aminophylline 100mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0307
+EM0308,Beclomethasone 50mcg/dose inhaler,,1,dispensingUnit:each,1,1,TRUE,1,EM0308
+EM0309,Ipratropium 250mcg/ml nebulizer,,1,dispensingUnit:each,1,1,TRUE,1,EM0309
+EM0310,Salbutamol 4mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0310
+EM0311,Salbutamol 2mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0311
+EM0312,Salbutamol 2mg/5ml syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0312
+EM0313,Salbutamol 2mg/ml respiratory solution,,1,dispensingUnit:each,1,1,TRUE,1,EM0313
+EM0314,Salbutamol 50mcg/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0314
+EM0315,Salbutamol 100mcg/dose inhaler,,1,dispensingUnit:each,1,1,TRUE,1,EM0315
+EM0317,Calcium Gluconate 10% injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0317
+EM0318,Glucose (Dextrose) 50% Isotonic injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0318
+EM0319,Glucose (Dextrose) 5% hypertonic injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0319
+EM0320,Glucose 5% + Sodium Chloride 0.9% solution,,1,dispensingUnit:each,1,1,TRUE,1,EM0320
+EM0321,Mannitol 10% injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0321
+EM0322,Sodium Bicarbonate 8.4% injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0322
+EM0323,Sodium Chloride 0.9% Intravenous solution,,1,dispensingUnit:each,1,1,TRUE,1,EM0323
+EM0324,Sodium Lactate Compound Intravenous solution,,1,dispensingUnit:each,1,1,TRUE,1,EM0324
+EM0325,Water for injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0325
+EM0326,Ring pessaries (for uterine prolapses),,100,dispensingUnit:each,1,100,TRUE,100,EM0326
+EM0327,Ascorbic Acid (Vitamin C) 100mg,,1,dispensingUnit:each,1,1,TRUE,1,EM0327
+EM0328,Calcium Lactate 300mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0328
+EM0329,Multivitamin tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0329
+EM0330,Multivtamin syrup,,1,dispensingUnit:each,1,1,TRUE,1,EM0330
+EM0331,Phytomenadione 10mg/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0331
+EM0332,Pyridoxine 10mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0332
+EM0334,Thiamine 100mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0334
+EM0335,Vitamin B Compound tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0335
+EM0336,Vitamin B compound Inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0336
+EM0339,Aciclovir 200mg tabs,,1,dispensingUnit:each,1,1,TRUE,1,EM0339
+EM0356,Tamsulosin 400mcg capsule,,100,dispensingUnit:each,1,100,TRUE,100,EM0356
+EM0357,Terazosin 2mg tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0357
+EM0358,Clomiphene citrate 50mg tab,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0358
+EM0359,Antihaemorrhoidal suppositories/ ointment,,1,dispensingUnit:each,1,1,TRUE,1,EM0359
+EM0360,Erythropoietin 4000iu/Vial,,1,dispensingUnit:each,1,1,TRUE,1,EM0360
+EM0361,Total Parental Nutrition,,1,dispensingUnit:each,1,1,TRUE,1,EM0361
+EM0363,Allupurinol 100mg,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0363
+EM0364,Chloroquine 150mg base,,100,dispensingUnit:each,1,100,TRUE,100,EM0364
+EM0365,Albumin 5%,,1,dispensingUnit:each,1,1,TRUE,1,EM0365
+EM0366,Bromocriptine 2.5mg,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0366
+EM0367,Diclofenac 100mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0367
+EM0368,Ibuprofen 400mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0368
+EM0369,Pethidine 100mg/ml amp,,1,dispensingUnit:each,1,1,TRUE,1,EM0369
+EM0370,Phenobarbitone 100mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0370
+EM0371,Mebendazole 500mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0371
+EM0372,Amoxicillin 500mg capsules,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0372
+EM0373,"Ampicillin 1g powder for injection, vial",,1,dispensingUnit:each,1,1,TRUE,1,EM0373
+EM0374,"Ceftriaxone 1gm powder for injection, vial",,20,dispensingUnit:each,1,20,TRUE,20,EM0374
+EM0375,Ciprofloxacin 500mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0375
+EM0376,Warfarin 5mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0376
+EM0378,Nifedipine 20mg tablets/capsules,,100,dispensingUnit:each,1,100,TRUE,100,EM0378
+EM0379,Podophyllin 10%,,1,dispensingUnit:each,1,1,TRUE,1,EM0379
+EM0380,Lactulose 3.7g/ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0380
+EM0381,Chloramphenicol 1.0% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0381
+EM0382,Pilocarpine 4% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0382
+EM0383,Timolol 0.5%eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0383
+EM0384,Cyclopentolate 1% eye drops,,1,dispensingUnit:each,1,1,TRUE,1,EM0384
+EM0385,Thioridazine 100mg tab,,100,dispensingUnit:each,1,100,TRUE,100,EM0385
+EM0386,Mannitol 20% injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0386
+EM0387,Ascorbic Acid (Vitamin C) 500mg,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0387
+EM0388,Pyridoxine 15mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0388
+EM0389,Terazosin 5mg tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0389
+EM0390,Allupurinol 300mg,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0390
+EM0391,Albumin 20%,,1,dispensingUnit:each,1,1,TRUE,1,EM0391
+EM0392,Dipyridamole 100mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,EM0392
+EM0393,Halothane Inhalation liquid,,1,dispensingUnit:each,1,1,TRUE,1,EM0393
+EM0394,Sevoflurane 3% inhalation ,,1,dispensingUnit:each,1,1,TRUE,1,EM0394
+EM0395,Bupivacaine 0.5%  injection ,,1,dispensingUnit:each,1,1,TRUE,1,EM0395
+EM0396,IV Paracetamol 1 g / vial injection ,,1,dispensingUnit:each,1,1,TRUE,1,EM0396
+EM0397,Naproxen 500mg ,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0397
+EM0398,Tramadol Hydrochloride 50mg /ml injection ,,1,dispensingUnit:each,1,1,TRUE,1,EM0398
+EM0399,Cetirizine Hcl 10mg tablet,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0399
+EM0400,Clonazepam 2mg tablet  ,,100,dispensingUnit:each,1,100,TRUE,100,EM0400
+EM0401,Ethosuximide 250mg tablets ,,100,dispensingUnit:each,1,100,TRUE,100,EM0401
+EM0402,Lorazepam 1mg tablet  ,,100,dispensingUnit:each,1,100,TRUE,100,EM0402
+EM0403,Fluoxetine 10mg tablet ,,100,dispensingUnit:each,1,100,TRUE,100,EM0403
+EM0404,Risperidone 4 mg tablet ,,100,dispensingUnit:each,1,100,TRUE,100,EM0404
+EM0405,Thaibendazole 500mg tablets ,,100,dispensingUnit:each,1,100,TRUE,100,EM0405
+EM0406,Diethylcarbamazine 50mg tablets ,,100,dispensingUnit:each,1,100,TRUE,100,EM0406
+EM0407,Ivermectin 3mg tablet ,,100,dispensingUnit:each,1,100,TRUE,100,EM0407
+EM0408,Praziquantel 600mg tablets  ,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0408
+EM0409,"Ampicillin-sulbactam 500mg powder for injection, vial ",,1,dispensingUnit:each,1,1,TRUE,1,EM0409
+EM0410,"Ampicillin-sulbactam 1g powder for injection, vial ",,1,dispensingUnit:each,1,1,TRUE,1,EM0410
+EM0411,Fluconazole 150mg Capsule ,,100,dispensingUnit:each,1,100,TRUE,100,EM0411
+EM0412,Fluconazole 200mg Capsule ,,100,dispensingUnit:each,1,100,TRUE,100,EM0412
+EM0413,Carmustine 100 mg / vial  ,,1,dispensingUnit:each,1,1,TRUE,1,EM0413
+EM0414,carboplastin 50mg,,100,dispensingUnit:each,1,100,TRUE,100,EM0414
+EM0415,carboplastin150mg ,,100,dispensingUnit:each,1,100,TRUE,100,EM0415
+EM0416,paclitaxel 6mg/ml  ,,100,dispensingUnit:each,1,100,TRUE,100,EM0416
+EM0417,Etoposide 20mg/ml ,,100,dispensingUnit:each,1,100,TRUE,100,EM0417
+EM0418,Actinomycin D ,,100,dispensingUnit:each,1,100,TRUE,100,EM0418
+EM0419,Folinic acid 10 mg / ml injection  ,,1,dispensingUnit:each,1,1,TRUE,1,EM0419
+EM0420,Folinic acid 15mg / ml injection  ,,1,dispensingUnit:each,1,1,TRUE,1,EM0420
+EM0421,Clopidogrel 75mg ,,100,dispensingUnit:each,1,100,TRUE,100,EM0421
+EM0422,"Heparin 5000 iu/ml injcetion, 5ml ",,1,dispensingUnit:each,1,1,TRUE,1,EM0422
+EM0423,Enoxaparin 40mg/0.4ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0423
+EM0424,Tranexamic acid 500mg tablet ,,100,dispensingUnit:each,1,100,TRUE,100,EM0424
+EM0425,Labetalol 100mg/20ml ,,100,dispensingUnit:each,1,100,TRUE,100,EM0425
+EM0426,Labetalol 200mg tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0426
+EM0427,"Digoxin 0.25mg /ml injcetion, 2ml ",,1,dispensingUnit:each,1,1,TRUE,1,EM0427
+EM0428,Atropine 1mg/ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0428
+EM0429,Dobutamine 5mg / ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0429
+EM0430,Norepinephrine 1 mg / ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0430
+EM0431,"Nystatin 100,000 iu/g Ointment ",,1,dispensingUnit:each,1,1,TRUE,1,EM0431
+EM0432,Permethrin 5% ,,1,dispensingUnit:each,1,1,TRUE,1,EM0432
+EM0433,Iohexal 350 mg / 10 ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0433
+EM0434,Gadolinium 0.5mmol / ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0434
+EM0435,Hydrogen peroxide ,,1,dispensingUnit:each,1,1,TRUE,1,EM0435
+EM0436,Surgical spirit ,,1,dispensingUnit:each,1,1,TRUE,1,EM0436
+EM0437,Odansetron 4mg tablet ,,100,dispensingUnit:each,1,100,TRUE,100,EM0437
+EM0438,Conjugate oestrogen  ,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0438
+EM0439,Provera (medroxyprogesterone acetate) 10mg tablet  ,,100,dispensingUnit:each,1,100,TRUE,100,EM0439
+EM0440,Methimazole 5mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0440
+EM0441,Fentanyl  patch ,,1,dispensingUnit:each,1,1,TRUE,1,EM0441
+EM0442,Terbutaline 5mg tablet/ 1mg injection ,,1,dispensingUnit:each,1,1,TRUE,1,EM0442
+EM0443,Levetiracetam 250mg tablets ,,100,dispensingUnit:each,1,100,TRUE,100,EM0443
+EM0444,"Isoplasma 4% , 500ml",,1,dispensingUnit:each,1,1,TRUE,1,EM0444
+EM0445,Human Menopausal Gonadotropin (HMG)  ,,1,dispensingUnit:each,1,1,TRUE,1,EM0445
+EM0446,Human Chorionic Gonadotropine (HCG) 5000IU/ 150IU/ 75IU  ,,1,dispensingUnit:each,1,1,TRUE,1,EM0446
+EM0447,Medroxyprogesterone Acetate (Sayana- press) 104mg/0.65ml  ,,1,dispensingUnit:each,1,1,TRUE,1,EM0447
+EM0448,Vigabatrin 500mg tablets ,,100,dispensingUnit:each,1,100,TRUE,100,EM0448
+EM0449,Bicalutamide 150mg tablet ,,100,dispensingUnit:each,1,100,TRUE,100,EM0449
+EM0450,Glycopyrrolate 0.2 mg / ml injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0450
+EM0451,Sodium Valproate syrup 200mg/5mls ,,1,dispensingUnit:each,1,1,TRUE,1,EM0451
+EM0452,F-100 Therapeutic Milk 114g,,1,dispensingUnit:each,1,1,TRUE,1,EM0452
+EM0453,F-75 Therapeutic Milk - 102.5g,,1,dispensingUnit:each,1,1,TRUE,1,EM0453
+EM0455,Plumpy Nut,,1,dispensingUnit:each,1,1,TRUE,1,EM0455
+EM0456,"Retinol 100,000IU Soft Get Caps (500 Cap)",,500,dispensingUnit:each,1,500,TRUE,500,EM0456
+EM0457,"Retinol 100,000IU Soft gel.Caps/PAC 100",,100,dispensingUnit:each,1,100,TRUE,100,EM0457
+EM0458,"Retinol 200,000IU Soft .Cap (500 Cap)",,500,dispensingUnit:each,1,500,TRUE,500,EM0458
+EM0460,Azithromycin 250mg tablets,,6,dispensingUnit:each,1,6,TRUE,6,EM0460
+EM0462,Water for injection 5ml vial,,1,dispensingUnit:each,1,1,TRUE,1,EM0462
+EM0463,Ibuprofen 400mg tablets,,500,dispensingUnit:each,1,500,TRUE,500,EM0463
+EM0464,Clindamycin 150mg caps,,30,dispensingUnit:each,1,30,TRUE,30,EM0464
+EM0465,Erythromycin 200mg/5mls. 100ml bottle,,1,dispensingUnit:each,1,1,TRUE,1,EM0465
+EM0467,Mebendazole 500mg tablets,,200,dispensingUnit:each,1,200,TRUE,200,EM0467
+EM0468,MUAC TAPE 11.5 RED,,1,dispensingUnit:each,1,1,TRUE,1,EM0468
+EM0469,Paracetamol 500mg Tablet,,500,dispensingUnit:each,1,500,TRUE,500,EM0469
+EM0470,Amoxicillin 250mg tablet,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0470
+EM0471,"Chlorhexidine Gel 7.1%, 20gm tube",,1,dispensingUnit:each,1,1,TRUE,1,EM0471
+EM0472,Oral Rehydration Salts  (ORS) + Zinc,,1,dispensingUnit:each,1,1,TRUE,1,EM0472
+EM0473,Cotrimoxazole Dispersible Tab 120mg,,100,dispensingUnit:each,1,100,TRUE,100,EM0473
+EM0475,Cefotaxime 1gm Inj Vial,,1,dispensingUnit:each,1,1,TRUE,1,EM0475
+EM0476,"Amoxicillin powder for suspension 125mg/5mls, 60mls bottle",,1,dispensingUnit:each,1,1,TRUE,1,EM0476
+EM0477,Co-trimoxazole 480mg Tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0477
+EM0478,"Azithromycin suspension 200mg/ml, 15mls bottle",,1,dispensingUnit:each,1,1,TRUE,1,EM0478
+EM0479,"Ceftriaxone 1gm powder for injection, vial",,1,dispensingUnit:each,1,1,TRUE,1,EM0479
+EM0480,Amoxicillin 250mg tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0480
+EM0481,"Chloramphenicol 1g, powder for injection",,1,dispensingUnit:each,1,1,TRUE,1,EM0481
+EM0482,"Paracetamol syrup 120mg/5ml, 60mls bottle",,1,dispensingUnit:each,1,1,TRUE,1,EM0482
+EM0483,Absorbent Cotton Wool 500g (Roll),,1,dispensingUnit:each,1,1,TRUE,1,EM0483
+EM0484,Ambu Bag,,1,dispensingUnit:each,1,1,TRUE,1,EM0484
+EM0485,Apron Disposable (80x120cm),,1,dispensingUnit:each,1,1,TRUE,1,EM0485
+EM0486,Bandages 75cm x 5cm (Roll),,1,dispensingUnit:each,1,1,TRUE,1,EM0486
+EM0487,Barium Sulphate Power,,1,dispensingUnit:each,1,1,TRUE,1,EM0487
+EM0488,Bed Sheet with Pillow (Set),,1,dispensingUnit:each,1,1,TRUE,1,EM0488
+EM0489,Blood Glucose Test Meter,,1,dispensingUnit:each,1,1,TRUE,1,EM0489
+EM0490,Blood Glucose Test Meter strips,,50,dispensingUnit:each,1,50,TRUE,50,EM0490
+EM0491,BP Machine (Sphygmomanometer),,1,dispensingUnit:each,1,1,TRUE,1,EM0491
+EM0492,Burette Paedriatric,,1,dispensingUnit:each,1,1,TRUE,1,EM0492
+EM0493,Cannula Size 16G (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0493
+EM0494,Cannula Size 18G (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0494
+EM0495,Cannula Size 20G (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0495
+EM0496,Cannula Size 22G (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0496
+EM0497,Cannula Size 24G (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0497
+EM0498,Catgut Chromic Needle Size 0 (12 Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0498
+EM0499,Catgut Chromic Needle Size 3/0 (12 Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0499
+EM0500,Catheter Foley Size 10 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0500
+EM0501,Catheter Foley Size 12 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0501
+EM0502,Catheter Foley Size 14 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0502
+EM0503,Catheter Foley Size 20 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0503
+EM0504,Catheter Foley Size 22 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0504
+EM0505,Catheter Foley Size 24 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0505
+EM0506,Catheter Foley Size 6 (pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0506
+EM0507,Catheter Foley Size 8 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0507
+EM0508,Catheter Tip Syringe 60ml,,1,dispensingUnit:each,1,1,TRUE,1,EM0508
+EM0509,Dental Needle 27G Long (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0509
+EM0510,Dental Needle 25G Short (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0510
+EM0511,Dosimeter,,1,dispensingUnit:each,1,1,TRUE,1,EM0511
+EM0512,Endotrachael Tube Size 4 UNCUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0512
+EM0513,Endotrachael Tube Size 4.5 UNCUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0513
+EM0514,Endotrachael Tube Size 5 UNCUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0514
+EM0515,Endotrachael Tube Size 5.5 UNCUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0515
+EM0516,Endotrachael Tube Size 6 CUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0516
+EM0517,Endotrachael Tube Size 6.5 CUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0517
+EM0518,Endotrachael Tube Size 7 CUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0518
+EM0519,Endotrachael Tube Size 7.5 CUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0519
+EM0520,Endotrachael Tube Size 8.5 CUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0520
+EM0521,Endotrachael Tube Size 9 CUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0521
+EM0522,Endotrachael Tubes Size 3 UNCUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0522
+EM0523,Endotrachael Tubes Size 3.5 UNCUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0523
+EM0524,Endotrachael Tubes Size 8 CUFFED,,1,dispensingUnit:each,1,1,TRUE,1,EM0524
+EM0525,Examination Gloves - Small (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0525
+EM0526,Examination Gloves - Medium (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0526
+EM0527,Examination Gloves - Large (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0527
+EM0528,Examination Gloves Nitril Non-Sterile Small ,,1,dispensingUnit:each,1,1,TRUE,1,EM0528
+EM0529,Examination Gloves Nitril Non-Sterile Medium,,1,dispensingUnit:each,1,1,TRUE,1,EM0529
+EM0530,Examination Gloves Nitril Non-Sterile Large ,,1,dispensingUnit:each,1,1,TRUE,1,EM0530
+EM0531,Feeding Tube Size 12 (PCS),,1,dispensingUnit:each,1,1,TRUE,1,EM0531
+EM0532,Feeding Tube Size 14 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0532
+EM0533,Feeding Tube Size 16 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0533
+EM0534,Feeding Tube size 18 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0534
+EM0535,Feeding Tube Size 20 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0535
+EM0536,Heavy Duty Gloves,,1,dispensingUnit:each,1,1,TRUE,1,EM0536
+EM0537,Infusion Giving Set (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0537
+EM0538,Infusion Pump,,1,dispensingUnit:each,1,1,TRUE,1,EM0538
+EM0539,Lead Apron,,1,dispensingUnit:each,1,1,TRUE,1,EM0539
+EM0540,Light Operating Mobile,,1,dispensingUnit:each,1,1,TRUE,1,EM0540
+EM0541,Mammography (set),,1,dispensingUnit:each,1,1,TRUE,1,EM0541
+EM0542,Medicine Bag 8 x 10cm (100Pcs),,100,dispensingUnit:each,1,100,TRUE,100,EM0542
+EM0543,Non Aboorbable Surgical Sutures 3 Nylon (12 pc),,1,dispensingUnit:each,1,1,TRUE,1,EM0543
+EM0544,Non Absorbable Surgical Suture Nylon 9/0 (12 pc),,1,dispensingUnit:each,1,1,TRUE,1,EM0544
+EM0545,Non Absorbable Surgical Sutures Nylon 10/0 (12 pc),,1,dispensingUnit:each,1,1,TRUE,1,EM0545
+EM0546,Non-Rebreather Mask for Oxygen- Paed.,,1,dispensingUnit:each,1,1,TRUE,1,EM0546
+EM0547,Non-Rebreather Mask for Oxygen- Adult ,,1,dispensingUnit:each,1,1,TRUE,1,EM0547
+EM0548,Oxygen Concentrator,,1,dispensingUnit:each,1,1,TRUE,1,EM0548
+EM0549,Plaster Of Paris 10cm (Roll),,1,dispensingUnit:each,1,1,TRUE,1,EM0549
+EM0550,Plaster Of Paris 15cm (Roll),,1,dispensingUnit:each,1,1,TRUE,1,EM0550
+EM0551,"Polydioxanone Monofilament, Violet Gauze 3.0 (2/0) 70cm (12 pc)",,1,dispensingUnit:each,1,1,TRUE,1,EM0551
+EM0552,Polydioxanone(PDS) 2/0 CUTTING (12 pc),,1,dispensingUnit:each,1,1,TRUE,1,EM0552
+EM0553,Polygalactin Braided O (12 pc),,1,dispensingUnit:each,1,1,TRUE,1,EM0553
+EM0554,Polygalactin Braided Size 2/0 (12 pc),,1,dispensingUnit:each,1,1,TRUE,1,EM0554
+EM0555,"Polyglactin 910 Braided, Violet Gauge 5.0 (1) 75cm (12 pc)",,1,dispensingUnit:each,1,1,TRUE,1,EM0555
+EM0556,Polyglactin Braided Violet Gauge 5.0 (2) (12 Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0556
+EM0557,Polypropylene Monofilament 3/0 (12 pc),,1,dispensingUnit:each,1,1,TRUE,1,EM0557
+EM0558,Polypropylene Monofilament Size 0 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0558
+EM0559,Polypropylene Monofilament Size 1 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0559
+EM0560,Polypropylene Monofilament Size 2 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0560
+EM0561,Polypropylene Monofilament Size 2/0 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0561
+EM0562,"Receptacle, waste, pedal action, 20L",,1,dispensingUnit:each,1,1,TRUE,1,EM0562
+EM0563,Refrigrator - Electrical/ Gas,,1,dispensingUnit:each,1,1,TRUE,1,EM0563
+EM0564,Resuscitator hand operated child,,1,dispensingUnit:each,1,1,TRUE,1,EM0564
+EM0565,"Resuscitator, hand- oper adult",,1,dispensingUnit:each,1,1,TRUE,1,EM0565
+EM0566,"Scissors, Deaver, 140mm straight, s/b",,1,dispensingUnit:each,1,1,TRUE,1,EM0566
+EM0567,Silk Braided (0) Cutting (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0567
+EM0568,Silk Braided (1) Round Bodied (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0568
+EM0569,Silk Braided (2.0) Cutting (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0569
+EM0570,Silk Braided (2.0) Round Bodied (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0570
+EM0571,Silk Braided (3.0) Round Bodied (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0571
+EM0572,Sphygmomanometer Anraiod  Pead (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0572
+EM0573,Sphygmomanometer Anraiod  Adult (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0573
+EM0574,Sphygmomanometer Digital  Pead (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0574
+EM0575,Sphygmomanometer Digital  Adult (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0575
+EM0576,Spinal Needle 22G (NEEDLE),,1,dispensingUnit:each,1,1,TRUE,1,EM0576
+EM0577,Stethoscope (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0577
+EM0578,"Stethoscope Foetal Obstetical, Pinard Monoaural",,1,dispensingUnit:each,1,1,TRUE,1,EM0578
+EM0579,Midewifery Kit (Delivery Kit),,1,dispensingUnit:each,1,1,TRUE,1,EM0579
+EM0580,Vaginal Speculum,,1,dispensingUnit:each,1,1,TRUE,1,EM0580
+EM0581,Neubilizer,,1,dispensingUnit:each,1,1,TRUE,1,EM0581
+EM0582,Vaccum Extractor,,1,dispensingUnit:each,1,1,TRUE,1,EM0582
+EM0583,Ultrasound Scanner,,1,dispensingUnit:each,1,1,TRUE,1,EM0583
+EM0584,Suction Machine,,1,dispensingUnit:each,1,1,TRUE,1,EM0584
+EM0585,Suction Catheter Size 12 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0585
+EM0586,Suction Catheter Size 16 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0586
+EM0587,Suction Catheter Size 18 (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0587
+EM0588,Surgeon Cap (Pcs),,100,dispensingUnit:each,1,100,TRUE,100,EM0588
+EM0589,Surgical Blade Size 10 (Pcs),,100,dispensingUnit:each,1,100,TRUE,100,EM0589
+EM0590,Surgical Blade Size 12 (100PCS) (PACK),,100,dispensingUnit:each,1,100,TRUE,100,EM0590
+EM0591,Surgical Blade Size 15 (100PCS) (PACK),,100,dispensingUnit:each,1,100,TRUE,100,EM0591
+EM0592,Surgical Blade Size 20 (100PCS) (PACK),,100,dispensingUnit:each,1,100,TRUE,100,EM0592
+EM0593,Surgical Blade Size 22 (100PCS) (PACK),,100,dispensingUnit:each,1,100,TRUE,100,EM0593
+EM0594,Surgical Blade Size 24 (100PCS) (PACK),,100,dispensingUnit:each,1,100,TRUE,100,EM0594
+EM0595,SYRINGE  & NEEDLE 20ML (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0595
+EM0596,SYRINGE  & NEEDLE 10ML (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0596
+EM0597,SYRINGE & NEEDLE 1ML (PCS),,1,dispensingUnit:each,1,1,TRUE,1,EM0597
+EM0598,SYRINGE & NEEDLE 2ML (PCS),,1,dispensingUnit:each,1,1,TRUE,1,EM0598
+EM0599,SYRINGE & NEEDLE 5 ML (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0599
+EM0600,Ultrasound / Scanning Gel,,1,dispensingUnit:each,1,1,TRUE,1,EM0600
+EM0601,Urine Drainage Bags (Pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0601
+EM0602,"Vacuum Extrator, Bird, Manual, Comple",,1,dispensingUnit:each,1,1,TRUE,1,EM0602
+EM0603,Vital Signs / Patient Monitor ,,1,dispensingUnit:each,1,1,TRUE,1,EM0603
+EM0604,"X-Ray Developer, 5 Lt bottle",,1,dispensingUnit:each,1,1,TRUE,1,EM0604
+EM0605,X-Ray Film 35X43 (100 Sheets),,100,dispensingUnit:each,1,100,TRUE,100,EM0605
+EM0606,X-Ray Liquid Fixer (5L),,1,dispensingUnit:each,1,1,TRUE,1,EM0606
+EM0607,X-Ray Film 18 x 24cm (blue sensitive),,100,dispensingUnit:each,1,100,TRUE,100,EM0607
+EM0608,"X-Ray developer (dil 4:1 makes2x20L),",,100,dispensingUnit:each,1,100,TRUE,100,EM0608
+EM0609,X-Ray Film 24 x 30 cm (blue sensitive),,100,dispensingUnit:each,1,100,TRUE,100,EM0609
+EM0610,X-Ray Film 30 x 40cm (blue sensitive),,100,dispensingUnit:each,1,100,TRUE,100,EM0610
+EM0611,ECG Machine Digital,,1,dispensingUnit:each,1,1,TRUE,1,EM0611
+EM0612,Gauze Absorbent 100m X 90cm,,1,dispensingUnit:each,1,1,TRUE,1,EM0612
+EM0613,Zinc Oxide Plaster 5cm X 10m (Roll),,1,dispensingUnit:each,1,1,TRUE,1,EM0613
+EM0614,Doppler pocket type,,1,dispensingUnit:each,1,1,TRUE,1,EM0614
+EM0615,Infant weighing scale,,1,dispensingUnit:each,1,1,TRUE,1,EM0615
+EM0616,Feeding Tubs Size 6,,1,dispensingUnit:each,1,1,TRUE,1,EM0616
+EM0617,Feeding Tubs Size 8,,1,dispensingUnit:each,1,1,TRUE,1,EM0617
+EM0618,Feeding Tubs Size 10,,1,dispensingUnit:each,1,1,TRUE,1,EM0618
+EM0619,Feeding Tubs Size 12,,1,dispensingUnit:each,1,1,TRUE,1,EM0619
+EM0620,Feeding Tubs Size 14,,1,dispensingUnit:each,1,1,TRUE,1,EM0620
+EM0621,Feeding Tubs Size 16,,1,dispensingUnit:each,1,1,TRUE,1,EM0621
+EM0622,Feeding Tubs Size 18,,1,dispensingUnit:each,1,1,TRUE,1,EM0622
+EM0623,Feeding Tubs Size 20,,1,dispensingUnit:each,1,1,TRUE,1,EM0623
+EM0624,Blood giving set,,1,dispensingUnit:each,1,1,TRUE,1,EM0624
+EM0625,Safety Boxes,,1,dispensingUnit:each,1,1,TRUE,1,EM0625
+EM0626,Endotrachael Tube Size 12,,1,dispensingUnit:each,1,1,TRUE,1,EM0626
+EM0627,Digital Thermometer ,,1,dispensingUnit:each,1,1,TRUE,1,EM0627
+EM0628,Surgical glove  size 7,,1,dispensingUnit:each,1,1,TRUE,1,EM0628
+EM0629,Surgical glove  size 7.5,,1,dispensingUnit:each,1,1,TRUE,1,EM0629
+EM0630,Surgical glove size 8,,1,dispensingUnit:each,1,1,TRUE,1,EM0630
+EM0631,Chest Drain Tubes,,1,dispensingUnit:each,1,1,TRUE,1,EM0631
+EM0632,Oxygen Mask (Adult),,1,dispensingUnit:each,1,1,TRUE,1,EM0632
+EM0633,Oxygen Mask (peadiatric),,1,dispensingUnit:each,1,1,TRUE,1,EM0633
+EM0634,Scrubs tops,,1,dispensingUnit:each,1,1,TRUE,1,EM0634
+EM0635,Scrubs pants,,1,dispensingUnit:each,1,1,TRUE,1,EM0635
+EM0636,Buckets with tap (Hand washing ),,1,dispensingUnit:each,1,1,TRUE,1,EM0636
+EM0637,Body bag plastics adult,,1,dispensingUnit:each,1,1,TRUE,1,EM0637
+EM0638,Body bag plastics Pead,,1,dispensingUnit:each,1,1,TRUE,1,EM0638
+EM0639,Isolation Gown ( Surgical),,1,dispensingUnit:each,1,1,TRUE,1,EM0639
+EM0640,Oxygen flow meter,,1,dispensingUnit:each,1,1,TRUE,1,EM0640
+EM0641,Nasal Oxygen Cannula (Neonate),,1,dispensingUnit:each,1,1,TRUE,1,EM0641
+EM0642,Nasal Oxygen Cannula (peadiatric),,1,dispensingUnit:each,1,1,TRUE,1,EM0642
+EM0643,Nasal Oxygen Cannula (Adult),,1,dispensingUnit:each,1,1,TRUE,1,EM0643
+EM0644,Central venous Catheter,,1,dispensingUnit:each,1,1,TRUE,1,EM0644
+EM0645,Sprayer Disinfectant 12L,,1,dispensingUnit:each,1,1,TRUE,1,EM0645
+EM0646,"Polypropylene monofiliment suture Size 1, (12 pcs)",,1,dispensingUnit:each,1,1,TRUE,1,EM0646
+EM0647,Polypropylene monofiliment suture Size 0 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0647
+EM0648,Polypropylene monofiliment suture Size 2/0 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0648
+EM0649,Polypropylene monofiliment suture Size 2 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0649
+EM0650,Polypropylene monofiliment suture Size 3/0 (12 pcs),,1,dispensingUnit:each,1,1,TRUE,1,EM0650
+EM0651,N-95 Mask,,1,dispensingUnit:each,1,1,TRUE,1,EM0651
+HIV0001,"Lamivudine/Zidovudine 150/300mg, 60 tablets",,60,dispensingUnit:each,1,60,TRUE,60,HIV0001
+HIV0002,"Dolutegravir 50mg, 30 tablets",,30,dispensingUnit:each,1,30,TRUE,30,HIV0002
+HIV0003,"Dolutegravir 10mg, 30 tablets",,30,dispensingUnit:each,1,30,TRUE,30,HIV0003
+HIV0004,"Dolutegravir/Lamivudine/Tenofovir 50/300/300mg, 30 tablets",,30,dispensingUnit:each,1,30,TRUE,30,HIV0004
+HIV0005,"Abacavir/Lamivudine 120/60mg scored, 30 dispersible tablets",,30,dispensingUnit:each,1,30,TRUE,30,HIV0005
+HIV0006,"Lamivudine/Zidovudine 30/60mg, 60 dispersible tablets",,60,dispensingUnit:each,1,60,TRUE,60,HIV0006
+HIV0007,"Lopinavir/Ritonavir 100/25mg, 60 tablets",,60,dispensingUnit:each,1,60,TRUE,60,HIV0007
+HIV0008,Zidovudine 50mg/5ml Oral solution 240ml,,1,dispensingUnit:each,1,1,TRUE,1,HIV0008
+HIV0009,Nevirapine 10mg/ml oral suspension 100ml,,1,dispensingUnit:each,1,1,TRUE,1,HIV0009
+HIV0010,"Atazanavir/Ritonavir 300/100mg, 30 tablets",,30,dispensingUnit:each,1,30,TRUE,30,HIV0010
+HIV0011,"Atazanavir/Ritonavir 300/150mg, 30 tablets",,30,dispensingUnit:each,1,30,TRUE,30,HIV0011
+LC0001,HIV 1/2-O - First Response HIV 1-2.0 v.3.0 Cards Kit - 30 tests,,30,dispensingUnit:each,1,30,TRUE,30,LC0001
+LC0002,HIV 1/2 – MultiSure HIV Rapid Test – 20 tests,,20,dispensingUnit:each,1,20,TRUE,20,LC0002
+LC0003,ALERE DETERMINE™ HIV-1/HIV-2 RAPID TEST Complete HIV Kit - 100 tests,,100,dispensingUnit:each,1,100,TRUE,100,LC0003
+LC0004,SD Bioline HIV/Syphilis Duo Test Kit -(25 test/kit),,25,dispensingUnit:each,1,25,TRUE,25,LC0004
+LC0005,Abbott 96 Deep well Plates,,24,dispensingUnit:each,1,24,TRUE,24,LC0005
+LC0006,Abbott 96 well Optical Reaction Plates,,20,dispensingUnit:each,1,20,TRUE,20,LC0006
+LC0007,Abbott 96 well Optical Adhesive Covers 1 x 100pcs,,100,dispensingUnit:each,1,100,TRUE,100,LC0007
+LC0008,"Abbott RealTime HIV Amplification reagent kit, 96 pcs",,96,dispensingUnit:each,1,96,TRUE,96,LC0008
+LC0009,Abbott RealTime HIV Calibrator kit,,12,dispensingUnit:each,1,12,TRUE,12,LC0009
+LC0010,Abbott RealTime HIV Control kit (3x8),,24,dispensingUnit:each,1,24,TRUE,24,LC0010
+LC0011,Abbott RealTime HIV Qual. Control kit,,96,dispensingUnit:each,1,96,TRUE,96,LC0011
+LC0013,"Abbott Sample Preparation Reagents system bulk lysis buffer, 3X70ml",,3,dispensingUnit:each,1,3,TRUE,3,LC0013
+LC0015,BD FACSClean (5L),,1,dispensingUnit:each,1,1,TRUE,1,LC0015
+LC0016,BD FACSRinse (5L),,1,dispensingUnit:each,1,1,TRUE,1,LC0016
+LC0017,Blue paper towel Roll 1 x 24 pcs,,1,dispensingUnit:each,1,1,TRUE,1,LC0017
+LC0019,Consumables for lab,,1,dispensingUnit:each,1,1,TRUE,1,LC0019
+LC0020,"Cryo tubes 2 mls ,1000pcs",,1000,dispensingUnit:each,1,1000,TRUE,1000,LC0020
+LC0021,Cryovial Tube Holder box 10x10 well ,,1,dispensingUnit:each,1,1,TRUE,1,LC0021
+LC0022,DBS filter papers (Whatman 903TM- five half-inch circles) x 100,,100,dispensingUnit:each,1,100,TRUE,100,LC0022
+LC0023,BD Vacutainer EDTA 4ml Blood Collection Tube -1000pcs,,100,dispensingUnit:each,1,100,TRUE,100,LC0023
+LC0024,Examination gloves latex small - Powder-free,,100,dispensingUnit:each,1,100,TRUE,100,LC0024
+LC0025,Examination gloves latex medium - Powder-free,,100,dispensingUnit:each,1,100,TRUE,100,LC0025
+LC0026,Examination gloves latex large - Powder-free,,100,dispensingUnit:each,1,100,TRUE,100,LC0026
+LC0027,FACSCount Controls (25 tests),,25,dispensingUnit:each,1,25,TRUE,25,LC0027
+LC0028,FACSCount Reagents (50 tests),,50,dispensingUnit:each,1,50,TRUE,50,LC0028
+LC0029,FACSFlow 20l,,1,dispensingUnit:each,1,1,TRUE,1,LC0029
+LC0030,HB301 microcurvette,,200,dispensingUnit:each,1,200,TRUE,200,LC0030
+LC0031,Hemocue HB301 Analyzer g/dl,,1,dispensingUnit:each,1,1,TRUE,1,LC0031
+LC0032,Abbott m2000sp 1000ul Pipette Tip (4x24),,96,dispensingUnit:each,1,96,TRUE,96,LC0032
+LC0033,Abbott m2000sp 200ul Reagent Vessel  (4x24),,96,dispensingUnit:each,1,96,TRUE,96,LC0033
+LC0034,Abbott m2000sp 200ul Pipette Tip  (4x24),,96,dispensingUnit:each,1,96,TRUE,96,LC0034
+LC0035,Abbott m2000sp 96 Deep Well Plate 1 x 32pcs,,32,dispensingUnit:each,1,32,TRUE,32,LC0035
+LC0036,"Abbott m2000sp Reaction Vessels , 4 x 500 pcs",,2000,dispensingUnit:each,1,2000,TRUE,2000,LC0036
+LC0037,Abbott m2000sp Biohazard bag 1 x 50pcs,,50,dispensingUnit:each,1,50,TRUE,50,LC0037
+LC0038,"Abbott m2000sp tube master mix with caps, 25pcs",,25,dispensingUnit:each,1,25,TRUE,25,LC0038
+LC0039,Medonic control (blood) tri-level 16 parameters,,6,dispensingUnit:each,1,6,TRUE,6,LC0039
+LC0040,Medonic M-series diluent reagent 20L,,1,dispensingUnit:each,1,1,TRUE,1,LC0040
+LC0041,Medonic M-series lysing reagent 5L,,1,dispensingUnit:each,1,1,TRUE,1,LC0041
+LC0042,Abbott mSample Preparation system RNA kit (4x24),,96,dispensingUnit:each,1,96,TRUE,96,LC0042
+LC0043,Abbott mSample Preparation system DNA kit (4x24),,96,dispensingUnit:each,1,96,TRUE,96,LC0043
+LC0044,Optical calibration kits 1x 10pcs,,10,dispensingUnit:each,1,10,TRUE,10,LC0044
+LC0045,Pima Cartridge kit,,100,dispensingUnit:each,1,100,TRUE,100,LC0045
+LC0046,Pippets Yellow tips 2-200ul (1000 pcs),,1000,dispensingUnit:each,1,1000,TRUE,1000,LC0046
+LC0047,Pippets Blue tips 100-1000ul (1000 pcs),,1000,dispensingUnit:each,1,1000,TRUE,1000,LC0047
+LC0048,FASCount Thermal printer roll (10 roll),,1,dispensingUnit:each,1,1,TRUE,1,LC0048
+LC0049,Screening Test- reference lab -Murex HIV ELISA Ag/Ab combination,,96,dispensingUnit:each,1,96,TRUE,96,LC0049
+LC0051,"Urine Container, Universal 30ml",,400,dispensingUnit:each,1,400,TRUE,400,LC0051
+LC0052,"Urine Test Strips, 3 Parameters, Bottles/100 Tests",,100,dispensingUnit:each,1,100,TRUE,100,LC0052
+LC0053,"Urine Test Strips, 10 Parameters, Bottles/100 Tests",,100,dispensingUnit:each,1,100,TRUE,100,LC0053
+LC0054,Xpert Cartridge -EID,,10,dispensingUnit:each,1,10,TRUE,10,LC0054
+LC0055,Xpert Cartridge-VL,,10,dispensingUnit:each,1,10,TRUE,10,LC0055
+LC0056,"Sulphuric Acid, 1L Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0056
+LC0057,Single Channel Pipette P10,,1,dispensingUnit:each,1,1,TRUE,1,LC0057
+LC0058,Multi Channel Pipette 10-100ul,,1,dispensingUnit:each,1,1,TRUE,1,LC0058
+LC0060,ELISA Plate reader,,1,dispensingUnit:each,1,1,TRUE,1,LC0060
+LC0061,ELISA palte Washer,,1,dispensingUnit:each,1,1,TRUE,1,LC0061
+LC0062,Centrifuge bench top for urine,,1,dispensingUnit:each,1,1,TRUE,1,LC0062
+LC0063,Incubator,,1,dispensingUnit:each,1,1,TRUE,1,LC0063
+LC0065,Sharp boxes 5L,,1,dispensingUnit:each,1,1,TRUE,1,LC0065
+LC0066,Benchkote ,,100,dispensingUnit:each,1,100,TRUE,100,LC0066
+LC0067,BACTEC MGIT 960 PZA KIT,,1,dispensingUnit:each,1,1,TRUE,1,LC0067
+LC0068,BACTEC MGIT 960 PZA TUBE,,1,dispensingUnit:each,1,1,TRUE,1,LC0068
+LC0069,BACTEC MGIT 960 SIRE KIT,,1,dispensingUnit:each,1,1,TRUE,1,LC0069
+LC0070,"BACTEC MGIT Growth Supplement Kit, (come together with Panta)",,1,dispensingUnit:each,1,1,TRUE,1,LC0070
+LC0071,BACTEC MGIT 960 control vials,,100,dispensingUnit:each,1,100,TRUE,100,LC0071
+LC0072,BB BACTEC MGIT960 Ethambutol 7.5 kit,,1,dispensingUnit:each,1,1,TRUE,1,LC0072
+LC0073,BBL MGIT Tubes for use in BACTEC MGIT 960 System (7ml),,100,dispensingUnit:each,1,100,TRUE,100,LC0073
+LC0074,"BBL® MGIT™ OADC, 15 ml carton of 6 vials enrichment",,1,dispensingUnit:each,1,1,TRUE,1,LC0074
+LC0075,BD BACTEC MGIT 960 Isoniazid 4.0 kit,,1,dispensingUnit:each,1,1,TRUE,1,LC0075
+LC0076,Biohazard bags,,100,dispensingUnit:each,1,100,TRUE,100,LC0076
+LC0077,Blood Agar Base 500g,,100,dispensingUnit:each,1,100,TRUE,100,LC0077
+LC0078,Cetylperidium chloride 1L Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0078
+LC0081,Di sodium hydrogen phosphate dodehydrate 500g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0081
+LC0082,Test tubes Rack Wire,,1,dispensingUnit:each,1,1,TRUE,1,LC0082
+LC0084,"four way rack for 15-50ml tube,floating test tubes rack, modular heating block and streile plastic forcep",,1,dispensingUnit:each,1,1,TRUE,1,LC0084
+LC0085,GenoType® MTBDRplus Version 2.0 kit,,1,dispensingUnit:each,1,1,TRUE,1,LC0085
+LC0086,GenoType® MTBDRsl kit (without Genolyse),,1,dispensingUnit:each,1,1,TRUE,1,LC0086
+LC0087,GenoType® Mycobacterium AS (without GenLyse),,1,dispensingUnit:each,1,1,TRUE,1,LC0087
+LC0088,GenoType® Mycobacterium CM version 2 (without GenoLyse),,1,dispensingUnit:each,1,1,TRUE,1,LC0088
+LC0089,GenoType® MyTBC,,1,dispensingUnit:each,1,1,TRUE,1,LC0089
+LC0090,Hycolin 5L Disinfectant Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0090
+LC0091,Hydrochloric acid 100ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0091
+LC0092,"Lab guard, (6x1L)",,1,dispensingUnit:each,1,1,TRUE,1,LC0092
+LC0093,Label for cryovial,,1,dispensingUnit:each,1,1,TRUE,1,LC0093
+LC0095,Surgical Laboratory gown L,,40,dispensingUnit:each,1,40,TRUE,40,LC0095
+LC0096,Pippette Filter Tip 1000ul,,96,dispensingUnit:each,1,96,TRUE,96,LC0096
+LC0097,Pippette Filter Tip 10ul,,96,dispensingUnit:each,1,96,TRUE,96,LC0097
+LC0098,MGIT TB Identification Kit ,,1,dispensingUnit:each,1,1,TRUE,1,LC0098
+LC0099,Microcentrifuge / Eppendorf tubes 1.5ml,,500,dispensingUnit:each,1,500,TRUE,500,LC0099
+LC0100,Microcentrifuge /Eppendorf tubes 2 ml,,500,dispensingUnit:each,1,500,TRUE,500,LC0100
+LC0101,Centrifuge tubes 50ml,,500,dispensingUnit:each,1,500,TRUE,500,LC0101
+LC0102,"Molecular grade water, 100ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0102
+LC0103,"Face Maks N95, FFP2",,1,dispensingUnit:each,1,1,TRUE,1,LC0103
+LC0104,"N-Acetyl L cysteine, 500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0104
+LC0105,PCR tube 0.5ml,,500,dispensingUnit:each,1,500,TRUE,500,LC0105
+LC0107,Potassium dihydrogen phosphate 500g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0107
+LC0108,Quick chiller for tubes 0.2 to 1.5ml,,1,dispensingUnit:each,1,1,TRUE,1,LC0108
+LC0109,Rack for 1.5- 2ml tubes,,1,dispensingUnit:each,1,1,TRUE,1,LC0109
+LC0110,Rack for 50ml tubes,,1,dispensingUnit:each,1,1,TRUE,1,LC0110
+LC0111,Rack for single channel pipettes,,1,dispensingUnit:each,1,1,TRUE,1,LC0111
+LC0119,Reagent powder-DST Clofazine 5g,,1,dispensingUnit:each,1,1,TRUE,1,LC0119
+LC0120,Reagent powder-DST-Ethionamide 5g,,1,dispensingUnit:each,1,1,TRUE,1,LC0120
+LC0123,Sealing /Adhesive cover tape - film,,100,dispensingUnit:each,1,100,TRUE,100,LC0123
+LC0129,sodium chloride 500g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0129
+LC0130,"Sodium hydroxide(NaoH), 500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0130
+LC0131,Forcep metal/steel ,,1,dispensingUnit:each,1,1,TRUE,1,LC0131
+LC0143,Autoclave tape,,1,dispensingUnit:each,1,1,TRUE,1,LC0143
+LC0147,Sulphuric Acid 1L Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0147
+LC0149,Tri Sodium citrate dihydrate 500g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0149
+LC0150,Trypton Soya broth 500g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0150
+LC0151,XPERT MTB/XDR Cartridge,,10,dispensingUnit:each,1,10,TRUE,10,LC0151
+LC0152,Xpert MTB/RIF Ultra,,50,dispensingUnit:each,1,50,TRUE,50,LC0152
+LC0153,GeneXpert XVI Module Machine,,1,dispensingUnit:each,1,1,TRUE,1,LC0153
+LC0154,Malaria Rapid Diagnostic Test (mRDTs),,25,dispensingUnit:each,1,25,TRUE,25,LC0154
+LC0157,Blood Lancets ( 200pcs),,200,dispensingUnit:each,1,200,TRUE,200,LC0157
+LC0158,Heparinized Capillary Tubes (100pcs),,100,dispensingUnit:each,1,100,TRUE,100,LC0158
+LC0159,Cristaseal (100pcs),,100,dispensingUnit:each,1,100,TRUE,100,LC0159
+LC0160,Drabkins Capsules (6x6pcs),,1,dispensingUnit:each,1,1,TRUE,1,LC0160
+LC0161,Blood collection tube - plain glass - 7ml - Redtop - pack of 1000,,100,dispensingUnit:each,1,100,TRUE,100,LC0161
+LC0162,"Blood collection tube EDTA tubes 4ml, 1000 pcs",,100,dispensingUnit:each,1,100,TRUE,100,LC0162
+LC0163,Blue Tissue ( Roll),,1,dispensingUnit:each,1,1,TRUE,1,LC0163
+LC0165,"Immerson oil, 125ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0165
+LC0166,Field Stain A 500ml bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0166
+LC0167,Field Stain B 500ml bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0167
+LC0168,Microscope slides - frosted end - 76x26mm - 50 slides,,50,dispensingUnit:each,1,50,TRUE,50,LC0168
+LC0169,HB calibration standards 3.0 g/dl Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0169
+LC0171,"Ethanol Absolute (98.7-100%), Alcohol 1L Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0171
+LC0172,Giemsa stain modified solution 500ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0172
+LC0173,Glycerol 1L Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0173
+LC0174,"Graduated Measuring Cylinder 500ml, Plastic",,1,dispensingUnit:each,1,1,TRUE,1,LC0174
+LC0175,Digital Weighing scale,,1,dispensingUnit:each,1,1,TRUE,1,LC0175
+LC0176,"Filter paper, 24cm in diameter (100 pcs)",,100,dispensingUnit:each,1,100,TRUE,100,LC0176
+LC0177,"Beaker, 500ml capacity",,1,dispensingUnit:each,1,1,TRUE,1,LC0177
+LC0178,"Funnel, Plastic",,1,dispensingUnit:each,1,1,TRUE,1,LC0178
+LC0179,"Glass beads (5mm), 500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0179
+LC0181,Water bath,,1,dispensingUnit:each,1,1,TRUE,1,LC0181
+LC0182,Goggles,,1,dispensingUnit:each,1,1,TRUE,1,LC0182
+LC0183,Microscope Olympus,,1,dispensingUnit:each,1,1,TRUE,1,LC0183
+LC0184,"Slide storage boxes, Plastic",,1,dispensingUnit:each,1,1,TRUE,1,LC0184
+LC0187,Slide tray,,1,dispensingUnit:each,1,1,TRUE,1,LC0187
+LC0189,Timer,,1,dispensingUnit:each,1,1,TRUE,1,LC0189
+LC0190,Buffer tablets pH7.2 Bottle,,50,dispensingUnit:each,1,50,TRUE,50,LC0190
+LC0192,Cotton wool (absorbent) 500g Roll,,1,dispensingUnit:each,1,1,TRUE,1,LC0192
+LC0193,Conical flask 500ml,,1,dispensingUnit:each,1,1,TRUE,1,LC0193
+LC0194,"Potassium dihydrogen phosphate (anhydrous) (KH2PO4), 500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0194
+LC0195,Sodium hydrogen phosphate (anhydrous) (NaHPO4) 500g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0195
+LC0196,pH Meter,,1,dispensingUnit:each,1,1,TRUE,1,LC0196
+LC0198,Test tubes,,100,dispensingUnit:each,1,100,TRUE,100,LC0198
+LC0199,Micro-haematocrit Centrifuge / PCV machine,,1,dispensingUnit:each,1,1,TRUE,1,LC0199
+LC0200,Spreader,,1,dispensingUnit:each,1,1,TRUE,1,LC0200
+LC0201,Antisera A Blood Grouping Serum 10ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0201
+LC0202,Antisera AB Blood Grouping Serum 10ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0202
+LC0203,Antisera B Blood Grouping Serum 10ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0203
+LC0204,Antisera D Blood Grouping Serum 10ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0204
+LC0205,Blood bags (Double 450ml CPDA) 100 pcs,,1,dispensingUnit:each,1,1,TRUE,1,LC0205
+LC0206,"Blood bags (Single 150ml CPDA), 100 pcs",,1,dispensingUnit:each,1,1,TRUE,1,LC0206
+LC0207,Blood bags (Single 450ml CPDA) 100 pcs,,1,dispensingUnit:each,1,1,TRUE,1,LC0207
+LC0209,Blood Grouping Tile (10pcs),,1,dispensingUnit:each,1,1,TRUE,1,LC0209
+LC0210,Capillary Tubes Heparinized 75mm (100pcs) Bottle,,100,dispensingUnit:each,1,100,TRUE,100,LC0210
+LC0211,Coombs Test kit (10ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0211
+LC0213,"Counter Hand Tally, Range with Zero Reset Knob",,1,dispensingUnit:each,1,1,TRUE,1,LC0213
+LC0214,"Counting Chamber Improved Neubeuer, Unit/Each",,1,dispensingUnit:each,1,1,TRUE,1,LC0214
+LC0215,"Cover Slips for Counting Chamber, Pack/100pcs",,100,dispensingUnit:each,1,100,TRUE,100,LC0215
+LC0216,"Cover Slips, 22x22mm, N0.1.0.13-0.17mm Thick, Pack/100",,100,dispensingUnit:each,1,100,TRUE,100,LC0216
+LC0217,Cristaseal Pad (Wax) Sealant For Capillary Tubes (10pcs),,10,dispensingUnit:each,1,10,TRUE,10,LC0217
+LC0219,"ESR Tubes, 100/pack",,100,dispensingUnit:each,1,100,TRUE,100,LC0219
+LC0226,Sodium Metabisulphate Bottle/500gm Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0226
+LC0229,Tourniquets Large,,1,dispensingUnit:each,1,1,TRUE,1,LC0229
+LC0230,Amoxicillin 10x5μg,,10,dispensingUnit:each,1,10,TRUE,10,LC0230
+LC0231,Amoxicillin clavulanate 20/10μg,,10,dispensingUnit:each,1,10,TRUE,10,LC0231
+LC0232,Ampicillin 10µg,,10,dispensingUnit:each,1,10,TRUE,10,LC0232
+LC0233,Ampiclox 10μg,,10,dispensingUnit:each,1,10,TRUE,10,LC0233
+LC0234,Antimicrobial Disc Dispenser,,1,dispensingUnit:each,1,1,TRUE,1,LC0234
+LC0235,"API 20E Strips + Media Biomerieux, Box/50 (50pcs)",,50,dispensingUnit:each,1,50,TRUE,50,LC0235
+LC0236,Azithromycin 30µg,,10,dispensingUnit:each,1,10,TRUE,10,LC0236
+LC0237,Benzylpenicillin 1ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0237
+LC0238,Cefepime 10μg,,10,dispensingUnit:each,1,10,TRUE,10,LC0238
+LC0239,"Cefotaxime 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0239
+LC0240,Cefoxitin 30ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0240
+LC0241,"Ceftazidime 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0241
+LC0242,"Ceftriazone 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0242
+LC0243,Cefuroxime 30ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0243
+LC0244,"Cefuroxime 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0244
+LC0245,Cephalaxin 10ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0245
+LC0246,"Chloramphenicol 10µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0246
+LC0247,"Chloramphenicol 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0247
+LC0248,"Cholera antiserum, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0248
+LC0249,"Ciprofloxacin 10µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0249
+LC0250,"Ciprofloxacin 5µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0250
+LC0251,Clarithomycin 30µg,,10,dispensingUnit:each,1,10,TRUE,10,LC0251
+LC0252,Clindamycin 2ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0252
+LC0253,Cloxacillin 30μg,,10,dispensingUnit:each,1,10,TRUE,10,LC0253
+LC0254,"Cotrimoxazole 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0254
+LC0256,"Crystal Violet, Bottle/100g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0256
+LC0257,"Desoxycholate Agar Oxoid, Bottle/500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0257
+LC0258,Doxycycline 10μg,,10,dispensingUnit:each,1,10,TRUE,10,LC0258
+LC0259,"Eosin Solution Aqueous 2% GRG, 100ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0259
+LC0260,"Erythromycin 10µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0260
+LC0261,"Erythromycin 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0261
+LC0262,Flucloxacillin 30μg,,10,dispensingUnit:each,1,10,TRUE,10,LC0262
+LC0263,"GC Agar Base, Bottle/500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0263
+LC0264,"Gentamicin 10µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0264
+LC0265,"Haemoglobin Powder Soluble, Oxoid, 400g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0265
+LC0266,"Haemophilus Influenzae Antisera Poly O A-G, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0266
+LC0267,"Haemophilus Influenzae Antisera Type B, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0267
+LC0268,"Innoculating Loops Disposable Plastic, 10-20ul, Pkt/1000",,1000,dispensingUnit:each,1,1000,TRUE,1000,LC0268
+LC0269,"Innoculation Loops, Disposable, 10µl, Pack/1000pcs",,1000,dispensingUnit:each,1,1000,TRUE,1000,LC0269
+LC0270,"Lens Tissue, 150x150mm, Booklet (100)",,100,dispensingUnit:each,1,100,TRUE,100,LC0270
+LC0271,Levofloxacin 5ug Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0271
+LC0272,Lumbar Puncture Kit,,1,dispensingUnit:each,1,1,TRUE,1,LC0272
+LC0273,"MacConkey Agar No. 3, Thermo Scientific™ Oxoid™, 500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0273
+LC0274,Malachite Green GRG-C.I 4200 (25g) Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0274
+LC0275,Meropenem 30ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0275
+LC0276,Methanol (1L) Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0276
+LC0277,Metronidazole 30µg,,10,dispensingUnit:each,1,10,TRUE,10,LC0277
+LC0278,"Mueller Hinton Agar, Bottle/500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0278
+LC0279,"Neisseria Menigitidis W135 Antiserum, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0279
+LC0280,"Neisseria Meningitidis A Antiserum, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0280
+LC0281,"Neisseria Meningitidis B Antiserum, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0281
+LC0282,"Neisseria Meningitidis C Antiserum, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0282
+LC0283,"Neisseria Meningitidis D Antiserum, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0283
+LC0284,Neutral Red 5g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0284
+LC0285,"Nitrofurantoin 100µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0285
+LC0286,"Nitrofurantoin 300µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0286
+LC0287,Nutrient Agar 500g Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0287
+LC0288,"Optochin, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0288
+LC0289,Pasteurex Latex Agglutination kit,,1,dispensingUnit:each,1,1,TRUE,1,LC0289
+LC0290,"Petri Dish Single Vent Plastic Sterile, 90x15mm, 500pcs (500)",,500,dispensingUnit:each,1,500,TRUE,500,LC0290
+LC0291,"Petri-Dishes, 90mm Double Compartment, Box/500pcs",,500,dispensingUnit:each,1,500,TRUE,500,LC0291
+LC0292,Piperacillin/tazobactam 100/10ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0292
+LC0293,Rotavirus Rapid test kit,,1,dispensingUnit:each,1,1,TRUE,1,LC0293
+LC0294,"Sabouraud Dextrose Agar, Bottle/500g",,1,dispensingUnit:each,1,1,TRUE,1,LC0294
+LC0295,"Salmonella A Serum, MonoV Somatic, Poly O, A-G, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0295
+LC0296,"Salmonella a Serum, Monovalent Group B, Factor 4, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0296
+LC0297,"Salmonella a Serum, Monovalent Group B, Factor 9, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0297
+LC0298,"Salmonella a Serum, Monovalent Group B, factor d, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0298
+LC0299,"Salmonella a Serum, Monovalent Group B, factor I, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0299
+LC0300,"Salmonella a Serum, Monovalent Group B, factor Vi, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0300
+LC0301,"Salmonella Antisera Polyvalent Flagella, H Phase 1 & 2, Bottle/2ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0301
+LC0302,"Salmonella Selective Supplement Oxoid, Pack/10vials",,10,dispensingUnit:each,1,10,TRUE,10,LC0302
+LC0303,"Shigella Group Antisera (flexneri, boydii, dysentariae, sonnei) Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0303
+LC0304,Slidex Staph Kit,,1,dispensingUnit:each,1,1,TRUE,1,LC0304
+LC0305,Slidex Strepto plus,,1,dispensingUnit:each,1,1,TRUE,1,LC0305
+LC0306,"Swabs, Culture Plain With Viscose Tip & Polystyrene Shaft Single in a Tube, Pack/500pcs",,100,dispensingUnit:each,1,100,TRUE,100,LC0306
+LC0307,"T.C.B.S. Agar, Bottle/500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0307
+LC0308,"Tetracycline 10µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0308
+LC0309,"Tetracycline 30µg, Pack/10x5pcs",,10,dispensingUnit:each,1,10,TRUE,10,LC0309
+LC0310,Tinidazole 30µg,,10,dispensingUnit:each,1,10,TRUE,10,LC0310
+LC0311,Tobramycin 10ug,,10,dispensingUnit:each,1,10,TRUE,10,LC0311
+LC0312,"Triple Sugar Iron Agar (TSI), Bottle/500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0312
+LC0315,"V.C.N.T. Selective Supplement 10vials for 1L Medium, Pack/10vials",,1,dispensingUnit:each,1,1,TRUE,1,LC0315
+LC0316,Vancomycin 256-0.015ug/ml,,10,dispensingUnit:each,1,10,TRUE,10,LC0316
+LC0317,"Vitox Supplement Rehydrates to 500ml Medium Oxoid, Pack/2x5vials",,10,dispensingUnit:each,1,10,TRUE,10,LC0317
+LC0318,X-Factor Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0318
+LC0319,XV-Factor Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0319
+LC0320,Xylene 2.5L  - Low in Sulphur GRG Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0320
+LC0321,Calcium Liquicolor - HUMAN 200ml,,1,dispensingUnit:each,1,1,TRUE,1,LC0321
+LC0322,Actin FS (10x2ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0322
+LC0323,Addictive for washing water (4x25ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0323
+LC0324,Albumin (5x150 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0324
+LC0325,Alkaline Phospotase ( 2x150 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0325
+LC0326,Auto Bilirubin-D (2x100 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0326
+LC0327,Auto Bilirubin-T (2x100 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0327
+LC0328,Autocal (4x5ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0328
+LC0329,Calcium Chloride Solution(19x15ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0329
+LC0330,Calibration and Controls (Period of 3 Months),,1,dispensingUnit:each,1,1,TRUE,1,LC0330
+LC0331,Cholesterol HDL (2x100 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0331
+LC0332,Cholesterol LDL Liquicolor,,1,dispensingUnit:each,1,1,TRUE,1,LC0332
+LC0333,Coagulation Analyzer Re-agents,,1,dispensingUnit:each,1,1,TRUE,1,LC0333
+LC0334,Creatinine (1x95 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0334
+LC0335,Cuvette Clean (C-Clean 6x55ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0335
+LC0336,Dade Ci-Trol 1 (10x1.0ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0336
+LC0337,Dade Ci-Trol 2 (10x1.0ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0337
+LC0338,Dade Innovin (10x4ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0338
+LC0339,Diamond Marker,,1,dispensingUnit:each,1,1,TRUE,1,LC0339
+LC0340,Diluent (Hs 600 4x20ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0340
+LC0341,Diluent-2 (Hs 600 4x20ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0341
+LC0342,Double Distillation Machine,,1,dispensingUnit:each,1,1,TRUE,1,LC0342
+LC0344,Follicle Stimulating Hormone (1x25 Tests),,25,dispensingUnit:each,1,25,TRUE,25,LC0344
+LC0345,Gamma-GT(2x100 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0345
+LC0346,Glucose (6x219 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0346
+LC0347,Glucose Liquicolor,,1,dispensingUnit:each,1,1,TRUE,1,LC0347
+LC0348,GOT(ASAT)(2X200 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0348
+LC0349,GPT(ALAT)(2x200 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0349
+LC0350,HbA/C (1x135 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0350
+LC0351,HbA/C Calibrator set (4x0.5ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0351
+LC0352,HbA/C Control blood (2x2x0.5ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0352
+LC0354,Koalin Suspension (1x50ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0354
+LC0355,LH- Luteirizung Hormone (1x25 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0355
+LC0356,Multifibrent(10x2ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0356
+LC0357,Pasteur Pipette(volumetric),,500,dispensingUnit:each,1,500,TRUE,500,LC0357
+LC0358,Pipette Stand,,1,dispensingUnit:each,1,1,TRUE,1,LC0358
+LC0360,POC-Device Hormonal Analyzer (Geitein 1100),,1,dispensingUnit:each,1,1,TRUE,1,LC0360
+LC0361,Primary Test Tubes,,1,dispensingUnit:each,1,1,TRUE,1,LC0361
+LC0362,Progesterone (1x25 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0362
+LC0363,Prolactin(1x25 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0363
+LC0364,Protein (2x150 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0364
+LC0365,Refrigerator (2-8°C),,1,dispensingUnit:each,1,1,TRUE,1,LC0365
+LC0368,Serdus Plus(6x5ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0368
+LC0369,Serodus(6x5ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0369
+LC0370,T3-Triiodothyromine(1x25 tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0370
+LC0371,T4-Thyroxine(1x25 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0371
+LC0372,T5H- Thyrod Stimulating Hormone(1x25 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0372
+LC0373,Testosterone(1x25 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0373
+LC0374,Tip Cleaning Kit for Hs 600 (2x4x20ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0374
+LC0375,Triglyceriodes(3x60),,1,dispensingUnit:each,1,1,TRUE,1,LC0375
+LC0376,Turbidos(4x3ml),,1,dispensingUnit:each,1,1,TRUE,1,LC0376
+LC0377,Urea (2x150 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0377
+LC0378,Uric Acid (2x100 Tests),,1,dispensingUnit:each,1,1,TRUE,1,LC0378
+LC0379,Hepatitis B Rapid Test Kit (50Tests),,50,dispensingUnit:each,1,50,TRUE,50,LC0379
+LC0381,Knife for Gross Examination 8inch (200mm) Macro Knife,,1,dispensingUnit:each,1,1,TRUE,1,LC0381
+LC0382,"Methylene Blue GRG - C.I. 52015, 500g Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0382
+LC0385,Micro Pipette Multichannel 0.5 - 300ul,,1,dispensingUnit:each,1,1,TRUE,1,LC0385
+LC0386,"Pasteur Pipettes, Plastic, Sterile, 3ml, Individually Wrapped, Pack/500pcs",,500,dispensingUnit:each,1,500,TRUE,500,LC0386
+LC0387,Phosphate Buffer Saline Tablets (PBS) 1x100 TABS,,100,dispensingUnit:each,1,100,TRUE,100,LC0387
+LC0391,Syphillis VDRL Rapid Test Kit (50 tests),,50,dispensingUnit:each,1,50,TRUE,50,LC0391
+LC0392,"Test Tubes, Plain, With Rim, Soda Glass, 100x11.5mm,  (100pcs)",,100,dispensingUnit:each,1,100,TRUE,100,LC0392
+LC0393,Thermometer Fridge/Freezer With Probe,,1,dispensingUnit:each,1,1,TRUE,1,LC0393
+LC0394,Blood Bank Fridges 250L,,1,dispensingUnit:each,1,1,TRUE,1,LC0394
+LC0395,Blood Bank Fridges 120L,,1,dispensingUnit:each,1,1,TRUE,1,LC0395
+LC0396,Colorimeter (HB Meter),,1,dispensingUnit:each,1,1,TRUE,1,LC0396
+LC0397,Hemocue Glucose HB201 Analyzer,,1,dispensingUnit:each,1,1,TRUE,1,LC0397
+LC0398,Hemocue Glucose HB301 Analyzer,,1,dispensingUnit:each,1,1,TRUE,1,LC0398
+LC0402,Phenol Crystal (500g) Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0402
+LC0408,"Pipette Aid, Electric",,1,dispensingUnit:each,1,1,TRUE,1,LC0408
+LC0410,Pipette Measuring PS Sterile 25ml Grad. 0.25,,1,dispensingUnit:each,1,1,TRUE,1,LC0410
+LC0411,Pipette Measuring PS Sterile 50ml grad. 1ml,,1,dispensingUnit:each,1,1,TRUE,1,LC0411
+LC0414,"Formaldehyde Solution - 37% min GRG (100% Formalin), 1L",,1,dispensingUnit:each,1,1,TRUE,1,LC0414
+LC0415,DAPI 25ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0415
+LC0416,DPX Mountant 500ml Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0416
+LC0419,Haematoxylin 5% Alcohol Solution 500ml bottel,,1,dispensingUnit:each,1,1,TRUE,1,LC0419
+LC0424,Microtome Blades N35 100 pcs,,100,dispensingUnit:each,1,100,TRUE,100,LC0424
+LC0427,"Paraffin Wax 54-56 C GRG, 500g bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0427
+LC0428,Tissue cassette 500pcs,,500,dispensingUnit:each,1,500,TRUE,500,LC0428
+LC0429,"Triton X-100, 500ml Bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0429
+LC0439,Eosin Y Solution 100ml bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0439
+LC0440,Nitric Acid 500ml bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0440
+LC0444,"Cover Slip (24 X 50mm), 100 pcs",,100,dispensingUnit:each,1,100,TRUE,100,LC0444
+LC0445,"Sodium Phosphate Monobasic, 500g bottle",,1,dispensingUnit:each,1,1,TRUE,1,LC0445
+LC0446,"Sodium Phosphate Dibasict, 500g",,1,dispensingUnit:each,1,1,TRUE,1,LC0446
+LC0447,UPS,,1,dispensingUnit:each,1,1,TRUE,1,LC0447
+LC0448,Glass Staining Jars (Upright),,1,dispensingUnit:each,1,1,TRUE,1,LC0448
+LC0449,Staining Racks,,1,dispensingUnit:each,1,1,TRUE,1,LC0449
+LC0452,Staining Trough,,1,dispensingUnit:each,1,1,TRUE,1,LC0452
+LC0453,Ethanol 96% 1L bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0453
+LC0454,Hepatitis C Rapid Test Kit (50Tests),,50,dispensingUnit:each,1,50,TRUE,50,LC0454
+LC0456,Conical flask 1000ml,,1,dispensingUnit:each,1,1,TRUE,1,LC0456
+LC0457,Cotton wool (absorbent) 1000g Roll,,1,dispensingUnit:each,1,1,TRUE,1,LC0457
+LC0458,Microscope ILED Flourescent,,1,dispensingUnit:each,1,1,TRUE,1,LC0458
+LC0459,Microscope Light ,,1,dispensingUnit:each,1,1,TRUE,1,LC0459
+LC0460,"Beaker, 1L capacity",,1,dispensingUnit:each,1,1,TRUE,1,LC0460
+LC0461,"Beaker, 2L capacity",,1,dispensingUnit:each,1,1,TRUE,1,LC0461
+LC0462,"Graduated Measuring Cylinder 1000ml, Plastic",,1,dispensingUnit:each,1,1,TRUE,1,LC0462
+LC0463,"Graduated Measuring Cylinder 2000ml, Plastic",,1,dispensingUnit:each,1,1,TRUE,1,LC0463
+LC0464,"Graduated Measuring Cylinder 500ml, Glass",,1,dispensingUnit:each,1,1,TRUE,1,LC0464
+LC0465,"Graduated Measuring Cylinder 1000ml, Glass",,1,dispensingUnit:each,1,1,TRUE,1,LC0465
+LC0466,"Graduated Measuring Cylinder 2000 ml, Glass",,1,dispensingUnit:each,1,1,TRUE,1,LC0466
+LC0467,"Face Maks N95, FFP3",,1,dispensingUnit:each,1,1,TRUE,1,LC0467
+LC0468,Centrifuge tubes 15ml,,1000,dispensingUnit:each,1,1000,TRUE,1000,LC0468
+LC0469,HB calibration standards 11.5 g/dl Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0469
+LC0470,HB calibration standards 18.0 g/dl Bottle,,1,dispensingUnit:each,1,1,TRUE,1,LC0470
+LC0471,Pippette Filter Tip 200ul,,96,dispensingUnit:each,1,96,TRUE,96,LC0471
+LC0472,Pippette Filter Tip 20ul,,96,dispensingUnit:each,1,96,TRUE,96,LC0472
+LC0473,Surgical Laboratory gown XL,,40,dispensingUnit:each,1,40,TRUE,40,LC0473
+LC0474,Single Channel Pipette P2,,1,dispensingUnit:each,1,1,TRUE,1,LC0474
+LC0475,Single Channel Pipette P20,,1,dispensingUnit:each,1,1,TRUE,1,LC0475
+LC0476,Single Channel Pipette P50,,1,dispensingUnit:each,1,1,TRUE,1,LC0476
+LC0477,Single Channel Pipette P100,,1,dispensingUnit:each,1,1,TRUE,1,LC0477
+LC0478,Single Channel Pipette P200,,1,dispensingUnit:each,1,1,TRUE,1,LC0478
+LC0479,Single Channel Pipette P1000,,1,dispensingUnit:each,1,1,TRUE,1,LC0479
+LC0480,Sharp boxes 7L,,1,dispensingUnit:each,1,1,TRUE,1,LC0480
+LC0481,Multi Channel Pipette 20-200ul,,1,dispensingUnit:each,1,1,TRUE,1,LC0481
+LC0482,GeneXpert IV Module Machine,,1,dispensingUnit:each,1,1,TRUE,1,LC0482
+LC0483,Xpert MTB/RIF Normal,,50,dispensingUnit:each,1,50,TRUE,50,LC0483
+MAL0001,"Artemether/Lumefantrine 20/120mg 6 dispersible tablets, 30 blister",,30,dispensingUnit:each,1,30,TRUE,30,MAL0001
+MAL0002,"Artemether/Lumefantrine 20/120mg 12 dispersible tablets, 30 blister",,30,dispensingUnit:each,1,30,TRUE,30,MAL0002
+MAL0003,"Artemether/Lumefantrine 20/120mg 18 tablet non-dispersible tablets, 30 blister",,30,dispensingUnit:each,1,30,TRUE,30,MAL0003
+MAL0004,"Artemether/Lumefantrine 20/120mg 24 tablet non-dispersible tablets, 30 blister",,30,dispensingUnit:each,1,30,TRUE,30,MAL0004
+MAL0005,Artesunate 60mg powder for solution for injection - 1 vial,,1,dispensingUnit:each,1,1,TRUE,1,MAL0005
+MAL0006,Primaquine 7.5mg (as base) (equivalent to 13.2mg Primaquine Phosphate) 10 tablet blister (100),,100,dispensingUnit:each,1,100,TRUE,100,MAL0006
+MAL0007,Quinine 300mg tablets (1000),,1000,dispensingUnit:each,1,1000,TRUE,1000,MAL0007
+MAL0008,Clindamycin 150mg capsules (100),,100,dispensingUnit:each,1,100,TRUE,100,MAL0008
+MAL0009,Piperaquine/Dihydroartemisinin 160/20mg dispersible/non-dispersible 3 tablet blister,,3,dispensingUnit:each,1,3,TRUE,3,MAL0009
+MAL0010,Piperaquine/Dihydroartemisinin 320/40mg 9 tablet blister,,9,dispensingUnit:each,1,9,TRUE,9,MAL0010
+MAL0011,Sulfadoxine/Pyrimethamine 500/25mg 3 tablet blister (10),,10,dispensingUnit:each,1,10,TRUE,10,MAL0011
+MAL0012,Amodiaquine+Sulfadoxine/Pyrimethamine 76.5mg+250/12.5mg 3+1 tablet dispersible co-blistered 50 blister,,3,dispensingUnit:each,1,3,TRUE,3,MAL0012
+MAL0013,Amodiaquine+Sulfadoxine/Pyrimethamine 153mg+500/25mg 3+1 tablet dispersible co-blistered 50 blister,,3,dispensingUnit:each,1,3,TRUE,3,MAL0013
+MAL0014,Ferrous sulphate & Folic Acid tablet,,1000,dispensingUnit:each,1,1000,TRUE,1000,MAL0014
+MAL0015,Paracetamol Syrup,,1,dispensingUnit:each,1,1,TRUE,1,MAL0015
+MAL0016,Dextrose 5% Infusion,,1,dispensingUnit:each,1,1,TRUE,1,MAL0016
+MAL0017,Dextrose 50%,,1,dispensingUnit:each,1,1,TRUE,1,MAL0017
+MAL0018,Sodium chloride 0.9% Infusion,,1,dispensingUnit:each,1,1,TRUE,1,MAL0018
+RH0001,Male condom,,1,dispensingUnit:each,1,1,TRUE,1,RH0001
+RH0002,Medroxyprogesterone Acetate 150mg injection ,,1,dispensingUnit:each,1,1,TRUE,1,RH0002
+RH0003,Female Condom,,1,dispensingUnit:each,1,1,TRUE,1,RH0003
+RH0004,Etonogestrel Implant (Implanon),,1,dispensingUnit:each,1,1,TRUE,1,RH0004
+RH0005,Copper IUCD ,,1,dispensingUnit:each,1,1,TRUE,1,RH0005
+RH0006,Levonorgestrel implants (Jadell) ,,1,dispensingUnit:each,1,1,TRUE,1,RH0006
+RH0007,Ethinylestradiol with Levonorgestrel 30mcg/50mcg tablet (3x28),,84,dispensingUnit:each,1,84,TRUE,84,RH0007
+RH0008,Levonorgestrel 1.5mg tablet ,,1,dispensingUnit:each,1,1,TRUE,1,RH0008
+RH0009,Progestrone Only Pill (3x28),,84,dispensingUnit:each,1,84,TRUE,84,RH0009
+RH0010,Misoprostol 200mcg (3 tabs),,3,dispensingUnit:each,1,3,TRUE,3,RH0010
+RH0011,Misoprostol Pesseries 200mg (4 Tabs),,4,dispensingUnit:each,1,4,TRUE,4,RH0011
+RH0012,Noristerat 1ml (amp),,1,dispensingUnit:each,1,1,TRUE,1,RH0012
+RH0013,Calcium Gluconate 100mg/ml Injection (10ml amps),,1,dispensingUnit:each,1,1,TRUE,1,RH0013
+RH0014,Magnesium Sulplhate Inj 50% 5mg/10ml (amp),,1,dispensingUnit:each,1,1,TRUE,1,RH0014
+RH0015,Oxytocin 10iu/ml inj,,1,dispensingUnit:each,1,1,TRUE,1,RH0015
+RH0016,Levonogestral (150mcg) and Ethinylestradiol (30mcg) with Ferrous Fumarate (3x28),,84,dispensingUnit:each,1,84,TRUE,84,RH0016
+TB0001,Isoniazid/Rifampicin 75/150mg 24x28 tablets (672),,672,dispensingUnit:each,1,672,TRUE,672,TB0001
+TB0002,Isoniazid/Pyrazinamide/Rifampicin 50/150/75mg dispersible tablets 3x28 (84),,84,dispensingUnit:each,1,84,TRUE,84,TB0002
+TB0003,Ethambutol/Isoniazid/Pyrazinamide/Rifampicin 275/75/400/150mg tablets 24x28 (672),,672,dispensingUnit:each,1,672,TRUE,672,TB0003
+TB0004,Isoniazid/Rifampicin 50/75mg dispersible tablets 3x28 (84),,84,dispensingUnit:each,1,84,TRUE,84,TB0004
+TB0005,Ethambutol 100mg 10 tablet dispersible 10 blister (100),,100,dispensingUnit:each,1,100,TRUE,100,TB0005
+TB0006,Ethambutol 400mg tablets 24x28 (672),,672,dispensingUnit:each,1,672,TRUE,672,TB0006
+TB0007,Clofazimine 100mg tablet (100),,100,dispensingUnit:each,1,100,TRUE,100,TB0007
+TB0008,Bedaquiline 100mg tablet (188),,188,dispensingUnit:each,1,188,TRUE,188,TB0008
+TB0009,Pyrazinamide 500mg tablets 24x28 (672),,672,dispensingUnit:each,1,672,TRUE,672,TB0009
+TB0010,Ethionamide 250mg 10 tablet 10 blister (100),,100,dispensingUnit:each,1,100,TRUE,100,TB0010
+TB0011,Isoniazid 300mg 28 tablet 24 blister (672),,672,dispensingUnit:each,1,672,TRUE,672,TB0011
+TB0012,Moxifloxacin 400mg 10 tablet 10 blister (100),,100,dispensingUnit:each,1,100,TRUE,100,TB0012
+TB0013,Isoniazid 100mg 10 tablet 10 blister (100),,100,dispensingUnit:each,1,100,TRUE,100,TB0013
+TB0014,Vitamin B-6 (pyridoxine as hydrochloride) 50 mg tablet (50),,50,dispensingUnit:each,1,50,TRUE,50,TB0014
+TB0015,Vitamin B-6 (pyridoxine as hydrochloride) 25mg tablet (100),,100,dispensingUnit:each,1,100,TRUE,100,TB0015
+TB0016,Clofazimine 50mg tablet (100),,100,dispensingUnit:each,1,100,TRUE,100,TB0016
+EM0652,Amoxicillin-clavulanic acid 1.2g injection ,,1,dispensingUnit:each,1,1,TRUE,1,EM0652
+EM0653,Amoxicillin-clavulanic acid 228.5mg ,,20,dispensingUnit:each,1,20,TRUE,20,EM0653
+EM0654,Amoxicillin-clavulanic acid 600mg injection ,,1,dispensingUnit:each,1,1,TRUE,1,EM0654
+EM0655,Amoxicillin-clavulanic acid 625mg capsule  ,,20,dispensingUnit:each,1,20,TRUE,20,EM0655
+EM0656,Atracurium besilate 10 mg / ml ,,1,dispensingUnit:each,1,1,TRUE,1,EM0656
+EM0657,Benzathine penicillin 1.2g/2.4 MU powder for injection ,,1,dispensingUnit:each,1,1,TRUE,1,EM0657
+EM0658,Cefuroxime 500mg tablet,,100,dispensingUnit:each,1,100,TRUE,100,EM0658
+EM0659,Hepatitis B imminoglobulin 200IU,,1,dispensingUnit:each,1,1,TRUE,1,EM0659
+EM0660,"Hepatitis B injection adult, 1ml (three doses required for immunity)",,1,dispensingUnit:each,1,1,TRUE,1,EM0660
+EM0661,HPV vaccine,,1,dispensingUnit:each,1,1,TRUE,1,EM0661
+EM0662,Loperamide 2mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0662
+EM0663,Metronidazole 500mg tablets,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0663
+EM0664,Mifeprestone 200mg tablets,,1,dispensingUnit:each,1,1,TRUE,1,EM0664
+EM0665,Olanzepine 5 mg tablet,,1000,dispensingUnit:each,1,1000,TRUE,1000,EM0665
+EM0666,Piperacillin 4 g + Tazobactam 500 mg / vial injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0666
+EM0667,"Rabies human diploid (HDCV) inj, 1ml (three doses required)",,1,dispensingUnit:each,1,1,TRUE,1,EM0667
+EM0668,Tetanus adsorbed (tetanus toxoid) inj,,1,dispensingUnit:each,1,1,TRUE,1,EM0668
+EM0669,Vecuronium bromide 10 mg / vial injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0669
+EM0670,Meropenem 1 g / vial injection,,1,dispensingUnit:each,1,1,TRUE,1,EM0670
+HIV0013,Aciclovir 250mg powder (as sodium salt)/vial,,1,dispensingUnit:each,1,1,TRUE,1,HIV0013
+HIV0014,"Heparin 25,000iu/ml injcetion, 5ml",,1,dispensingUnit:each,1,1,TRUE,1,HIV0014
+HIV0012,Aciclovir 5%  cream ,,1,dispensingUnit:each,1,1,TRUE,1,HIV0012
+MAL0021,Artesunate 100mg  suppositories ,,1,dispensingUnit:each,1,1,TRUE,1,MAL0021
+MAL0019,Pyrimethamine 25mg tablets,,100,dispensingUnit:each,1,100,TRUE,100,MAL0019
+MAL0020,"Quinine 300mg /ml injection , 2ml",,1,dispensingUnit:each,1,1,TRUE,1,MAL0020
+MAL0022,Dihydroartemisinin+ piperaquine,,50,dispensingUnit:each,1,50,TRUE,50,MAL0022

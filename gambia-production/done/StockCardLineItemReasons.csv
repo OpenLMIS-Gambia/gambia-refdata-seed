@@ -1,0 +1,9 @@
+name,reasonCategory,reasonType,isFreeTextAllowed
+"Received, not documented (+)",ADJUSTMENT,CREDIT,false
+"Issued, not supplied (+)",ADJUSTMENT,CREDIT,false
+"Supplied, not documented (-)",ADJUSTMENT,DEBIT,false
+"Broken (-)",ADJUSTMENT,DEBIT,false
+"Missing Labels (-)",ADJUSTMENT,DEBIT,false
+"Incoming Supply (+)",TRANSFER,CREDIT,false
+"Transfer (+)",TRANSFER,CREDIT,false
+"Return (+)",TRANSFER,CREDIT,false

@@ -1,0 +1,6 @@
+from,to,type,entityName,defaultValue
+username,id,TO_ID_BY_USERNAME,User,
+username,username,DIRECT,,
+password,password,USE_DEFAULT,,password
+role,role,DIRECT,,
+enabled,enabled,DIRECT,,

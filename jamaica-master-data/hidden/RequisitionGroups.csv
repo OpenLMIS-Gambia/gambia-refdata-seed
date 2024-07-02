@@ -1,0 +1,3 @@
+code,name,description,supervisoryNode,memberFacilities,requisitionGroupProgramSchedules
+NRG,National RG,,JAM,"[HCJ,JAM]",ALL
+HCJ,HCJ RG,,HCJ,"[PC008,PC005,PC004,PC001,PC002,PC006,PC003,PC007,PC010,PC009,HCJ,PC011,PC012,PC013]",ALL

@@ -1,0 +1,44 @@
+code, name, level, parent
+GMB,Gambia,CNT,
+CRR,Central River Region,RGN,GMB
+URR,Upper River Region,RGN,GMB
+LRR,Lower River Region,RGN,GMB
+NBWR,North Bank West Region,RGN,GMB
+NBER,North Bank East Region,RGN,GMB
+WHR1,Western Cost Region 1,RGN,GMB
+WHR2,Western Cost Region 2,RGN,GMB
+FUW,Fulladu West,DST,CRR
+JBH,Janjanbureh,DST,CRR
+LOS,Lower Soloum,DST,CRR
+NID,Niamina Dankunku,DST,CRR
+NIE,Niamina East,DST,CRR
+NIW,Niamina West,DST,CRR
+NIA,Niani,DST,CRR
+NIAJ,Nianija,DST,CRR
+SAM,Sami,DST,CRR
+UPS,Upper Soloum,DST,CRR
+JAC,Jarra Central,DST,LRR
+JAE,Jarra East,DST,LRR
+JAW,Jarra West,DST,LRR
+KIC,Kiang Central,DST,LRR
+KIE,Kiang East,DST,LRR
+KIW,Kiang West,DST,LRR
+LON,Lower Niumi,DST,NBWR
+UPB,Upper Baddibu,DST,NBWR
+UPN,Upper Niumi,DST,NBWR
+CEB,Central Baddibu,DST,NBER
+JOK,Jokadu,DST,NBER
+LOB,Lower Baddibu,DST,NBER
+FUE,Fulladu East,DST,URR
+KAN,Kantora,DST,URR
+SAN,Sandu,DST,URR
+WUL,Wuli,DST,URR
+KOC,Kombo Central ,DST,WHR1
+KOE,Kombo East ,DST,WHR1
+KON,Kombo North,DST,WHR1
+KSM,Kombo Saint Marry,DST,WHR1
+FBK,Foni Bintang-karenai,DST,WHR2
+FOB,Foni Bondali,DST,WHR2
+FOBE,Foni Berefet,DST,WHR2
+FOJ,Foni Jarrol,DST,WHR2
+FOK,Foni Kansal,DST,WHR2

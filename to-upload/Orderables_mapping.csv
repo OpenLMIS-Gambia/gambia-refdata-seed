@@ -1,0 +1,10 @@
+from,to,type,entityName,defaultValue
+productCode,productCode,DIRECT,,
+description,description,DIRECT,,
+name,fullProductName,DIRECT,,
+dispensingUnit,dispensable,TO_OBJECT,,
+packRoundingThreshold,packRoundingThreshold,DIRECT,,
+packSize,netContent,DIRECT,,
+roundToZero,roundToZero,DIRECT,,
+netContent,netContent,DIRECT,,
+productCode,programs,TO_ARRAY_FROM_FILE_BY_CODE,ProgramOrderables.csv,

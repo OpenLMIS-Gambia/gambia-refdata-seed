@@ -1,0 +1,2 @@
+code,name,description,supervisoryNode,memberFacilities,requisitionGroupProgramSchedules
+TestRG,Test RG,,GMB,"[GMB,CRR,URR,LRR,NBR,WHR]",ALL

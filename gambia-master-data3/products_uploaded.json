@@ -1,0 +1,1957 @@
+{
+  "content": [
+    {
+      "id": "837da22a-7370-4cc8-8c0f-a26cb6239c3a",
+      "productCode": "GAMB00001",
+      "fullProductName": "Clindamycin tablets 300mg",
+      "description": "Clindamycin tablets 300mg",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:32.798Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "9266e296-44c2-412b-a1f1-bfbf5e4bb096",
+      "productCode": "GAMB00002",
+      "fullProductName": "Doxycycline 100mg tablets/capsules",
+      "description": "Doxycycline 100mg tablets/capsules",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:33.085Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "b367a17b-00b4-4800-ab7e-a0b85165ca55",
+      "productCode": "GAMB00003",
+      "fullProductName": "Erythromycin 250mg (as stearate) tablets/capsules",
+      "description": "Erythromycin 250mg (as stearate) tablets/capsules",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:33.322Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "e8e51701-1597-48f1-9387-ea84e16992f5",
+      "productCode": "GAMB00004",
+      "fullProductName": "Erythromycin 125mg/5ml (as ethyl succinate) syrup",
+      "description": "Erythromycin 125mg/5ml (as ethyl succinate) syrup",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:33.548Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "f55b35d9-9812-4278-b91f-08dcc33b8066",
+      "productCode": "GAMB00005",
+      "fullProductName": "Gentamycin 40mg/ml injection",
+      "description": "Gentamycin 40mg/ml injection",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:33.783Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "85b6fd9a-438d-43de-b8f4-19a0f54e1f46",
+      "productCode": "GAMB00006",
+      "fullProductName": "Metronidazole 250mg/500mg tablets",
+      "description": "Metronidazole 250mg/500mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:34.013Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "7e24b288-50dc-4591-ab96-b085a111c153",
+      "productCode": "GAMB00007",
+      "fullProductName": "Metronidazole 125mg/5ml powder for syrup",
+      "description": "Metronidazole 125mg/5ml powder for syrup",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:34.234Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "ac355d37-df5e-4f3d-9fdc-a3258e01c2cc",
+      "productCode": "GAMB00008",
+      "fullProductName": "Metronidazole 5mg/ml injcetion, 100ml",
+      "description": "Metronidazole 5mg/ml injcetion, 100ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:34.454Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "888b2b31-665f-4b75-b727-ff35bc47108d",
+      "productCode": "GAMB00009",
+      "fullProductName": "Nitrofurantoin 100mg tablets",
+      "description": "Nitrofurantoin 100mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:34.673Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "2b7d8cce-e81e-4f32-afc0-32aa2d49bcb1",
+      "productCode": "GAMB00010",
+      "fullProductName": "Sulphamethozaxole 400mg/Trimethoprim 80mg tablets (Co-trimoxazole)",
+      "description": "Sulphamethozaxole 400mg/Trimethoprim 80mg tablets (Co-trimoxazole)",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:34.896Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "d5ab778a-c2ce-4449-bb20-8709112c1c09",
+      "productCode": "GAMB00011",
+      "fullProductName": "Sulphamethozaxole 100mg/Trimethoprim 20mg tablets (Co-trimoxazole)",
+      "description": "Sulphamethozaxole 100mg/Trimethoprim 20mg tablets (Co-trimoxazole)",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:35.123Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "a998469e-cbdc-4dc7-9134-d3fe89077bc7",
+      "productCode": "GAMB00012",
+      "fullProductName": "Sulphamethozaxole 200mg/Trimethoprim 40mg per 5ml suspension",
+      "description": "Sulphamethozaxole 200mg/Trimethoprim 40mg per 5ml suspension",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:35.351Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "0cde89de-dd3f-4ec3-8913-c9366c8b38f8",
+      "productCode": "GAMB00013",
+      "fullProductName": "Vancomycin 125mg capsules",
+      "description": "Vancomycin 125mg capsules",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:35.575Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "9c0abae2-66ee-4dae-bfd5-45d72ece53e3",
+      "productCode": "GAMB00014",
+      "fullProductName": "Vancomycin 1g inj",
+      "description": "Vancomycin 1g inj",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:35.799Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "9b3a094b-ace5-4948-8dab-ec622b1b12bc",
+      "productCode": "GAMB00015",
+      "fullProductName": "Clofazimine(Lamprene) 50mg capsules",
+      "description": "Clofazimine(Lamprene) 50mg capsules",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:36.072Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "ab414c08-5e22-401a-bc2b-9d56ce063cc3",
+      "productCode": "GAMB00016",
+      "fullProductName": "Dapsone 100mg tablets",
+      "description": "Dapsone 100mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:36.3Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "234669da-8fd1-47e7-a679-7c439710349c",
+      "productCode": "GAMB00017",
+      "fullProductName": "Ethambutol 400mg tablets",
+      "description": "Ethambutol 400mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:36.528Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "f26ad6e6-71b4-4990-a21c-89c8e8a36519",
+      "productCode": "GAMB00018",
+      "fullProductName": "Isoniazid 100mg tablets",
+      "description": "Isoniazid 100mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:36.751Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "e02e5058-f0a0-43a8-afe9-870aed053f43",
+      "productCode": "GAMB00019",
+      "fullProductName": "Isoniazid 300mg tablets",
+      "description": "Isoniazid 300mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:36.979Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "150bffeb-c8df-44ca-964b-347743f7f639",
+      "productCode": "GAMB00020",
+      "fullProductName": "Pyrazinamide 400mg tablets",
+      "description": "Pyrazinamide 400mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:37.203Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "b1bf9c31-687b-41c9-aaec-03a2727e08f6",
+      "productCode": "GAMB00021",
+      "fullProductName": "Rifampicin 150mg tablets/capsules",
+      "description": "Rifampicin 150mg tablets/capsules",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:37.427Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "73be7d11-7fbe-44fb-8ad0-e552f97ed81c",
+      "productCode": "GAMB00022",
+      "fullProductName": "Rifampicin 300mg tablets/capsules",
+      "description": "Rifampicin 300mg tablets/capsules",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:37.654Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "41d7c0ad-f535-445e-a0bb-d0079aeade7f",
+      "productCode": "GAMB00023",
+      "fullProductName": "Rifampicin 300mg/Isoniazid 150mg tablets",
+      "description": "Rifampicin 300mg/Isoniazid 150mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:37.88Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "089736b3-f3dd-422f-8cc7-cff7dda43d2f",
+      "productCode": "GAMB00024",
+      "fullProductName": "Rifampicin 150mg/Isoniazid 150mg",
+      "description": "Rifampicin 150mg/Isoniazid 150mg",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:38.114Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "979cf7b2-de28-485f-87bb-3f1e41a787f1",
+      "productCode": "GAMB00025",
+      "fullProductName": "Streptomycin 1g powder for injection",
+      "description": "Streptomycin 1g powder for injection",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:38.34Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "48029e0c-3168-4230-a721-00ea565fe5f1",
+      "productCode": "GAMB00026",
+      "fullProductName": "Amikacin sulphate 250mg/ml, 2ml vial",
+      "description": "Amikacin sulphate 250mg/ml, 2ml vial",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:38.558Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "a7efb4e6-662b-42a4-8381-e096d5855f29",
+      "productCode": "GAMB00027",
+      "fullProductName": "Kanamycin Sulphate powder for injection, Igm vial",
+      "description": "Kanamycin Sulphate powder for injection, Igm vial",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:38.775Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "23ba1ac3-a2f9-441d-9b9f-1c34e1d72c06",
+      "productCode": "GAMB00028",
+      "fullProductName": "Capreomycin Sulphate 1 MU powder for injection(1gm) vial",
+      "description": "Capreomycin Sulphate 1 MU powder for injection(1gm) vial",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:39Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "3e18d1a3-f1a5-434a-aadc-b315a66458d8",
+      "productCode": "GAMB00029",
+      "fullProductName": "Ofloxacin 200mg tablets",
+      "description": "Ofloxacin 200mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:39.23Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "8a59bb71-1048-40b5-8468-27a5a268a29d",
+      "productCode": "GAMB00030",
+      "fullProductName": "Ofloxacin Hydrochloride 2mg/ml, 50ml",
+      "description": "Ofloxacin Hydrochloride 2mg/ml, 50ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:39.454Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "20ed40f5-65d9-4005-b1c6-45bb82686f55",
+      "productCode": "GAMB00031",
+      "fullProductName": "Benzoic acid/ Salicylic acid comp ointment 6%/3%",
+      "description": "Benzoic acid/ Salicylic acid comp ointment 6%/3%",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:39.675Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "5118d04c-06cd-4fc0-b9ba-88d1be8c299e",
+      "productCode": "GAMB00032",
+      "fullProductName": "Clotrimazole 500mg Vaginal tablets with applicator",
+      "description": "Clotrimazole 500mg Vaginal tablets with applicator",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:39.903Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "4efff3e2-81c5-476d-b147-e74f0c439ba4",
+      "productCode": "GAMB00033",
+      "fullProductName": "Clotrimazole 1% cream",
+      "description": "Clotrimazole 1% cream",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:40.125Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "fdc86da2-d313-43fb-880c-92183b02bfe8",
+      "productCode": "GAMB00034",
+      "fullProductName": "Fluconazole 50mg Capsule",
+      "description": "Fluconazole 50mg Capsule",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:40.343Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "9089cef5-fdc2-4290-8360-afc472ad4289",
+      "productCode": "GAMB00035",
+      "fullProductName": "Griseofulvin 125mg tablets",
+      "description": "Griseofulvin 125mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:40.573Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "ddc246ef-300c-4905-8ebf-5ee3d209a3f6",
+      "productCode": "GAMB00036",
+      "fullProductName": "Griseofulvin 250mg tablets",
+      "description": "Griseofulvin 250mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:40.805Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "85c4914f-db31-45b1-84d2-27167cc23c88",
+      "productCode": "GAMB00037",
+      "fullProductName": "Ketoconazole 200mg tablets",
+      "description": "Ketoconazole 200mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:41.043Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "ff1b5daf-d4d1-43e7-ba32-1c945472177a",
+      "productCode": "GAMB00038",
+      "fullProductName": "Ketoconazole cream 1%",
+      "description": "Ketoconazole cream 1%",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:41.27Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "f69e71a1-ad2b-487a-85b0-05b3b7340f3e",
+      "productCode": "GAMB00039",
+      "fullProductName": "Miconazole 2% cream",
+      "description": "Miconazole 2% cream",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:41.489Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "0d901b24-82d1-4220-987e-32531dc8ae94",
+      "productCode": "GAMB00040",
+      "fullProductName": "Nystatin 100,000 iu oral suspension,",
+      "description": "Nystatin 100,000 iu oral suspension,",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:41.717Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "a31a0ef3-5e43-436d-ad08-85f2711698d8",
+      "productCode": "GAMB00041",
+      "fullProductName": "Nystatin 500,000 iu tablets",
+      "description": "Nystatin 500,000 iu tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:41.939Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "cd237109-52bd-4e26-8af0-8853ab118666",
+      "productCode": "GAMB00042",
+      "fullProductName": "Nystatin 100,000 iu tablets",
+      "description": "Nystatin 100,000 iu tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:42.171Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "58a372bc-8bfd-480f-a60d-7fac05ad8899",
+      "productCode": "GAMB00043",
+      "fullProductName": "Metronidazole 250mg tablets",
+      "description": "Metronidazole 250mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:42.417Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "03ede43c-1a51-48ce-aaa3-ed4365d26fa6",
+      "productCode": "GAMB00046",
+      "fullProductName": "Metronidazole 500mg vaginal tablets",
+      "description": "Metronidazole 500mg vaginal tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:43.117Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "127002ea-e9db-4f43-8d6e-ad1c44c82f13",
+      "productCode": "GAMB00047",
+      "fullProductName": "Artemether/Lumefantrine 20/120mg",
+      "description": "Artemether/Lumefantrine 20/120mg",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:43.349Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "422f7a44-8a4c-4754-9971-5ca862a6682c",
+      "productCode": "GAMB00048",
+      "fullProductName": "Artesunate 60mg/5ml inj",
+      "description": "Artesunate 60mg/5ml inj",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:43.58Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "b0cbbcbc-2a2c-4067-8cd5-4b75f09db1f6",
+      "productCode": "GAMB00051",
+      "fullProductName": "Quinine 300mg tablets",
+      "description": "Quinine 300mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:44.269Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "96b7547c-c7f4-40e1-8437-916763902e5a",
+      "productCode": "GAMB00052",
+      "fullProductName": "Quinine 300mg /ml injection , 2ml",
+      "description": "Quinine 300mg /ml injection , 2ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:44.518Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "92f38d0d-0927-4d07-9ded-3925efe1c2fa",
+      "productCode": "GAMB00053",
+      "fullProductName": "Sulphadoxine 500mg/Pyrimethamine 25mg tablets",
+      "description": "Sulphadoxine 500mg/Pyrimethamine 25mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:44.742Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "aa7922c2-c956-4d0e-8a4e-6833378cda9c",
+      "productCode": "GAMB00056",
+      "fullProductName": "Cyclophosphamide 50omg powder for injection",
+      "description": "Cyclophosphamide 50omg powder for injection",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:45.439Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "368853cf-f08d-46b6-a5e4-bd62924f3a19",
+      "productCode": "GAMB00057",
+      "fullProductName": "Cytarabine 100mg/ml injection, iml",
+      "description": "Cytarabine 100mg/ml injection, iml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:45.668Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "5fd2c094-8d0f-45bf-a0d6-d5bc02502ccd",
+      "productCode": "GAMB00058",
+      "fullProductName": "Doxorubicin 2mg/ml for inj",
+      "description": "Doxorubicin 2mg/ml for inj",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:45.905Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "995e658c-cfe7-433b-9406-9842a45cdc17",
+      "productCode": "GAMB00061",
+      "fullProductName": "Mercaptopurine 50mg tabs",
+      "description": "Mercaptopurine 50mg tabs",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:46.624Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "f191fa26-e015-42d8-a7f8-1a21a256033b",
+      "productCode": "GAMB00062",
+      "fullProductName": "Methotrexate 10mg tablets",
+      "description": "Methotrexate 10mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:46.863Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "3fb4a2cb-5f9b-4c6c-bdf8-cfeffd7062bf",
+      "productCode": "GAMB00063",
+      "fullProductName": "Methotrexate 50mg/2ml injcetion",
+      "description": "Methotrexate 50mg/2ml injcetion",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:47.245Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "eb7a4473-8149-4d77-a51c-70f256cbfcde",
+      "productCode": "GAMB00065",
+      "fullProductName": "Tamoxifen 20mg tabs",
+      "description": "Tamoxifen 20mg tabs",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:47.769Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "9bf827e2-86b7-47e8-ba32-d465b9209330",
+      "productCode": "GAMB00066",
+      "fullProductName": "Vincristine 50mg/2ml inj",
+      "description": "Vincristine 50mg/2ml inj",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:48.039Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "60cc9e5f-c49d-4b07-97a0-d890e0daeda9",
+      "productCode": "GAMB00067",
+      "fullProductName": "Dexamethasone Sodium Phosphate 4mg/ml injcetion, 1ml",
+      "description": "Dexamethasone Sodium Phosphate 4mg/ml injcetion, 1ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:48.306Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "b30cf4c5-6953-4d4b-beb1-9ec727ff08c5",
+      "productCode": "GAMB00069",
+      "fullProductName": "Prednisolone 5mg tablets",
+      "description": "Prednisolone 5mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:48.803Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "5cce7fb9-a5ba-4ec8-9d13-c4b1c09799e2",
+      "productCode": "GAMB00070",
+      "fullProductName": "Tamoxifen 10mg tablets",
+      "description": "Tamoxifen 10mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:49.056Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "4d41c062-d6c3-4c54-a0b7-32cafc2afd02",
+      "productCode": "GAMB00071",
+      "fullProductName": "Benzhexol 2mg tablets",
+      "description": "Benzhexol 2mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:49.307Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "8f8143f5-3b6b-45a9-8362-d08c1b1d467e",
+      "productCode": "GAMB00072",
+      "fullProductName": "Benztropine mesylate 1mg/ml inj",
+      "description": "Benztropine mesylate 1mg/ml inj",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:49.586Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "a4fbce7a-427a-4164-b620-2ab08a4dd1e5",
+      "productCode": "GAMB00074",
+      "fullProductName": "Ferrous Sulphate 200mg (60mg Ferrous iron) tablets",
+      "description": "Ferrous Sulphate 200mg (60mg Ferrous iron) tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:50.109Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "b4dc76e7-eabf-4381-bc14-a3dc84c1b0a5",
+      "productCode": "GAMB00075",
+      "fullProductName": "Ferrous Sulphate 200mg/Folic Acid 0.25mg tablets",
+      "description": "Ferrous Sulphate 200mg/Folic Acid 0.25mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:50.349Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "21ef7359-46af-4648-8a93-582db36af0a7",
+      "productCode": "GAMB00076",
+      "fullProductName": "Folic Acid 5mg tablets",
+      "description": "Folic Acid 5mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:50.594Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "7d08dd1b-4ec9-41d9-acd4-ec107496fd3f",
+      "productCode": "GAMB00077",
+      "fullProductName": "Cyanacobalamin (Vitamin B12 ) 1mg/ml injcetion, 1ml",
+      "description": "Cyanacobalamin (Vitamin B12 ) 1mg/ml injcetion, 1ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:50.952Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "2dca7a91-7598-4ce8-b818-5e63403ed129",
+      "productCode": "GAMB00079",
+      "fullProductName": "Aspirin (Acetylsalicylic acid) 75mg tablets",
+      "description": "Aspirin (Acetylsalicylic acid) 75mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:51.5Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "0721ed7a-6b31-497a-ba04-f5555526f753",
+      "productCode": "GAMB00080",
+      "fullProductName": "Aspirin (Acetylsalicylic acid) 300mg tablets",
+      "description": "Aspirin (Acetylsalicylic acid) 300mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:51.75Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "60d1c698-4972-4f33-8bb8-be0e2db08ecd",
+      "productCode": "GAMB00081",
+      "fullProductName": "Dipyridamole 25mg/100mg tablets",
+      "description": "Dipyridamole 25mg/100mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:52Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "39d993af-73a1-4a3a-bbfa-fddf52c91d61",
+      "productCode": "GAMB00082",
+      "fullProductName": "Heparin inj 500 iu/ml injcetion, 5ml",
+      "description": "Heparin inj 500 iu/ml injcetion, 5ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:52.242Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "15386394-9a81-4d76-b774-4c43aa71ff1b",
+      "productCode": "GAMB00084",
+      "fullProductName": "Warfarin 5mg / 1mg tablets",
+      "description": "Warfarin 5mg / 1mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:52.727Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "c6117e5f-7fc5-4612-b47a-284b67790129",
+      "productCode": "GAMB00085",
+      "fullProductName": "Tranexamic acid 500mg inj 5ml",
+      "description": "Tranexamic acid 500mg inj 5ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:52.97Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "3a3e7242-5a65-4643-8766-05124decf80c",
+      "productCode": "GAMB00086",
+      "fullProductName": "Dextran \"70\" 6% Sodium Chloride 0.9% infusion,",
+      "description": "Dextran \"70\" 6% Sodium Chloride 0.9% infusion,",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:53.215Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "e83bc4dd-11ba-4f44-bf02-df5b11c3ef89",
+      "productCode": "GAMB00087",
+      "fullProductName": "GlycerylTrinitrate (Nitroglycerine) 0.5mCg tablets, Sublingual",
+      "description": "GlycerylTrinitrate (Nitroglycerine) 0.5mCg tablets, Sublingual",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:53.468Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "c9e9d85f-a419-4f87-87b7-d42c595eb280",
+      "productCode": "GAMB00089",
+      "fullProductName": "IsosorbideDinitrate 10mg tablets",
+      "description": "IsosorbideDinitrate 10mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:53.941Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "a2a43a8f-7189-48ef-8129-69742db98022",
+      "productCode": "GAMB00090",
+      "fullProductName": "Nifedipine 10mg ablets /capsules",
+      "description": "Nifedipine 10mg ablets /capsules",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:54.204Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "9ac9a7af-de9a-4417-a852-7ba1393ecc5a",
+      "productCode": "GAMB00091",
+      "fullProductName": "Propranolol 40mg tablets",
+      "description": "Propranolol 40mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:54.463Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "93534baf-5ba4-4188-9f22-c2cbf57b6f50",
+      "productCode": "GAMB00092",
+      "fullProductName": "Verapamil 40mg tablets",
+      "description": "Verapamil 40mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:54.723Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "4b3de192-8f34-479c-a8dc-579de6a74675",
+      "productCode": "GAMB00094",
+      "fullProductName": "Atenolol 50mg tablets",
+      "description": "Atenolol 50mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:55.208Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "2b150796-cf08-4dd8-92d7-4a6b78f38c03",
+      "productCode": "GAMB00095",
+      "fullProductName": "Propranolol 40mg tablets",
+      "description": "Propranolol 40mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:55.472Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "fc1d5d15-711c-455f-89e5-31e9374395ff",
+      "productCode": "GAMB00096",
+      "fullProductName": "Verapamil 40mg tablets",
+      "description": "Verapamil 40mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:55.709Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "1f610fa0-f7a7-4f39-95d5-b9042bcaf101",
+      "productCode": "GAMB00097",
+      "fullProductName": "Atenolol 50mg tablets",
+      "description": "Atenolol 50mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:55.96Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "155f2e60-88c2-4e57-bac2-829ed694472f",
+      "productCode": "GAMB00044",
+      "fullProductName": "Metronidazole 125mg/5ml powder for syrup",
+      "description": "Metronidazole 125mg/5ml powder for syrup",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:42.655Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "64e98b38-15cf-4c81-a0fc-111c61d976f3",
+      "productCode": "GAMB00045",
+      "fullProductName": "Metronidazole 5mg/ml injection, 100ml",
+      "description": "Metronidazole 5mg/ml injection, 100ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:42.883Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "755841a9-dad8-41c2-9f7d-9f90706e73f4",
+      "productCode": "GAMB00049",
+      "fullProductName": "Artesunate/Amodiaquine 50mg/150mg&200mg/150mg base tablet",
+      "description": "Artesunate/Amodiaquine 50mg/150mg&200mg/150mg base tablet",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:43.813Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "9ecc98e6-19c8-4149-834b-f5aa8097fad2",
+      "productCode": "GAMB00050",
+      "fullProductName": "Pyrimethamine 25mg tablets",
+      "description": "Pyrimethamine 25mg tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:44.044Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "5af0e120-54f4-4a85-945a-51590b5e25ab",
+      "productCode": "GAMB00054",
+      "fullProductName": "Azathioprine 50mg tabs",
+      "description": "Azathioprine 50mg tabs",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:44.975Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "8d818b54-a5fd-4dd4-b918-7922863a6ed4",
+      "productCode": "GAMB00055",
+      "fullProductName": "Cisplatin 1mg/ml injection, 50ml",
+      "description": "Cisplatin 1mg/ml injection, 50ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:45.207Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "a5688be9-177f-4d6e-bc54-75067a60421c",
+      "productCode": "GAMB00059",
+      "fullProductName": "Fluorouracil 25mg/ml injcetion, 10ml",
+      "description": "Fluorouracil 25mg/ml injcetion, 10ml",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:46.138Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "d2bc18b0-0ff6-4cb7-9a3b-f1eca36cf7b5",
+      "productCode": "GAMB00060",
+      "fullProductName": "Letrozole 2.5mg tabs",
+      "description": "Letrozole 2.5mg tabs",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:46.375Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "3a1aa718-c4f4-4ea6-a0a4-a681a279c3a9",
+      "productCode": "GAMB00064",
+      "fullProductName": "Procarbazine 50mg capsules/tablets",
+      "description": "Procarbazine 50mg capsules/tablets",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:47.513Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "05111a8d-e611-4c49-824a-94e529e97dac",
+      "productCode": "GAMB00068",
+      "fullProductName": "Hydrocortisone Sodium Succinate 100mg powder for injection",
+      "description": "Hydrocortisone Sodium Succinate 100mg powder for injection",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:48.556Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    },
+    {
+      "id": "8b379a4a-1956-45c0-9856-a89d34d102f1",
+      "productCode": "GAMB00073",
+      "fullProductName": "FerrosFumerate 140mg/5ml syrup",
+      "description": "FerrosFumerate 140mg/5ml syrup",
+      "netContent": 1,
+      "packRoundingThreshold": 1,
+      "roundToZero": true,
+      "programs": [],
+      "children": [],
+      "identifiers": {},
+      "extraData": {},
+      "meta": {
+        "versionNumber": 1,
+        "lastUpdated": "2022-06-29T00:34:49.875Z"
+      },
+      "dispensable": {
+        "dispensingUnit": "each",
+        "displayUnit": "each"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+code,program,category,dosesPerPatient, active, fullSupply,displayOrder, pricePerPack
+GAMB00133,MLA,Malaria,1,TRUE,TRUE,1,0
+GAMB00134,MLA,Malaria,1,TRUE,TRUE,1,0
+GAMB00135,MLA,Malaria,1,TRUE,TRUE,1,0
+GAMB00136,MLA,Malaria,1,TRUE,TRUE,1,0
+GAMB00137,MLA,Malaria,1,TRUE,TRUE,1,0
+GAMB00138,MLA,Malaria,1,TRUE,TRUE,1,0
+GAMB00139,MLA,Malaria,1,TRUE,TRUE,1,0
+GAMB00140,MLA,Malaria,1,TRUE,TRUE,1,0

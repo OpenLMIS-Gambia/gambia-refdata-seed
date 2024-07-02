@@ -1,0 +1,394 @@
+productCode, description, name,dispensingUnit, packRoundingThreshold, packSize, roundToZero,netContent,productCode
+GAMB00001,Clindamycin tablets 300mg,Clindamycin tablets 300mg,dispensingUnit:each,1,1,TRUE,1,GAMB00001
+GAMB00002,Doxycycline 100mg tablets/capsules,Doxycycline 100mg tablets/capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00002
+GAMB00003,Erythromycin 250mg (as stearate) tablets/capsules,Erythromycin 250mg (as stearate) tablets/capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00003
+GAMB00004,Erythromycin 125mg/5ml (as ethyl succinate) syrup,Erythromycin 125mg/5ml (as ethyl succinate) syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00004
+GAMB00005,Gentamycin 40mg/ml injection,Gentamycin 40mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00005
+GAMB00006,Metronidazole 250mg/500mg tablets,Metronidazole 250mg/500mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00006
+GAMB00007,Metronidazole 125mg/5ml powder for syrup,Metronidazole 125mg/5ml powder for syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00007
+GAMB00008,"Metronidazole 5mg/ml injcetion, 100ml","Metronidazole 5mg/ml injcetion, 100ml",dispensingUnit:each,1,1,TRUE,1,GAMB00008
+GAMB00009,Nitrofurantoin 100mg tablets,Nitrofurantoin 100mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00009
+GAMB00010,Sulphamethozaxole 400mg/Trimethoprim 80mg tablets (Co-trimoxazole),Sulphamethozaxole 400mg/Trimethoprim 80mg tablets (Co-trimoxazole),dispensingUnit:each,1,1,TRUE,1,GAMB00010
+GAMB00011,Sulphamethozaxole 100mg/Trimethoprim 20mg tablets (Co-trimoxazole),Sulphamethozaxole 100mg/Trimethoprim 20mg tablets (Co-trimoxazole),dispensingUnit:each,1,1,TRUE,1,GAMB00011
+GAMB00012,Sulphamethozaxole 200mg/Trimethoprim 40mg per 5ml suspension,Sulphamethozaxole 200mg/Trimethoprim 40mg per 5ml suspension,dispensingUnit:each,1,1,TRUE,1,GAMB00012
+GAMB00013,Vancomycin 125mg capsules,Vancomycin 125mg capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00013
+GAMB00014,Vancomycin 1g inj,Vancomycin 1g inj,dispensingUnit:each,1,1,TRUE,1,GAMB00014
+GAMB00015,Clofazimine(Lamprene) 50mg capsules,Clofazimine(Lamprene) 50mg capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00015
+GAMB00016,Dapsone 100mg tablets,Dapsone 100mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00016
+GAMB00017,Ethambutol 400mg tablets,Ethambutol 400mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00017
+GAMB00018,Isoniazid 100mg tablets,Isoniazid 100mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00018
+GAMB00019,Isoniazid 300mg tablets,Isoniazid 300mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00019
+GAMB00020,Pyrazinamide 400mg tablets,Pyrazinamide 400mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00020
+GAMB00021,Rifampicin 150mg tablets/capsules,Rifampicin 150mg tablets/capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00021
+GAMB00022,Rifampicin 300mg tablets/capsules,Rifampicin 300mg tablets/capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00022
+GAMB00023,Rifampicin 300mg/Isoniazid 150mg tablets,Rifampicin 300mg/Isoniazid 150mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00023
+GAMB00024,Rifampicin 150mg/Isoniazid 150mg,Rifampicin 150mg/Isoniazid 150mg,dispensingUnit:each,1,1,TRUE,1,GAMB00024
+GAMB00025,Streptomycin 1g powder for injection,Streptomycin 1g powder for injection,dispensingUnit:each,1,1,TRUE,1,GAMB00025
+GAMB00026,"Amikacin sulphate 250mg/ml, 2ml vial","Amikacin sulphate 250mg/ml, 2ml vial",dispensingUnit:each,1,1,TRUE,1,GAMB00026
+GAMB00027,"Kanamycin Sulphate powder for injection, Igm vial","Kanamycin Sulphate powder for injection, Igm vial",dispensingUnit:each,1,1,TRUE,1,GAMB00027
+GAMB00028,Capreomycin Sulphate 1 MU powder for injection(1gm) vial,Capreomycin Sulphate 1 MU powder for injection(1gm) vial,dispensingUnit:each,1,1,TRUE,1,GAMB00028
+GAMB00029,Ofloxacin 200mg tablets,Ofloxacin 200mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00029
+GAMB00030,"Ofloxacin Hydrochloride 2mg/ml, 50ml","Ofloxacin Hydrochloride 2mg/ml, 50ml",dispensingUnit:each,1,1,TRUE,1,GAMB00030
+GAMB00031,Benzoic acid/ Salicylic acid comp ointment 6%/3%,Benzoic acid/ Salicylic acid comp ointment 6%/3%,dispensingUnit:each,1,1,TRUE,1,GAMB00031
+GAMB00032,Clotrimazole 500mg Vaginal tablets with applicator,Clotrimazole 500mg Vaginal tablets with applicator,dispensingUnit:each,1,1,TRUE,1,GAMB00032
+GAMB00033,Clotrimazole 1% cream,Clotrimazole 1% cream,dispensingUnit:each,1,1,TRUE,1,GAMB00033
+GAMB00034,Fluconazole 50mg Capsule,Fluconazole 50mg Capsule,dispensingUnit:each,1,1,TRUE,1,GAMB00034
+GAMB00035,Griseofulvin 125mg tablets,Griseofulvin 125mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00035
+GAMB00036,Griseofulvin 250mg tablets,Griseofulvin 250mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00036
+GAMB00037,Ketoconazole 200mg tablets,Ketoconazole 200mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00037
+GAMB00038,Ketoconazole cream 1%,Ketoconazole cream 1%,dispensingUnit:each,1,1,TRUE,1,GAMB00038
+GAMB00039,Miconazole 2% cream,Miconazole 2% cream,dispensingUnit:each,1,1,TRUE,1,GAMB00039
+GAMB00040,"Nystatin 100,000 iu oral suspension,","Nystatin 100,000 iu oral suspension,",dispensingUnit:each,1,1,TRUE,1,GAMB00040
+GAMB00041,"Nystatin 500,000 iu tablets","Nystatin 500,000 iu tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00041
+GAMB00042,"Nystatin 100,000 iu tablets","Nystatin 100,000 iu tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00042
+GAMB00043,Metronidazole 250mg tablets,Metronidazole 250mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00043
+GAMB00044,Metronidazole 125mg/5ml powder for syrup,Metronidazole 125mg/5ml powder for syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00044
+GAMB00045,"Metronidazole 5mg/ml injection, 100ml","Metronidazole 5mg/ml injection, 100ml",dispensingUnit:each,1,1,TRUE,1,GAMB00045
+GAMB00046,Metronidazole 500mg vaginal tablets,Metronidazole 500mg vaginal tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00046
+GAMB00047,Artemether/Lumefantrine 20/120mg,Artemether/Lumefantrine 20/120mg,dispensingUnit:each,1,1,TRUE,1,GAMB00047
+GAMB00048,Artesunate 60mg/5ml inj,Artesunate 60mg/5ml inj,dispensingUnit:each,1,1,TRUE,1,GAMB00048
+GAMB00049,Artesunate/Amodiaquine 50mg/150mg&200mg/150mg base tablet,Artesunate/Amodiaquine 50mg/150mg&200mg/150mg base tablet,dispensingUnit:each,1,1,TRUE,1,GAMB00049
+GAMB00050,Pyrimethamine 25mg tablets,Pyrimethamine 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00050
+GAMB00051,Quinine 300mg tablets,Quinine 300mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00051
+GAMB00052,"Quinine 300mg /ml injection , 2ml","Quinine 300mg /ml injection , 2ml",dispensingUnit:each,1,1,TRUE,1,GAMB00052
+GAMB00053,Sulphadoxine 500mg/Pyrimethamine 25mg tablets,Sulphadoxine 500mg/Pyrimethamine 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00053
+GAMB00054,Azathioprine 50mg tabs,Azathioprine 50mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00054
+GAMB00055,"Cisplatin 1mg/ml injection, 50ml","Cisplatin 1mg/ml injection, 50ml",dispensingUnit:each,1,1,TRUE,1,GAMB00055
+GAMB00056,Cyclophosphamide 50omg powder for injection,Cyclophosphamide 50omg powder for injection,dispensingUnit:each,1,1,TRUE,1,GAMB00056
+GAMB00057,"Cytarabine 100mg/ml injection, iml","Cytarabine 100mg/ml injection, iml",dispensingUnit:each,1,1,TRUE,1,GAMB00057
+GAMB00058,Doxorubicin 2mg/ml for inj,Doxorubicin 2mg/ml for inj,dispensingUnit:each,1,1,TRUE,1,GAMB00058
+GAMB00059,"Fluorouracil 25mg/ml injcetion, 10ml","Fluorouracil 25mg/ml injcetion, 10ml",dispensingUnit:each,1,1,TRUE,1,GAMB00059
+GAMB00060,Letrozole 2.5mg tabs,Letrozole 2.5mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00060
+GAMB00061,Mercaptopurine 50mg tabs,Mercaptopurine 50mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00061
+GAMB00062,Methotrexate 10mg tablets,Methotrexate 10mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00062
+GAMB00063,Methotrexate 50mg/2ml injcetion,Methotrexate 50mg/2ml injcetion,dispensingUnit:each,1,1,TRUE,1,GAMB00063
+GAMB00064,Procarbazine 50mg capsules/tablets,Procarbazine 50mg capsules/tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00064
+GAMB00065,Tamoxifen 20mg tabs,Tamoxifen 20mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00065
+GAMB00066,Vincristine 50mg/2ml inj,Vincristine 50mg/2ml inj,dispensingUnit:each,1,1,TRUE,1,GAMB00066
+GAMB00067,"Dexamethasone Sodium Phosphate 4mg/ml injcetion, 1ml","Dexamethasone Sodium Phosphate 4mg/ml injcetion, 1ml",dispensingUnit:each,1,1,TRUE,1,GAMB00067
+GAMB00068,Hydrocortisone Sodium Succinate 100mg powder for injection,Hydrocortisone Sodium Succinate 100mg powder for injection,dispensingUnit:each,1,1,TRUE,1,GAMB00068
+GAMB00069,Prednisolone 5mg tablets,Prednisolone 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00069
+GAMB00070,Tamoxifen 10mg tablets,Tamoxifen 10mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00070
+GAMB00071,Benzhexol 2mg tablets,Benzhexol 2mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00071
+GAMB00072,Benztropine mesylate 1mg/ml inj,Benztropine mesylate 1mg/ml inj,dispensingUnit:each,1,1,TRUE,1,GAMB00072
+GAMB00073,FerrosFumerate 140mg/5ml syrup,FerrosFumerate 140mg/5ml syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00073
+GAMB00074,Ferrous Sulphate 200mg (60mg Ferrous iron) tablets,Ferrous Sulphate 200mg (60mg Ferrous iron) tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00074
+GAMB00075,Ferrous Sulphate 200mg/Folic Acid 0.25mg tablets,Ferrous Sulphate 200mg/Folic Acid 0.25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00075
+GAMB00076,Folic Acid 5mg tablets,Folic Acid 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00076
+GAMB00077,"Cyanacobalamin (Vitamin B12 ) 1mg/ml injcetion, 1ml","Cyanacobalamin (Vitamin B12 ) 1mg/ml injcetion, 1ml",dispensingUnit:each,1,1,TRUE,1,GAMB00077
+GAMB00078,"Iron Dextran 50mg ferrous iron/ml injection, 5ml","Iron Dextran 50mg ferrous iron/ml injection, 5ml",dispensingUnit:each,1,1,TRUE,1,GAMB00078
+GAMB00079,Aspirin (Acetylsalicylic acid) 75mg tablets,Aspirin (Acetylsalicylic acid) 75mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00079
+GAMB00080,Aspirin (Acetylsalicylic acid) 300mg tablets,Aspirin (Acetylsalicylic acid) 300mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00080
+GAMB00081,Dipyridamole 25mg/100mg tablets,Dipyridamole 25mg/100mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00081
+GAMB00082,"Heparin inj 500 iu/ml injcetion, 5ml","Heparin inj 500 iu/ml injcetion, 5ml",dispensingUnit:each,1,1,TRUE,1,GAMB00082
+GAMB00083,"Phytomenadione (Vitamin K) 10mg/ml injcetion, 1ml","Phytomenadione (Vitamin K) 10mg/ml injcetion, 1ml",dispensingUnit:each,1,1,TRUE,1,GAMB00083
+GAMB00084,Warfarin 5mg / 1mg tablets,Warfarin 5mg / 1mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00084
+GAMB00085,Tranexamic acid 500mg inj 5ml,Tranexamic acid 500mg inj 5ml,dispensingUnit:each,1,1,TRUE,1,GAMB00085
+GAMB00086,"Dextran ""70"" 6% Sodium Chloride 0.9% infusion,","Dextran ""70"" 6% Sodium Chloride 0.9% infusion,",dispensingUnit:each,1,1,TRUE,1,GAMB00086
+GAMB00087,"GlycerylTrinitrate (Nitroglycerine) 0.5mCg tablets, Sublingual","GlycerylTrinitrate (Nitroglycerine) 0.5mCg tablets, Sublingual",dispensingUnit:each,1,1,TRUE,1,GAMB00087
+GAMB00088,GlycerylTrinitrate (Nitroglycerine) 1mg/ml inj,GlycerylTrinitrate (Nitroglycerine) 1mg/ml inj,dispensingUnit:each,1,1,TRUE,1,GAMB00088
+GAMB00089,IsosorbideDinitrate 10mg tablets,IsosorbideDinitrate 10mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00089
+GAMB00090,Nifedipine 10mg ablets /capsules,Nifedipine 10mg ablets /capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00090
+GAMB00091,Propranolol 40mg tablets,Propranolol 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00091
+GAMB00092,Verapamil 40mg tablets,Verapamil 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00092
+GAMB00093,Amiodarone 200mg tablets,Amiodarone 200mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00093
+GAMB00094,Atenolol 50mg tablets,Atenolol 50mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00094
+GAMB00095,Propranolol 40mg tablets,Propranolol 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00095
+GAMB00096,Verapamil 40mg tablets,Verapamil 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00096
+GAMB00097,Atenolol 50mg tablets,Atenolol 50mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00097
+GAMB00098,Amlodipine 5mg tablets,Amlodipine 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00098
+GAMB00099,Captopril 25mg tablets,Captopril 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00099
+GAMB00100,Bendrofluazide 5mg tablets,Bendrofluazide 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00100
+GAMB00101,Enalapril 5mg tabs,Enalapril 5mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00101
+GAMB00102,Frusemide 40mg tablets,Frusemide 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00102
+GAMB00103,Frusemide 20mg/2ml injection,Frusemide 20mg/2ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00103
+GAMB00104,Hydralazine 25mg tablets,Hydralazine 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00104
+GAMB00105,"Hydralazine 20mg/ml injcetion, 1ml","Hydralazine 20mg/ml injcetion, 1ml",dispensingUnit:each,1,1,TRUE,1,GAMB00105
+GAMB00106,Hydrochlorothiazide 50mg/ 25mg tablets,Hydrochlorothiazide 50mg/ 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00106
+GAMB00107,Methyldopa 250mg tablets,Methyldopa 250mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00107
+GAMB00108,Nifedipine 10mg/20mg tablets/capsules,Nifedipine 10mg/20mg tablets/capsules,dispensingUnit:each,1,1,TRUE,1,GAMB00108
+GAMB00109,Propranolol 40mg tablets,Propranolol 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00109
+GAMB00110,Propanolol 1mg/ml inj,Propanolol 1mg/ml inj,dispensingUnit:each,1,1,TRUE,1,GAMB00110
+GAMB00111,Spironolactone 25mg tablets,Spironolactone 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00111
+GAMB00112,Verapamil 40mg tablets,Verapamil 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00112
+GAMB00113,Digoxin 0.25mg tablets,Digoxin 0.25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00113
+GAMB00114,"Dopamine 40mg/ml injcetion, 5ml","Dopamine 40mg/ml injcetion, 5ml",dispensingUnit:each,1,1,TRUE,1,GAMB00114
+GAMB00115,Benzoic Acid 6% Salicylic Acid 3% Ointment (Whitfields Ointment),Benzoic Acid 6% Salicylic Acid 3% Ointment (Whitfields Ointment),dispensingUnit:each,1,1,TRUE,1,GAMB00115
+GAMB00116,Clotrimazole 1% cream,Clotrimazole 1% cream,dispensingUnit:each,1,1,TRUE,1,GAMB00116
+GAMB00117,Miconazole 2% cream,Miconazole 2% cream,dispensingUnit:each,1,1,TRUE,1,GAMB00117
+GAMB00118,Chlorhexidine 1% antiseptic cream,Chlorhexidine 1% antiseptic cream,dispensingUnit:each,1,1,TRUE,1,GAMB00118
+GAMB00119,Crystal Violet (Gentian Violet) paint,Crystal Violet (Gentian Violet) paint,dispensingUnit:each,1,1,TRUE,1,GAMB00119
+GAMB00120,Neomycin 0.5% /Bacitracin 500iu/g Ointment,Neomycin 0.5% /Bacitracin 500iu/g Ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00120
+GAMB00121,Silver Sulphadiazine 1% cream,Silver Sulphadiazine 1% cream,dispensingUnit:each,1,1,TRUE,1,GAMB00121
+GAMB00122,Tetracycline 3% ointment,Tetracycline 3% ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00122
+GAMB00123,Betamethasone 0.1% Ointment,Betamethasone 0.1% Ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00123
+GAMB00124,Calamine Lotion BP,Calamine Lotion BP,dispensingUnit:each,1,1,TRUE,1,GAMB00124
+GAMB00125,Hydrocortisone 1% cream,Hydrocortisone 1% cream,dispensingUnit:each,1,1,TRUE,1,GAMB00125
+GAMB00126,Lubricating Jelly,Lubricating Jelly,dispensingUnit:each,1,1,TRUE,1,GAMB00126
+GAMB00127,"Paraffin, soft White BP","Paraffin, soft White BP",dispensingUnit:each,1,1,TRUE,1,GAMB00127
+GAMB00128,Zinc Oxide 10% Ointment,Zinc Oxide 10% Ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00128
+GAMB00129,"Silver Nitrate 95% caustic pencil, single","Silver Nitrate 95% caustic pencil, single",dispensingUnit:each,1,1,TRUE,1,GAMB00129
+GAMB00130,Podophyllin 2-10%,Podophyllin 2-10%,dispensingUnit:each,1,1,TRUE,1,GAMB00130
+GAMB00131,Benzyl Benzoate 25% application,Benzyl Benzoate 25% application,dispensingUnit:each,1,1,TRUE,1,GAMB00131
+GAMB00132,Rapid Diagnostic Test (RDTs),Rapid Diagnostic Test (RDTs),dispensingUnit:each,1,1,TRUE,1,GAMB00132
+GAMB00133,"Fluprescein, diagnostic eye strips","Fluprescein, diagnostic eye strips",dispensingUnit:each,1,1,TRUE,1,GAMB00133
+GAMB00134,Tropicamide 1% eye drops,Tropicamide 1% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00134
+GAMB00135,Urografin 76%,Urografin 76%,dispensingUnit:each,1,1,TRUE,1,GAMB00135
+GAMB00136,Gastrografin,Gastrografin,dispensingUnit:each,1,1,TRUE,1,GAMB00136
+GAMB00137,CT contrast medium,CT contrast medium,dispensingUnit:each,1,1,TRUE,1,GAMB00137
+GAMB00138,Barium Sulphate garnules for suspension,Barium Sulphate garnules for suspension,dispensingUnit:each,1,1,TRUE,1,GAMB00138
+GAMB00139,Cetrimide 15% /Chlorhexidine 1.5% concentrate,Cetrimide 15% /Chlorhexidine 1.5% concentrate,dispensingUnit:each,1,1,TRUE,1,GAMB00139
+GAMB00140,Chlorhexidine 5% concentrate,Chlorhexidine 5% concentrate,dispensingUnit:each,1,1,TRUE,1,GAMB00140
+GAMB00141,Povidone Iodine 10% aqueous solution,Povidone Iodine 10% aqueous solution,dispensingUnit:each,1,1,TRUE,1,GAMB00141
+GAMB00142,Glutaraldehyde 2% aqueous solution,Glutaraldehyde 2% aqueous solution,dispensingUnit:each,1,1,TRUE,1,GAMB00142
+GAMB00143,Phenolic disinfectant(Lysol),Phenolic disinfectant(Lysol),dispensingUnit:each,1,1,TRUE,1,GAMB00143
+GAMB00144,Bendrofluazide 5mg tablets,Bendrofluazide 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00144
+GAMB00145,Frusemide 40mg tablets,Frusemide 40mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00145
+GAMB00146,Frusemide 10mg/ml injection,Frusemide 10mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00146
+GAMB00147,Hydrochlorothiazide 50mg tablets,Hydrochlorothiazide 50mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00147
+GAMB00148,Spironolactone 25mg tablets,Spironolactone 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00148
+GAMB00149,Magnesium Trisilicate Compound tablets,Magnesium Trisilicate Compound tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00149
+GAMB00150,Omeprazole 10mg tablets,Omeprazole 10mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00150
+GAMB00151,Omeprazole 40mg inj. Vial,Omeprazole 40mg inj. Vial,dispensingUnit:each,1,1,TRUE,1,GAMB00151
+GAMB00152,Ranitidine 150mg tablets,Ranitidine 150mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00152
+GAMB00153,"Ranitidine 25mg/ml, 2ml injection","Ranitidine 25mg/ml, 2ml injection",dispensingUnit:each,1,1,TRUE,1,GAMB00153
+GAMB00154,Metoclopramide 10mg tablets,Metoclopramide 10mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00154
+GAMB00155,"Metoclopramide 5mg/ml injection, 2ml","Metoclopramide 5mg/ml injection, 2ml",dispensingUnit:each,1,1,TRUE,1,GAMB00155
+GAMB00156,Promethazine 25mg tablets,Promethazine 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00156
+GAMB00157,Promethazine 5mg/5ml syrup,Promethazine 5mg/5ml syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00157
+GAMB00158,"Promethazine 25mg/ml injcetion, 1ml","Promethazine 25mg/ml injcetion, 1ml",dispensingUnit:each,1,1,TRUE,1,GAMB00158
+GAMB00159,Benzocian 2%/Butamben 2%/Tannic acid 10% (Antihaemorrhoidal) Ointment,Benzocian 2%/Butamben 2%/Tannic acid 10% (Antihaemorrhoidal) Ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00159
+GAMB00160,Bismuth subgallate 100mg/Zinc Oxide 100mg/Lignocian 60mg) suppositories,Bismuth subgallate 100mg/Zinc Oxide 100mg/Lignocian 60mg) suppositories,dispensingUnit:each,1,1,TRUE,1,GAMB00160
+GAMB00161,Atropine 0.5mg/ml injection,Atropine 0.5mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00161
+GAMB00162,HyoscineButylbromide 10mg tablets,HyoscineButylbromide 10mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00162
+GAMB00163,HyoscineButylbromide 10mg/ml injection,HyoscineButylbromide 10mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00163
+GAMB00164,Bisacodyl 5mg tablets,Bisacodyl 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00164
+GAMB00165,Lactulose 3.1/3.7g/ml,Lactulose 3.1/3.7g/ml,dispensingUnit:each,1,1,TRUE,1,GAMB00165
+GAMB00166,Oral Rehydration Salts (ORS),Oral Rehydration Salts (ORS),dispensingUnit:each,1,1,TRUE,1,GAMB00166
+GAMB00167,Zinc sulphate 10mg tabs,Zinc sulphate 10mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00167
+GAMB00168,Dexamethasone Sodium Phosphate 4mg/ml,Dexamethasone Sodium Phosphate 4mg/ml,dispensingUnit:each,1,1,TRUE,1,GAMB00168
+GAMB00169,Hydrocortisone Sodium Succinate 100mg powder for injection,Hydrocortisone Sodium Succinate 100mg powder for injection,dispensingUnit:each,1,1,TRUE,1,GAMB00169
+GAMB00170,Prednisolone 5mg tablets,Prednisolone 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00170
+GAMB00171,Glibenclamide 5mg tablets,Glibenclamide 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00171
+GAMB00172,Insulin MIXTARD 100IU/ML injection,Insulin MIXTARD 100IU/ML injection,dispensingUnit:each,1,1,TRUE,1,GAMB00172
+GAMB00173,Insulin SOLUBLE100iu/ml injection,Insulin SOLUBLE100iu/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00173
+GAMB00174,Metformin 500mg tablets,Metformin 500mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00174
+GAMB00175,Norethisterone 5mg tablets,Norethisterone 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00175
+GAMB00176,Carbimazole 5mg tablets,Carbimazole 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00176
+GAMB00177,Thyroxine 0.1mg tablets,Thyroxine 0.1mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00177
+GAMB00178,Lugols iodine,Lugols iodine,dispensingUnit:each,1,1,TRUE,1,GAMB00178
+GAMB00179,"Tuberculin, purified protein derivative","Tuberculin, purified protein derivative",dispensingUnit:each,1,1,TRUE,1,GAMB00179
+GAMB00180,Rabies Immunoglobulins 150iu/ml,Rabies Immunoglobulins 150iu/ml,dispensingUnit:each,1,1,TRUE,1,GAMB00180
+GAMB00181,"Anti tetanus immunoglobulin, human 500iu","Anti tetanus immunoglobulin, human 500iu",dispensingUnit:each,1,1,TRUE,1,GAMB00181
+GAMB00182,Anti D Immunoglobulin 250mcg,Anti D Immunoglobulin 250mcg,dispensingUnit:each,1,1,TRUE,1,GAMB00182
+GAMB00183,"Snake venom antiserum, Gambia","Snake venom antiserum, Gambia",dispensingUnit:each,1,1,TRUE,1,GAMB00183
+GAMB00184,Neostigmine 2.5mg/ml injection,Neostigmine 2.5mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00184
+GAMB00185,Pancuronium bromide 2mg/ml injection,Pancuronium bromide 2mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00185
+GAMB00186,Suxamethonium 50mg/ml injcetion,Suxamethonium 50mg/ml injcetion,dispensingUnit:each,1,1,TRUE,1,GAMB00186
+GAMB00187,Aciclovir 3% eye ointment,Aciclovir 3% eye ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00187
+GAMB00188,Aciclovir eye drops,Aciclovir eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00188
+GAMB00189,Chloramphenicol 0.5% /1.0% eye drops,Chloramphenicol 0.5% /1.0% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00189
+GAMB00190,Ciprofloxacin 0.3% eye drops,Ciprofloxacin 0.3% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00190
+GAMB00191,Gentamycin 0.3% Eye drops,Gentamycin 0.3% Eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00191
+GAMB00192,Gentamycin/Neomycin eye ointment 0.3%/0.5%Hyalase injection 1500IU,Gentamycin/Neomycin eye ointment 0.3%/0.5%Hyalase injection 1500IU,dispensingUnit:each,1,1,TRUE,1,GAMB00192
+GAMB00193,Idoxuridine 0.5% eye drops,Idoxuridine 0.5% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00193
+GAMB00194,Natamycin drops,Natamycin drops,dispensingUnit:each,1,1,TRUE,1,GAMB00194
+GAMB00195,Tetracycline 1% eye ointment,Tetracycline 1% eye ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00195
+GAMB00196,Dexamethazone 0.1% eye drops,Dexamethazone 0.1% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00196
+GAMB00197,Prednisolone 0.5% eye drops,Prednisolone 0.5% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00197
+GAMB00198,Sodium cromoglycate 2% eye drops,Sodium cromoglycate 2% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00198
+GAMB00199,Ethanol Absolute 99.5% injection,Ethanol Absolute 99.5% injection,dispensingUnit:each,1,1,TRUE,1,GAMB00199
+GAMB00200,Amethocaine (Tetracaine) 1% eye drops,Amethocaine (Tetracaine) 1% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00200
+GAMB00201,Acetazolamide 250mg tablets,Acetazolamide 250mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00201
+GAMB00202,Pilocarpine 2% /4%eye drops,Pilocarpine 2% /4%eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00202
+GAMB00203,Timolol 0.25% /0.5%eye drops,Timolol 0.25% /0.5%eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00203
+GAMB00204,Atropine 1% eye drops,Atropine 1% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00204
+GAMB00205,Cyclopentolate 1%/0.5% eye drops,Cyclopentolate 1%/0.5% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00205
+GAMB00206,Tropicamide 1% eye drops,Tropicamide 1% eye drops,dispensingUnit:each,1,1,TRUE,1,GAMB00206
+GAMB00207,Ergometrine 0.5mg /ml injection,Ergometrine 0.5mg /ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00207
+GAMB00208,Ergometrine 0.5mg TAB,Ergometrine 0.5mg TAB,dispensingUnit:each,1,1,TRUE,1,GAMB00208
+GAMB00209,Misoprostol 200mg tablets,Misoprostol 200mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00209
+GAMB00210,Oxytocin 10iu/ml,Oxytocin 10iu/ml,dispensingUnit:each,1,1,TRUE,1,GAMB00210
+GAMB00211,"Magnesium Sulphate 50% injection, vial","Magnesium Sulphate 50% injection, vial",dispensingUnit:each,1,1,TRUE,1,GAMB00211
+GAMB00212,Amitriptyline 25mg,Amitriptyline 25mg,dispensingUnit:each,1,1,TRUE,1,GAMB00212
+GAMB00213,Chlorpromazine 25mg/ml injection,Chlorpromazine 25mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00213
+GAMB00214,Chlorpromazine 25mg tablet,Chlorpromazine 25mg tablet,dispensingUnit:each,1,1,TRUE,1,GAMB00214
+GAMB00215,Chlorpromazine 100mg tablets,Chlorpromazine 100mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00215
+GAMB00216,Diazepam 5mg tablets,Diazepam 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00216
+GAMB00217,Diazepam inj. 5mg/ml,Diazepam inj. 5mg/ml,dispensingUnit:each,1,1,TRUE,1,GAMB00217
+GAMB00218,Fluphenazinedecanoate 25mg/ml injection,Fluphenazinedecanoate 25mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00218
+GAMB00219,Haloperidol 5mg /ml injection,Haloperidol 5mg /ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00219
+GAMB00220,Haloperidol 5mg tablets,Haloperidol 5mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00220
+GAMB00221,Imipramine 25mg tablets,Imipramine 25mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00221
+GAMB00222,Risperidone 2mg tabs,Risperidone 2mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00222
+GAMB00223,Thioridazine 5omg/100mg tab,Thioridazine 5omg/100mg tab,dispensingUnit:each,1,1,TRUE,1,GAMB00223
+GAMB00224,Trihexylphenidyl 2mg tablet,Trihexylphenidyl 2mg tablet,dispensingUnit:each,1,1,TRUE,1,GAMB00224
+GAMB00225,Adrenalne (Epinephrine) 1mg/ml injection,Adrenalne (Epinephrine) 1mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00225
+GAMB00226,Aminophylline 25mg/ml injection,Aminophylline 25mg/ml injection,dispensingUnit:each,1,1,TRUE,1,GAMB00226
+GAMB00227,Aminophylline 100mg tablets,Aminophylline 100mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00227
+GAMB00228,Beclomethasone 50mcg/dose inhaler,Beclomethasone 50mcg/dose inhaler,dispensingUnit:each,1,1,TRUE,1,GAMB00228
+GAMB00229,Ipratropium 250mcg/ml nebulizer,Ipratropium 250mcg/ml nebulizer,dispensingUnit:each,1,1,TRUE,1,GAMB00229
+GAMB00230,Salbutamol 4mg tablets,Salbutamol 4mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00230
+GAMB00231,Salbutamol 2mg tablets,Salbutamol 2mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00231
+GAMB00232,Salbutamol 2mg/5ml syrup,Salbutamol 2mg/5ml syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00232
+GAMB00233,Salbutamol 2mg/ml respiratory solution,Salbutamol 2mg/ml respiratory solution,dispensingUnit:each,1,1,TRUE,1,GAMB00233
+GAMB00234,Salbutamol 50mcg/ml inj,Salbutamol 50mcg/ml inj,dispensingUnit:each,1,1,TRUE,1,GAMB00234
+GAMB00235,Salbutamol 100mcg/dose inhaler,Salbutamol 100mcg/dose inhaler,dispensingUnit:each,1,1,TRUE,1,GAMB00235
+GAMB00236,Oral Rehydration Salts (ORS),Oral Rehydration Salts (ORS),dispensingUnit:each,1,1,TRUE,1,GAMB00236
+GAMB00237,Calcium Gluconate 10% injection,Calcium Gluconate 10% injection,dispensingUnit:each,1,1,TRUE,1,GAMB00237
+GAMB00238,Glucose (Dextrose) 50% Isotonic injection,Glucose (Dextrose) 50% Isotonic injection,dispensingUnit:each,1,1,TRUE,1,GAMB00238
+GAMB00239,Glucose (Dextrose) 5% hypertonic injection,Glucose (Dextrose) 5% hypertonic injection,dispensingUnit:each,1,1,TRUE,1,GAMB00239
+GAMB00240,Glucose 5% + Sodium Chloride 0.9% solution,Glucose 5% + Sodium Chloride 0.9% solution,dispensingUnit:each,1,1,TRUE,1,GAMB00240
+GAMB00241,Mannitol 10% /20% injection,Mannitol 10% /20% injection,dispensingUnit:each,1,1,TRUE,1,GAMB00241
+GAMB00242,Sodium Bicarbonate 8.4% injection,Sodium Bicarbonate 8.4% injection,dispensingUnit:each,1,1,TRUE,1,GAMB00242
+GAMB00243,Sodium Chloride 0.9% Intravenous solution,Sodium Chloride 0.9% Intravenous solution,dispensingUnit:each,1,1,TRUE,1,GAMB00243
+GAMB00244,Sodium Lactate Compound Intravenous solution,Sodium Lactate Compound Intravenous solution,dispensingUnit:each,1,1,TRUE,1,GAMB00244
+GAMB00245,Water for injection,Water for injection,dispensingUnit:each,1,1,TRUE,1,GAMB00245
+GAMB00246,Ring pessaries (for uterine prolapses),Ring pessaries (for uterine prolapses),dispensingUnit:each,1,1,TRUE,1,GAMB00246
+GAMB00247,Ascorbic Acid (Vitamin C) 500mg/100mg,Ascorbic Acid (Vitamin C) 500mg/100mg,dispensingUnit:each,1,1,TRUE,1,GAMB00247
+GAMB00248,Calcium Lactate 300mg tablets,Calcium Lactate 300mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00248
+GAMB00249,Multivitamin tablets,Multivitamin tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00249
+GAMB00250,Multivtamin syrup,Multivtamin syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00250
+GAMB00251,Phytomenadione 10mg/ml inj,Phytomenadione 10mg/ml inj,dispensingUnit:each,1,1,TRUE,1,GAMB00251
+GAMB00252,Pyridoxine 10mg/15mg tablets,Pyridoxine 10mg/15mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00252
+GAMB00253,"Retinol (Vitamin A ) 200,000 IU/6mg capsules","Retinol (Vitamin A ) 200,000 IU/6mg capsules",dispensingUnit:each,1,1,TRUE,1,GAMB00253
+GAMB00254,Thiamine 100mg tablets,Thiamine 100mg tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00254
+GAMB00255,Vitamin B Compound tablets,Vitamin B Compound tablets,dispensingUnit:each,1,1,TRUE,1,GAMB00255
+GAMB00256,Vitamin B compound Inj,Vitamin B compound Inj,dispensingUnit:each,1,1,TRUE,1,GAMB00256
+GAMB00257,Abacavir 50mg/5ml syrup,Abacavir 50mg/5ml syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00257
+GAMB00258,"Abacavir/Lamivudine/Zidovudine 60/30/60mg,300/150/300mg tabs","Abacavir/Lamivudine/Zidovudine 60/30/60mg,300/150/300mg tabs",dispensingUnit:each,1,1,TRUE,1,GAMB00258
+GAMB00259,Aciclovir 200mg tabs,Aciclovir 200mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00259
+GAMB00260,Aciclovir 5% cream,Aciclovir 5% cream,dispensingUnit:each,1,1,TRUE,1,GAMB00260
+GAMB00261,Aciclovir 250mg powder (as sodium salt)/vial,Aciclovir 250mg powder (as sodium salt)/vial,dispensingUnit:each,1,1,TRUE,1,GAMB00261
+GAMB00262,"Didanosine 200mg, 250mg tabs","Didanosine 200mg, 250mg tabs",dispensingUnit:each,1,1,TRUE,1,GAMB00262
+GAMB00263,"Efavirenz 200mg, 600mg tabs","Efavirenz 200mg, 600mg tabs",dispensingUnit:each,1,1,TRUE,1,GAMB00263
+GAMB00264,Lamivudine 50mg/5ml syrup,Lamivudine 50mg/5ml syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00264
+GAMB00265,Lamivudine 150mg tabs,Lamivudine 150mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00265
+GAMB00266,Lamivudine/Tenofovir 300/300mg(tab),Lamivudine/Tenofovir 300/300mg(tab),dispensingUnit:each,1,1,TRUE,1,GAMB00266
+GAMB00267,Lamivudine 150mg / Zidovudine 300mg tabs,Lamivudine 150mg / Zidovudine 300mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00267
+GAMB00268,Lamivudine/Stavudine/Nevirapine 30/6/50(tab),Lamivudine/Stavudine/Nevirapine 30/6/50(tab),dispensingUnit:each,1,1,TRUE,1,GAMB00268
+GAMB00269,"Lamivudine/Zidovudine/Nevirapine 30/60/50mg(tab),150/300/200mg tabs","Lamivudine/Zidovudine/Nevirapine 30/60/50mg(tab),150/300/200mg tabs",dispensingUnit:each,1,1,TRUE,1,GAMB00269
+GAMB00270,Nevirapine 50mg/ml,Nevirapine 50mg/ml,dispensingUnit:each,1,1,TRUE,1,GAMB00270
+GAMB00271,Nevirapine 200mg tabs,Nevirapine 200mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00271
+GAMB00272,Tenofovir 300mg tabs,Tenofovir 300mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00272
+GAMB00273,Stavudine 15mg tabs,Stavudine 15mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00273
+GAMB00274,Zidovudine 50mg/5ml syrup,Zidovudine 50mg/5ml syrup,dispensingUnit:each,1,1,TRUE,1,GAMB00274
+GAMB00275,Zidovudine 300mg tabs,Zidovudine 300mg tabs,dispensingUnit:each,1,1,TRUE,1,GAMB00275
+GAMB00276,Tamsulosin 400mcg capsule,Tamsulosin 400mcg capsule,dispensingUnit:each,1,1,TRUE,1,GAMB00276
+GAMB00277,Terazosin 2mg/5mg tablet,Terazosin 2mg/5mg tablet,dispensingUnit:each,1,1,TRUE,1,GAMB00277
+GAMB00278,Clomiphene citrate 50mg tab,Clomiphene citrate 50mg tab,dispensingUnit:each,1,1,TRUE,1,GAMB00278
+GAMB00279,Antihaemorrhoidal suppositories/ ointment,Antihaemorrhoidal suppositories/ ointment,dispensingUnit:each,1,1,TRUE,1,GAMB00279
+GAMB00280,Erythropoietin,Erythropoietin,dispensingUnit:each,1,1,TRUE,1,GAMB00280
+GAMB00281,Total Parental Nutrition,Total Parental Nutrition,dispensingUnit:each,1,1,TRUE,1,GAMB00281
+GAMB00282,Water for injection,Water for injection,dispensingUnit:each,1,1,TRUE,1,GAMB00282
+GAMB00283,Allupurinol 100mg/300mg,Allupurinol 100mg/300mg,dispensingUnit:each,1,1,TRUE,1,GAMB00283
+GAMB00284,Chloroquine 150mg base,Chloroquine 150mg base,dispensingUnit:each,1,1,TRUE,1,GAMB00284
+GAMB00285,Albumin 5%/20%,Albumin 5%/20%,dispensingUnit:each,1,1,TRUE,1,GAMB00285
+GAMB00286,Bromocriptine,Bromocriptine,dispensingUnit:each,1,1,TRUE,1,GAMB00286
+GAMB00287,Cabergolin,Cabergolin,dispensingUnit:each,1,1,TRUE,1,GAMB00287
+GAMB00288,"Lamivudine/Zidovudine 150/300mg, 60 tablets","Lamivudine/Zidovudine 150/300mg, 60 tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00288
+GAMB00289,"Dolutegravir 50mg, 30 tablets","Dolutegravir 50mg, 30 tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00289
+GAMB00290,"Dolutegravir 10mg, 30 tablets","Dolutegravir 10mg, 30 tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00290
+GAMB00291,"Dolutegravir/Lamivudine/Tenofovir 50/300/300mg, 30 tablets","Dolutegravir/Lamivudine/Tenofovir 50/300/300mg, 30 tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00291
+GAMB00292,"Abacavir/Lamivudine 120/60mg scored, 30 dispersible tablets","Abacavir/Lamivudine 120/60mg scored, 30 dispersible tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00292
+GAMB00293,"Lamivudine/Zidovudine 30/60mg, 60 dispersible tablets","Lamivudine/Zidovudine 30/60mg, 60 dispersible tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00293
+GAMB00294,"Lopinavir/Ritonavir 100/25mg, 60 tablets","Lopinavir/Ritonavir 100/25mg, 60 tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00294
+GAMB00295,Zidovudine 50mg/5ml Oral solution 240ml,Zidovudine 50mg/5ml Oral solution 240ml,dispensingUnit:each,1,1,TRUE,1,GAMB00295
+GAMB00296,Nevirapine 10mg/ml oral suspension 100ml,Nevirapine 10mg/ml oral suspension 100ml,dispensingUnit:each,1,1,TRUE,1,GAMB00296
+GAMB00297,"Atazanavir/Ritonavir 300/100mg, 30 tablets","Atazanavir/Ritonavir 300/100mg, 30 tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00297
+GAMB00298,"Atazanavir/Ritonavir 300/150mg, 30 tablets","Atazanavir/Ritonavir 300/150mg, 30 tablets",dispensingUnit:each,1,1,TRUE,1,GAMB00298
+GAMB00299,HIV 1/2-O - First Response HIV 1-2.0 v.3.0 Cards Kit - 30 tests,HIV 1/2-O - First Response HIV 1-2.0 v.3.0 Cards Kit - 30 tests,dispensingUnit:each,1,1,TRUE,1,GAMB00299
+GAMB00300,HIV 1/2 Ð MultiSure HIV Rapid Test Ð 20 tests,HIV 1/2 Ð MultiSure HIV Rapid Test Ð 20 tests,dispensingUnit:each,1,1,TRUE,1,GAMB00300
+GAMB00301,ALERE DETERMINEª HIV-1/HIV-2 RAPID TEST Complete HIV Kit - 100 tests,ALERE DETERMINEª HIV-1/HIV-2 RAPID TEST Complete HIV Kit - 100 tests,dispensingUnit:each,1,1,TRUE,1,GAMB00301
+GAMB00302,SD Bioline HIV/Syphilis Duo Test Kit -(25 test/kit),SD Bioline HIV/Syphilis Duo Test Kit -(25 test/kit),dispensingUnit:each,1,1,TRUE,1,GAMB00302
+GAMB00303,Abbott 96 Deep well Plates,Abbott 96 Deep well Plates,dispensingUnit:each,1,1,TRUE,1,GAMB00303
+GAMB00304,Abbott 96 well Optical Reaction Plates,Abbott 96 well Optical Reaction Plates,dispensingUnit:each,1,1,TRUE,1,GAMB00304
+GAMB00305,Abbott 96 well Optical Adhesive Covers 1 x 100pcs,Abbott 96 well Optical Adhesive Covers 1 x 100pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00305
+GAMB00306,"Abbott RealTime HIV Amplification reagent kit ,96 pcs","Abbott RealTime HIV Amplification reagent kit ,96 pcs",dispensingUnit:each,1,1,TRUE,1,GAMB00306
+GAMB00307,Abbott RealTime HIV Calibrator kit,Abbott RealTime HIV Calibrator kit,dispensingUnit:each,1,1,TRUE,1,GAMB00307
+GAMB00308,Abbott RealTime HIV Control kit,Abbott RealTime HIV Control kit,dispensingUnit:each,1,1,TRUE,1,GAMB00308
+GAMB00309,Abbott RealTime HIV Qual. Control kit,Abbott RealTime HIV Qual. Control kit,dispensingUnit:each,1,1,TRUE,1,GAMB00309
+GAMB00310,Abbott RealTime HIV Qualitative Amplification reagent kits,Abbott RealTime HIV Qualitative Amplification reagent kits,dispensingUnit:each,1,1,TRUE,1,GAMB00310
+GAMB00311,"Abbott Sample Preparation Reagents system bulk lysis buffer,3X70ml","Abbott Sample Preparation Reagents system bulk lysis buffer,3X70ml",dispensingUnit:each,1,1,TRUE,1,GAMB00311
+GAMB00312,Absolute Ethanol 1L,Absolute Ethanol 1L,dispensingUnit:each,1,1,TRUE,1,GAMB00312
+GAMB00313,BD FACSClean (5L),BD FACSClean (5L),dispensingUnit:each,1,1,TRUE,1,GAMB00313
+GAMB00314,BD FACSRinse (5L),BD FACSRinse (5L),dispensingUnit:each,1,1,TRUE,1,GAMB00314
+GAMB00315,Blue paper towel Roll 1 x 24 pcs,Blue paper towel Roll 1 x 24 pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00315
+GAMB00316,Consumables for dialysis,Consumables for dialysis,dispensingUnit:each,1,1,TRUE,1,GAMB00316
+GAMB00317,Consumables for lab,Consumables for lab,dispensingUnit:each,1,1,TRUE,1,GAMB00317
+GAMB00318,"Cryo tubes 2 mls ,1000pcs","Cryo tubes 2 mls ,1000pcs",dispensingUnit:each,1,1,TRUE,1,GAMB00318
+GAMB00319,100 well Cryovial box,100 well Cryovial box,dispensingUnit:each,1,1,TRUE,1,GAMB00319
+GAMB00320,DBS filter papers (Whatman 903TM- five half-inch circles) x 100,DBS filter papers (Whatman 903TM- five half-inch circles) x 100,dispensingUnit:each,1,1,TRUE,1,GAMB00320
+GAMB00321,BD Vacutainer EDTA 4ml Blood Collection Tube -1000pcs,BD Vacutainer EDTA 4ml Blood Collection Tube -1000pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00321
+GAMB00322,Examination gloves latex (right and left) small,Examination gloves latex (right and left) small,dispensingUnit:each,1,1,TRUE,1,GAMB00322
+GAMB00323,Examination gloves latex (right and left) medium,Examination gloves latex (right and left) medium,dispensingUnit:each,1,1,TRUE,1,GAMB00323
+GAMB00324,Examination gloves latex (right and left) large,Examination gloves latex (right and left) large,dispensingUnit:each,1,1,TRUE,1,GAMB00324
+GAMB00325,FACSCount Controls (25 tests),FACSCount Controls (25 tests),dispensingUnit:each,1,1,TRUE,1,GAMB00325
+GAMB00326,FACSCount Reagents (50 tests),FACSCount Reagents (50 tests),dispensingUnit:each,1,1,TRUE,1,GAMB00326
+GAMB00327,FACSFlow 20l,FACSFlow 20l,dispensingUnit:each,1,1,TRUE,1,GAMB00327
+GAMB00328,HB301 microcurvette,HB301 microcurvette,dispensingUnit:each,1,1,TRUE,1,GAMB00328
+GAMB00329,Hemocue HB301 Analyzer g/dl,Hemocue HB301 Analyzer g/dl,dispensingUnit:each,1,1,TRUE,1,GAMB00329
+GAMB00330,m2000sp 1000ul Pipette Tip,m2000sp 1000ul Pipette Tip,dispensingUnit:each,1,1,TRUE,1,GAMB00330
+GAMB00331,m2000sp 200mL Reagent Vessel,m2000sp 200mL Reagent Vessel,dispensingUnit:each,1,1,TRUE,1,GAMB00331
+GAMB00332,m2000sp 200ul Pipette Tip,m2000sp 200ul Pipette Tip,dispensingUnit:each,1,1,TRUE,1,GAMB00332
+GAMB00333,m2000sp 96 Deep Well Plate 1 x 32pcs,m2000sp 96 Deep Well Plate 1 x 32pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00333
+GAMB00334,"m2000sp Reaction Vessels , 4 x 500 pcs","m2000sp Reaction Vessels , 4 x 500 pcs",dispensingUnit:each,1,1,TRUE,1,GAMB00334
+GAMB00335,m2000sp Biohazard bag 1 x 50pcs,m2000sp Biohazard bag 1 x 50pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00335
+GAMB00336,"m2000sp tube master mix with caps ,25pcs","m2000sp tube master mix with caps ,25pcs",dispensingUnit:each,1,1,TRUE,1,GAMB00336
+GAMB00337,Medonic control (blood) tri-level 16 parameters,Medonic control (blood) tri-level 16 parameters,dispensingUnit:each,1,1,TRUE,1,GAMB00337
+GAMB00338,Medonic M-series diluent reagent,Medonic M-series diluent reagent,dispensingUnit:each,1,1,TRUE,1,GAMB00338
+GAMB00339,Medonic M-series lysing reagent,Medonic M-series lysing reagent,dispensingUnit:each,1,1,TRUE,1,GAMB00339
+GAMB00340,Abbott mSample Preparation system RNA kit (4x24),Abbott mSample Preparation system RNA kit (4x24),dispensingUnit:each,1,1,TRUE,1,GAMB00340
+GAMB00341,Abbott mSample Preparation system DNA kit (4x24),Abbott mSample Preparation system DNA kit (4x24),dispensingUnit:each,1,1,TRUE,1,GAMB00341
+GAMB00342,Optical calibration kits 1x 10pcs,Optical calibration kits 1x 10pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00342
+GAMB00343,Pima Cartridge kit,Pima Cartridge kit,dispensingUnit:each,1,1,TRUE,1,GAMB00343
+GAMB00344,Pippets Yellow tips 200ul-1000 pcs,Pippets Yellow tips 200ul-1000 pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00344
+GAMB00345,Pippets Yellow tips 20ul-1000 pcs,Pippets Yellow tips 20ul-1000 pcs,dispensingUnit:each,1,1,TRUE,1,GAMB00345
+GAMB00346,FASCount Thermal printer roll (10 roll),FASCount Thermal printer roll (10 roll),dispensingUnit:each,1,1,TRUE,1,GAMB00346
+GAMB00347,Screening Test- reference lab -Murex HIV ELISA Ag/Ab combination,Screening Test- reference lab -Murex HIV ELISA Ag/Ab combination,dispensingUnit:each,1,1,TRUE,1,GAMB00347
+GAMB00348,Supply Kits for PHC,Supply Kits for PHC,dispensingUnit:each,1,1,TRUE,1,GAMB00348
+GAMB00349,"Urine Container, Universal","Urine Container, Universal",dispensingUnit:each,1,1,TRUE,1,GAMB00349
+GAMB00350,"Urine Test Strips, 3 Parameters, Bottles/100 Tests (Bottle)","Urine Test Strips, 3 Parameters, Bottles/100 Tests (Bottle)",dispensingUnit:each,1,1,TRUE,1,GAMB00350
+GAMB00351,"Urine Test Strips, 10 Parameters, Bottles/100 Tests (Bottle)","Urine Test Strips, 10 Parameters, Bottles/100 Tests (Bottle)",dispensingUnit:each,1,1,TRUE,1,GAMB00351
+GAMB00352,Xpert Cartridge -EID,Xpert Cartridge -EID,dispensingUnit:each,1,1,TRUE,1,GAMB00352
+GAMB00353,Xpert Cartridge-VL,Xpert Cartridge-VL,dispensingUnit:each,1,1,TRUE,1,GAMB00353
+GAMB00354,Sulphuric Acid,Sulphuric Acid,dispensingUnit:each,1,1,TRUE,1,GAMB00354
+GAMB00355,"Single Channel Pipette P10, 100, P200, P1000","Single Channel Pipette P10, 100, P200, P1000",dispensingUnit:each,1,1,TRUE,1,GAMB00355
+GAMB00356,Multi Channel Pipette,Multi Channel Pipette,dispensingUnit:each,1,1,TRUE,1,GAMB00356
+GAMB00357,Pipette Holder,Pipette Holder,dispensingUnit:each,1,1,TRUE,1,GAMB00357
+GAMB00358,ELISA Plate reader,ELISA Plate reader,dispensingUnit:each,1,1,TRUE,1,GAMB00358
+GAMB00359,ELISA palte Washer,ELISA palte Washer,dispensingUnit:each,1,1,TRUE,1,GAMB00359
+GAMB00360,Centrifuge,Centrifuge,dispensingUnit:each,1,1,TRUE,1,GAMB00360
+GAMB00361,Incubator,Incubator,dispensingUnit:each,1,1,TRUE,1,GAMB00361
+GAMB00362,Needle and Syringe,Needle and Syringe,dispensingUnit:each,1,1,TRUE,1,GAMB00362
+GAMB00363,Sharp boxes,Sharp boxes,dispensingUnit:each,1,1,TRUE,1,GAMB00363
+GAMB00364,Isoniazid/Rifampicin 75/150mg 24x28 tablets (672),Isoniazid/Rifampicin 75/150mg 24x28 tablets (672),dispensingUnit:each,1,1,TRUE,1,GAMB00364
+GAMB00365,Isoniazid/Pyrazinamide/Rifampicin 50/150/75mg dispersible tablets 3x28 (84),Isoniazid/Pyrazinamide/Rifampicin 50/150/75mg dispersible tablets 3x28 (84),dispensingUnit:each,1,1,TRUE,1,GAMB00365
+GAMB00366,Ethambutol/Isoniazid/Pyrazinamide/Rifampicin 275/75/400/150mg tablets 24x28 (672),Ethambutol/Isoniazid/Pyrazinamide/Rifampicin 275/75/400/150mg tablets 24x28 (672),dispensingUnit:each,1,1,TRUE,1,GAMB00366
+GAMB00367,Isoniazid/Rifampicin 50/75mg dispersible tablets 3x28 (84),Isoniazid/Rifampicin 50/75mg dispersible tablets 3x28 (84),dispensingUnit:each,1,1,TRUE,1,GAMB00367
+GAMB00368,Ethambutol 100mg 10 tablet dispersible 10 blister (100),Ethambutol 100mg 10 tablet dispersible 10 blister (100),dispensingUnit:each,1,1,TRUE,1,GAMB00368
+GAMB00369,Ethambutol 400mg tablets 24x28 (672),Ethambutol 400mg tablets 24x28 (672),dispensingUnit:each,1,1,TRUE,1,GAMB00369
+GAMB00370,Clofazimine 100mg tablet (100),Clofazimine 100mg tablet (100),dispensingUnit:each,1,1,TRUE,1,GAMB00370
+GAMB00371,Bedaquiline 100mg tablet (188),Bedaquiline 100mg tablet (188),dispensingUnit:each,1,1,TRUE,1,GAMB00371
+GAMB00372,Pyrazinamide 500mg tablets 24x28 (672),Pyrazinamide 500mg tablets 24x28 (672),dispensingUnit:each,1,1,TRUE,1,GAMB00372
+GAMB00373,Ethionamide 250mg 10 tablet 10 blister (100),Ethionamide 250mg 10 tablet 10 blister (100),dispensingUnit:each,1,1,TRUE,1,GAMB00373
+GAMB00374,Isoniazid 300mg 28 tablet 24 blister (672),Isoniazid 300mg 28 tablet 24 blister (672),dispensingUnit:each,1,1,TRUE,1,GAMB00374
+GAMB00375,Moxifloxacin 400mg 10 tablet 10 blister (100),Moxifloxacin 400mg 10 tablet 10 blister (100),dispensingUnit:each,1,1,TRUE,1,GAMB00375
+GAMB00376,Isoniazid 100mg 10 tablet 10 blister (100),Isoniazid 100mg 10 tablet 10 blister (100),dispensingUnit:each,1,1,TRUE,1,GAMB00376
+GAMB00377,Vitamin B-6 (pyridoxine as hydrochloride) 50 mg tablet (50),Vitamin B-6 (pyridoxine as hydrochloride) 50 mg tablet (50),dispensingUnit:each,1,1,TRUE,1,GAMB00377
+GAMB00378,Vitamin B-6 (pyridoxine as hydrochloride) 25mg tablet (100),Vitamin B-6 (pyridoxine as hydrochloride) 25mg tablet (100),dispensingUnit:each,1,1,TRUE,1,GAMB00378
+GAMB00379,Absorbent Lab paper,Absorbent Lab paper,dispensingUnit:each,1,1,TRUE,1,GAMB00379
+GAMB00380,BACTEC MGIT 960 PZA KIT,BACTEC MGIT 960 PZA KIT,dispensingUnit:each,1,1,TRUE,1,GAMB00380
+GAMB00381,BACTEC MGIT 960 PZA TUBE,BACTEC MGIT 960 PZA TUBE,dispensingUnit:each,1,1,TRUE,1,GAMB00381
+GAMB00382,BACTEC MGIT 960 SIRE KIT,BACTEC MGIT 960 SIRE KIT,dispensingUnit:each,1,1,TRUE,1,GAMB00382
+GAMB00383,"BACTEC MGIT Growth Supplement Kit, (come together with Panta)","BACTEC MGIT Growth Supplement Kit, (come together with Panta)",dispensingUnit:each,1,1,TRUE,1,GAMB00383
+GAMB00384,BACTEC MIGIT 960 control vials,BACTEC MIGIT 960 control vials,dispensingUnit:each,1,1,TRUE,1,GAMB00384
+GAMB00385,BB BACTEC MIGIT960 Ethambutol 7.5 kit,BB BACTEC MIGIT960 Ethambutol 7.5 kit,dispensingUnit:each,1,1,TRUE,1,GAMB00385
+GAMB00386,BBL MGIT Tubes for use in BACTEC MGIT 960 System (7ml),BBL MGIT Tubes for use in BACTEC MGIT 960 System (7ml),dispensingUnit:each,1,1,TRUE,1,GAMB00386
+GAMB00387,"BBL¨ MGITª OADC, 15 ml carton of 6 vials enrichment","BBL¨ MGITª OADC, 15 ml carton of 6 vials enrichment",dispensingUnit:each,1,1,TRUE,1,GAMB00387
+GAMB00388,BD DACTEC MIGIT 960 Isoniazid 4.0 kit,BD DACTEC MIGIT 960 Isoniazid 4.0 kit,dispensingUnit:each,1,1,TRUE,1,GAMB00388
+GAMB00389,Biohazard bags,Biohazard bags,dispensingUnit:each,1,1,TRUE,1,GAMB00389
+GAMB00390,Blood Agar Base 500g,Blood Agar Base 500g,dispensingUnit:each,1,1,TRUE,1,GAMB00390
+GAMB00391,Cetylperidium chloride,Cetylperidium chloride,dispensingUnit:each,1,1,TRUE,1,GAMB00391
+GAMB00392,Combitips 12.5ml,Combitips 12.5ml,dispensingUnit:each,1,1,TRUE,1,GAMB00392
+GAMB00393,Combitips 5ml,Combitips 5ml,dispensingUnit:each,1,1,TRUE,1,GAMB00393

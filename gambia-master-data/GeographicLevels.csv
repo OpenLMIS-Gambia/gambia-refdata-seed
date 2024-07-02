@@ -1,0 +1,4 @@
+code, name, levelNumber
+CNT,Country,1
+RGN,Region,2
+DST,District,3

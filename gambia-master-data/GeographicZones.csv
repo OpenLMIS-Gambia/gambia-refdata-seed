@@ -1,0 +1,50 @@
+code, name, level, parent
+GMB,Gambia,CNT,
+CRR,Central River Region,RGN,GMB
+URR,Upper River Region,RGN,GMB
+LRR,Lower River Region,RGN,GMB
+NBWR,North Bank West Region,RGN,GMB
+NBER,North Bank East Region,RGN,GMB
+WHR1,Western Cost Region 1,RGN,GMB
+WHR2,Western Cost Region 2,RGN,GMB
+JAB,Janjan Bureh,DST,CRR
+LFW,Lower Fulladou West,DST,CRR
+LOS,Lower Saloum,DST,CRR
+NIE,Niamina East,DST,CRR
+NIW,Niamina West,DST,CRR
+NIA,Niani,DST,CRR
+NIAJ,Nianija,DST,CRR
+SAM,Sami,DST,CRR
+UPS,Upper Fulladou West,DST,CRR
+UPS,Upper Saloum,DST,CRR
+JAC,Jarra Central,DST,LRR
+JAE,Jarra East,DST,LRR
+JAW,Jarra West,DST,LRR
+KIC,Kiang Central,DST,LRR
+KIE,Kiang East,DST,LRR
+KIW,Kiang West,DST,LRR
+LON,Lower Niumi,DST,NBWR
+JKD,Jokadu,DST,NBWR
+UPN,Upper Niumi,DST,NBWR
+CEB,Central Badibu,DST,NBER
+SAS,Sabach Sanjal,DST,NBER
+LOB,Lower Badibu,DST,NBER
+UPB,Upper Badibu,DST,NBER
+BAS,Basse,DST,URR
+JMR,Jimara,DST,URR
+KTR,Kantora,DST,URR
+SND,Sandu,DST,URR
+TMN,Tumana,DST,URR
+WUE,Wuli East,DST,URR
+WUW,Wuli West,DST,URR
+BAC,Banjul City,DST,WHR1
+KAM,Kanifing Municipal,DST,WHR1
+KON,Kombo North,DST,WHR1
+FBK,Foni Bintang Karanai,DST,WHR2
+FOB,Foni Bondali,DST,WHR2
+FOBR,Foni Brefet,DST,WHR2
+FOJ,Foni Jarrol,DST,WHR2
+FOK,Foni Kansala,DST,WHR2
+KOC,Kombo Central,DST,WHR2
+KOE,Kombo East,DST,WHR2
+KOS,Kombo South,DST,WHR2

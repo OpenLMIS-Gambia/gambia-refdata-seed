@@ -1,0 +1,193 @@
+program,facilityType,reason,hidden
+HIV,HSP,"Received, not documented (+)",false
+TB,HSP,"Received, not documented (+)",false
+MLA,HSP,"Received, not documented (+)",false
+RMNCAH,HSP,"Received, not documented (+)",false
+EM,HSP,"Received, not documented (+)",false
+LC,HSP,"Received, not documented (+)",false
+HIV,HSP,"Issued, not supplied (+)",false
+TB,HSP,"Issued, not supplied (+)",false
+MLA,HSP,"Issued, not supplied (+)",false
+RMNCAH,HSP,"Issued, not supplied (+)",false
+EM,HSP,"Issued, not supplied (+)",false
+LC,HSP,"Issued, not supplied (+)",false
+HIV,HSP,"Supplied, not documented (-)",false
+TB,HSP,"Supplied, not documented (-)",false
+MLA,HSP,"Supplied, not documented (-)",false
+RMNCAH,HSP,"Supplied, not documented (-)",false
+EM,HSP,"Supplied, not documented (-)",false
+LC,HSP,"Supplied, not documented (-)",false
+HIV,HSP,"Broken (-)",false
+TB,HSP,"Broken (-)",false
+MLA,HSP,"Broken (-)",false
+RMNCAH,HSP,"Broken (-)",false
+EM,HSP,"Broken (-)",false
+LC,HSP,"Broken (-)",false
+HIV,HSP,"Missing Labels (-)",false
+TB,HSP,"Missing Labels (-)",false
+MLA,HSP,"Missing Labels (-)",false
+RMNCAH,HSP,"Missing Labels (-)",false
+EM,HSP,"Missing Labels (-)",false
+LC,HSP,"Missing Labels (-)",false
+HIV,HSP,"Incoming Supply (+)",false
+TB,HSP,"Incoming Supply (+)",false
+MLA,HSP,"Incoming Supply (+)",false
+RMNCAH,HSP,"Incoming Supply (+)",false
+EM,HSP,"Incoming Supply (+)",false
+LC,HSP,"Incoming Supply (+)",false
+HIV,HSP,"Transfer (+)",false
+TB,HSP,"Transfer (+)",false
+MLA,HSP,"Transfer (+)",false
+RMNCAH,HSP,"Transfer (+)",false
+EM,HSP,"Transfer (+)",false
+LC,HSP,"Transfer (+)",false
+HIV,HSP,"Return (+)",false
+TB,HSP,"Return (+)",false
+MLA,HSP,"Return (+)",false
+RMNCAH,HSP,"Return (+)",false
+EM,HSP,"Return (+)",false
+LC,HSP,"Return (+)",false
+HIV,HCC,"Received, not documented (+)",false
+TB,HCC,"Received, not documented (+)",false
+MLA,HCC,"Received, not documented (+)",false
+RMNCAH,HCC,"Received, not documented (+)",false
+EM,HCC,"Received, not documented (+)",false
+LC,HCC,"Received, not documented (+)",false
+HIV,HCC,"Issued, not supplied (+)",false
+TB,HCC,"Issued, not supplied (+)",false
+MLA,HCC,"Issued, not supplied (+)",false
+RMNCAH,HCC,"Issued, not supplied (+)",false
+EM,HCC,"Issued, not supplied (+)",false
+LC,HCC,"Issued, not supplied (+)",false
+HIV,HCC,"Supplied, not documented (-)",false
+TB,HCC,"Supplied, not documented (-)",false
+MLA,HCC,"Supplied, not documented (-)",false
+RMNCAH,HCC,"Supplied, not documented (-)",false
+EM,HCC,"Supplied, not documented (-)",false
+LC,HCC,"Supplied, not documented (-)",false
+HIV,HCC,"Broken (-)",false
+TB,HCC,"Broken (-)",false
+MLA,HCC,"Broken (-)",false
+RMNCAH,HCC,"Broken (-)",false
+EM,HCC,"Broken (-)",false
+LC,HCC,"Broken (-)",false
+HIV,HCC,"Missing Labels (-)",false
+TB,HCC,"Missing Labels (-)",false
+MLA,HCC,"Missing Labels (-)",false
+RMNCAH,HCC,"Missing Labels (-)",false
+EM,HCC,"Missing Labels (-)",false
+LC,HCC,"Missing Labels (-)",false
+HIV,HCC,"Incoming Supply (+)",false
+TB,HCC,"Incoming Supply (+)",false
+MLA,HCC,"Incoming Supply (+)",false
+RMNCAH,HCC,"Incoming Supply (+)",false
+EM,HCC,"Incoming Supply (+)",false
+LC,HCC,"Incoming Supply (+)",false
+HIV,HCC,"Transfer (+)",false
+TB,HCC,"Transfer (+)",false
+MLA,HCC,"Transfer (+)",false
+RMNCAH,HCC,"Transfer (+)",false
+EM,HCC,"Transfer (+)",false
+LC,HCC,"Transfer (+)",false
+HIV,HCC,"Return (+)",false
+TB,HCC,"Return (+)",false
+MLA,HCC,"Return (+)",false
+RMNCAH,HCC,"Return (+)",false
+EM,HCC,"Return (+)",false
+LC,HCC,"Return (+)",false
+HIV,RMS,"Received, not documented (+)",false
+TB,RMS,"Received, not documented (+)",false
+MLA,RMS,"Received, not documented (+)",false
+RMNCAH,RMS,"Received, not documented (+)",false
+EM,RMS,"Received, not documented (+)",false
+LC,RMS,"Received, not documented (+)",false
+HIV,RMS,"Issued, not supplied (+)",false
+TB,RMS,"Issued, not supplied (+)",false
+MLA,RMS,"Issued, not supplied (+)",false
+RMNCAH,RMS,"Issued, not supplied (+)",false
+EM,RMS,"Issued, not supplied (+)",false
+LC,RMS,"Issued, not supplied (+)",false
+HIV,RMS,"Supplied, not documented (-)",false
+TB,RMS,"Supplied, not documented (-)",false
+MLA,RMS,"Supplied, not documented (-)",false
+RMNCAH,RMS,"Supplied, not documented (-)",false
+EM,RMS,"Supplied, not documented (-)",false
+LC,RMS,"Supplied, not documented (-)",false
+HIV,RMS,"Broken (-)",false
+TB,RMS,"Broken (-)",false
+MLA,RMS,"Broken (-)",false
+RMNCAH,RMS,"Broken (-)",false
+EM,RMS,"Broken (-)",false
+LC,RMS,"Broken (-)",false
+HIV,RMS,"Missing Labels (-)",false
+TB,RMS,"Missing Labels (-)",false
+MLA,RMS,"Missing Labels (-)",false
+RMNCAH,RMS,"Missing Labels (-)",false
+EM,RMS,"Missing Labels (-)",false
+LC,RMS,"Missing Labels (-)",false
+HIV,RMS,"Incoming Supply (+)",false
+TB,RMS,"Incoming Supply (+)",false
+MLA,RMS,"Incoming Supply (+)",false
+RMNCAH,RMS,"Incoming Supply (+)",false
+EM,RMS,"Incoming Supply (+)",false
+LC,RMS,"Incoming Supply (+)",false
+HIV,RMS,"Transfer (+)",false
+TB,RMS,"Transfer (+)",false
+MLA,RMS,"Transfer (+)",false
+RMNCAH,RMS,"Transfer (+)",false
+EM,RMS,"Transfer (+)",false
+LC,RMS,"Transfer (+)",false
+HIV,RMS,"Return (+)",false
+TB,RMS,"Return (+)",false
+MLA,RMS,"Return (+)",false
+RMNCAH,RMS,"Return (+)",false
+EM,RMS,"Return (+)",false
+LC,RMS,"Return (+)",false
+HIV,CMS,"Received, not documented (+)",false
+TB,CMS,"Received, not documented (+)",false
+MLA,CMS,"Received, not documented (+)",false
+RMNCAH,CMS,"Received, not documented (+)",false
+EM,CMS,"Received, not documented (+)",false
+LC,CMS,"Received, not documented (+)",false
+HIV,CMS,"Issued, not supplied (+)",false
+TB,CMS,"Issued, not supplied (+)",false
+MLA,CMS,"Issued, not supplied (+)",false
+RMNCAH,CMS,"Issued, not supplied (+)",false
+EM,CMS,"Issued, not supplied (+)",false
+LC,CMS,"Issued, not supplied (+)",false
+HIV,CMS,"Supplied, not documented (-)",false
+TB,CMS,"Supplied, not documented (-)",false
+MLA,CMS,"Supplied, not documented (-)",false
+RMNCAH,CMS,"Supplied, not documented (-)",false
+EM,CMS,"Supplied, not documented (-)",false
+LC,CMS,"Supplied, not documented (-)",false
+HIV,CMS,"Broken (-)",false
+TB,CMS,"Broken (-)",false
+MLA,CMS,"Broken (-)",false
+RMNCAH,CMS,"Broken (-)",false
+EM,CMS,"Broken (-)",false
+LC,CMS,"Broken (-)",false
+HIV,CMS,"Missing Labels (-)",false
+TB,CMS,"Missing Labels (-)",false
+MLA,CMS,"Missing Labels (-)",false
+RMNCAH,CMS,"Missing Labels (-)",false
+EM,CMS,"Missing Labels (-)",false
+LC,CMS,"Missing Labels (-)",false
+HIV,CMS,"Incoming Supply (+)",false
+TB,CMS,"Incoming Supply (+)",false
+MLA,CMS,"Incoming Supply (+)",false
+RMNCAH,CMS,"Incoming Supply (+)",false
+EM,CMS,"Incoming Supply (+)",false
+LC,CMS,"Incoming Supply (+)",false
+HIV,CMS,"Transfer (+)",false
+TB,CMS,"Transfer (+)",false
+MLA,CMS,"Transfer (+)",false
+RMNCAH,CMS,"Transfer (+)",false
+EM,CMS,"Transfer (+)",false
+LC,CMS,"Transfer (+)",false
+HIV,CMS,"Return (+)",false
+TB,CMS,"Return (+)",false
+MLA,CMS,"Return (+)",false
+RMNCAH,CMS,"Return (+)",false
+EM,CMS,"Return (+)",false
+LC,CMS,"Return (+)",false

@@ -1,0 +1,2 @@
+code,name,description,active,periodSkippable, showNonFullSupplyTab,enableDatePhysicalStockCountCompleted,skipAuthorization
+HIV,HIV (NAS) Progamme,National Aids Secretariate,TRUE,FALSE,FALSE,FALSE,TRUE

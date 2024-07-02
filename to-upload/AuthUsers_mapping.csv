@@ -1,0 +1,7 @@
+from,to,type,entityName,defaultValue
+username,referenceDataUserId,TO_ID_BY_USERNAME,User,
+username,username,DIRECT,,
+,password,USE_DEFAULT,,4g2SH~c^p7LrT-[&
+role,role,DIRECT,,
+enabled,enabled,DIRECT,,
+email,email,DIRECT,,
